@@ -11,7 +11,7 @@
 #                 /var/log/updateUnboundRootHints.cron.log --> logfile cron job
 #
 # Installation:   1. Script downloaden:
-#                    wget https://github.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh
+#                    wget https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh
 #                 2. Script mittels sudo chmod +x updateUnboundRootHints.sh ausführbar machen.
 #
 # Installation:   1. Script mittels sudo cp updateUnboundRootHints.sh /root nach /root kopieren.
