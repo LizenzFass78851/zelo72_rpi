@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: updatePihole.sh - https://github.com/RPiList/specials (/dev/)
+# Script: updatePihole.sh - https://github.com/Zelo72/rpi (/pihole/)
 #
 # Beschreibung: Das Script aktualisiert bei jedem Lauf die Pi-hole Gravity (gravity.list) auf Basis der in Pi-hole
 #               konfigurierten Blocklisten (adlists.list). Zusaetzlich werden, wenn das Script an einem Sonntag ausgefuehrt
@@ -8,31 +8,31 @@
 #               Bei Bedarf wird ein Gravity-Update Bericht als Mail versendet. Dieser beinhaltet neben einem Pi-Hole
 #               Gesundheitstatus auch die Statistik für das Pi-Hole und Gravity Update.
 #
-# Aufruf:       sudo ./updatePihole.sh rootoma@senioren.xy <-- mit Mailversand
-#               sudo ./updatePihole.sh                     <-- ohne Mailversand
+# Aufruf:       sudo ./updatePihole.sh name@domain.xy <-- mit Mailversand
+#               sudo ./updatePihole.sh                <-- ohne Mailversand
 #
-# Ausgabedateien: /var/log/svpihole/Ymd_updatePihole.sh.log   --> taegliches Logfile
-#                 /var/log/svpihole/updatePihole.stats.log    --> Pi-hole Gravity Update Bericht/Statistik
-#                 /var/var/log/svpihole/updatePihole.cron.log --> Logifile des Cron-Jobs
+# Ausgabedateien: /var/log/pihole/Ymd_updatePihole.sh.log   --> taegliches Logfile
+#                 /var/log/pihole/updatePihole.stats.log    --> Pi-hole Gravity Update Bericht/Statistik
+#                 /var/var/log/pihole/updatePihole.cron.log --> Logifile des Cron-Jobs
 #
 # Installation:   1. Script downloaden:
-#                    wget https://raw.githubusercontent.com/RPiList/specials/master/dev/updatePihole.sh
+#                    wget https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/updatePihole.sh
 #                 2. Script mittels sudo chmod +x updatePihole.sh ausführbar machen.
 #
 # Installation:   1. Script mittels sudo cp updatePihole.sh /root nach /root kopieren.
 # (als Cron-Job)  2. Script mittels sudo chmod +x /root/updatePihole.sh ausfuehrbar machen.
 #                 3. Cron-Job mit sudo crontab -e erstellen
 #                    Am Ende der Datei z.B. folgendes einfuegen um das Script taeglich um 03:00 Uhr zu starten
-#                    und eine Mail mit dem Gravity Update Bericht an "rootoma" zu schicken:
+#                    und eine Mail mit dem Gravity Update Bericht an "name@domain.xy" zu schicken:
 #
-#                      0 3 * * * /root/updatePihole.sh rootoma@senioren.xy > /var/log/svpihole/updatePihole.cron.log
+#                      0 3 * * * /root/updatePihole.sh name@domain.xy > /var/log/pihole/updatePihole.cron.log
 #
 #                  4. Datei speichern und schliessen. (im nano Editor: Strg+o/Enter/Strg+x).
 #
 #                  -------
 #                 :HINWEIS: Damit der Mailversand funktioniert, muss msmtp und mailutils installiert und konfiguriert
 #                  -------  sein. Eine Anleitung dazu ist hier zu finden:
-#                                 https://github.com/RPiList/specials/blob/master/dev/EinrichtungMailversand.md
+#                                 https://github.com/Zelo72/rpi/blob/master/tutorials/Mailversand-RPi-einrichten.md
 #
 # Versionshistorie:
 # Version 1.0.0 - [Zelo72]          - initiale Version
@@ -70,7 +70,7 @@ fi
 # *** Initialisierung ***
 
 # Logging initialisieren
-logDir=/var/log/svpihole
+logDir=/var/log/pihole
 log=$logDir/$(date +'%Y%m%d')_updatePihole.sh.log
 mkdir -p $logDir
 
@@ -81,7 +81,7 @@ writeLog() {
 writeLog "[I] Start | Logfile: $log"
 
 # Tempverzeichnis initialisieren
-tmp=/tmp/svpihole
+tmp=/tmp/pihole
 writeLog "[I] Initialisiere Tempverzeichnis $tmp ..."
 mkdir -p $tmp
 cd $tmp || exit
@@ -276,7 +276,7 @@ writeLog "[I] Pi-hole Gravity Update Bericht/Statistik $logStats erstellt."
 
 # *** E-Mail Versand des Update Berichtes ***
 
-# Aufrufparameter 1: sudo ./updatePihole.sh rootoma@seniorenstift.xy
+# Aufrufparameter 1: sudo ./updatePihole.sh name@domain.xy
 email="$1"
 
 # Mail mit Gravity Update Bericht wird nur versendet wenn beim Aufruf des Scriptes eine
