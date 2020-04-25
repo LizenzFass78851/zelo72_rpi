@@ -1,37 +1,44 @@
-#Pihole
+#*** AdGuard ***
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/AdguardDNS.txt
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/AdguardMobile.txt
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/AdguardSpyware.txt
+#*** EasyList ***
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/EasyList.txt
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/EasyListGermany.txt
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/EasyPrivacy.txt
+#*** WindowsSpyBlocker ***
+https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/WindowsSpyBlocker.txt
+#*** Pihole ***
 https://mirror1.malwaredomains.com/files/justdomains
 http://sysctl.org/cameleon/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-#StevenBlack
+#*** StevenBlack ***
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-#OISD
-https://dbl.oisd.nl/
-#RPiList 
+#*** OISD ***
+#https://dbl.oisd.nl/
+#*** RPiList ***
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
-#Firebog
-https://v.firebog.net/hosts/Easyprivacy.txt
+#*** Firebog ***
 https://v.firebog.net/hosts/Prigent-Ads.txt
-https://v.firebog.net/hosts/AdguardDNS.txt
-#AdAway
+#*** AdAway ***
 https://adaway.org/hosts.txt
-#BlockListProject
+#*** PeterLow AdsAndTracking ***
+https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0
+#***  Malwaredomainlist ***
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+#***  BlockListProject ***
 https://blocklist.site/app/dl/ads
 https://blocklist.site/app/dl/crypto
-https://blocklist.site/app/dl/drugs
 https://blocklist.site/app/dl/fraud
 https://blocklist.site/app/dl/gambling
 https://blocklist.site/app/dl/malware
 https://blocklist.site/app/dl/phishing
-https://blocklist.site/app/dl/piracy
-https://blocklist.site/app/dl/proxy
 https://blocklist.site/app/dl/ransomware
-https://blocklist.site/app/dl/redirect
 https://blocklist.site/app/dl/scam
 https://blocklist.site/app/dl/spam
 https://blocklist.site/app/dl/torrent
