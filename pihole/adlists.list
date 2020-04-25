@@ -1,3 +1,11 @@
+#*** Pihole Standard ***
+https://mirror1.malwaredomains.com/files/justdomains
+http://sysctl.org/cameleon/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#*** AdAway ***
+https://adaway.org/hosts.txt
 #*** AdGuard ***
 https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/AdguardDNS.txt
 https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/AdguardMobile.txt
@@ -8,15 +16,6 @@ https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/EasyListGerman
 https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/EasyPrivacy.txt
 #*** WindowsSpyBlocker ***
 https://raw.githubusercontent.com/Zelo72/pihole-blocklists/master/WindowsSpyBlocker.txt
-#*** Pihole ***
-https://mirror1.malwaredomains.com/files/justdomains
-http://sysctl.org/cameleon/hosts
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-#*** StevenBlack ***
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-#*** OISD ***
-#https://dbl.oisd.nl/
 #*** RPiList ***
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
@@ -25,21 +24,8 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
 #*** Firebog ***
 https://v.firebog.net/hosts/Prigent-Ads.txt
-#*** AdAway ***
-https://adaway.org/hosts.txt
-#*** PeterLow AdsAndTracking ***
-https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0
-#***  Malwaredomainlist ***
-https://www.malwaredomainlist.com/hostslist/hosts.txt
-#***  BlockListProject ***
-https://blocklist.site/app/dl/ads
-https://blocklist.site/app/dl/crypto
-https://blocklist.site/app/dl/fraud
-https://blocklist.site/app/dl/gambling
-https://blocklist.site/app/dl/malware
-https://blocklist.site/app/dl/phishing
-https://blocklist.site/app/dl/ransomware
-https://blocklist.site/app/dl/scam
-https://blocklist.site/app/dl/spam
-https://blocklist.site/app/dl/torrent
-https://blocklist.site/app/dl/tracking
+https://v.firebog.net/hosts/static/w3kbl.txt
+#*** JustDomains ***
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+#*** QuidSup ***
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
