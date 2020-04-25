@@ -16,7 +16,7 @@
 #                 /var/var/log/pihole/updatePihole.cron.log --> Logifile des Cron-Jobs
 #
 # Installation:   1. Script downloaden:
-#                    wget https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/updatePihole.sh
+#                    wget -N https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/updatePihole.sh
 #                 2. Script mittels sudo chmod +x updatePihole.sh ausführbar machen.
 #
 # Installation:   1. Script mittels sudo cp updatePihole.sh /root nach /root kopieren.
@@ -25,7 +25,7 @@
 #                    Am Ende der Datei z.B. folgendes einfuegen um das Script taeglich um 03:00 Uhr zu starten
 #                    und eine Mail mit dem Gravity Update Bericht an "name@domain.xy" zu schicken:
 #
-#                      0 3 * * * /root/updatePihole.sh name@domain.xy > /var/log/pihole/updatePihole.cron.log
+#                      0 3 * * * /root/updatePihole.sh name@domain.xy > /var/log/pihole/updatePihole.cron.log 2>&1
 #
 #                  4. Datei speichern und schliessen. (im nano Editor: Strg+o/Enter/Strg+x).
 #

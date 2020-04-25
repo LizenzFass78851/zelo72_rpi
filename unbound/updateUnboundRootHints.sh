@@ -11,7 +11,7 @@
 #                 /var/log/updateUnboundRootHints.cron.log --> logfile cron job
 #
 # Installation:   1. Script downloaden:
-#                    wget https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh
+#                    wget -N https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh
 #                 2. Script mittels sudo chmod +x updateUnboundRootHints.sh ausführbar machen.
 #
 # Installation:   1. Script mittels sudo cp updateUnboundRootHints.sh /root nach /root kopieren.
@@ -20,7 +20,7 @@
 #                    Am Ende der Datei z.B. folgendes einfuegen um das Script monatlich am 1.
 #                    um 04:00 Uhr auszuführen:
 #
-#                     0 4 1 * * /root/updateUnboundRootHints.sh > /var/log/updateUnboundRootHints.cron.log
+#                     0 4 1 * * /root/updateUnboundRootHints.sh > /var/log/updateUnboundRootHints.cron.log 2>&1
 #
 #                  4. Datei speichern und schliessen. (im nano Editor: Strg+o/Enter/Strg+x).
 

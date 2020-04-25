@@ -24,7 +24,7 @@
 #                 /.../pi-hole-teleporter_Y-m-d_H-M-S.tar.gz       --> Teleporter Sicherungsarchiv
 #
 # Installation:   1. Script downloaden:
-#                    wget https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/backupPiholeSettings.sh
+#                    wget -N https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/backupPiholeSettings.sh
 #                 2. Script mittels sudo chmod +x backupPiholeSettings.sh ausführbar machen.
 #
 # Installation:   1. Script mittels sudo cp backupPiholeSettings.sh /root nach /root kopieren.
@@ -33,7 +33,7 @@
 #                    Am Ende der Datei z.B. folgendes einfügen um das Script 2 x monatlich am 15. und 30. um 00:00 Uhr
 #                    auszuführen:
 #
-#                    0 0 */15 * * /root/backupPiholeSettings.sh /mnt/nas/rpi/ > /var/log/pihole/backupPiholeSettings.cron.log
+#                    0 0 */15 * * /root/backupPiholeSettings.sh /mnt/nas/rpi/ > /var/log/pihole/backupPiholeSettings.cron.log 2>&1
 #
 #                  4. Datei speichern und schliessen (im nano Editor: Strg+o/Enter/Strg+x).
 #
