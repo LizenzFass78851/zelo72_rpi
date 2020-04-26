@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script zur Installation und Konfiguration von Unbound als Pihole DNS-Server
-# 
+#
 # HINWEIS/WICHTIG: Erst Pihole, dann Unbound installieren!
 
 # Script muss als Root ausgeführt werden
@@ -60,11 +60,16 @@ echo ""
 dig pi-hole.net @127.0.0.1 -p 5335
 echo ""
 echo ""
-echo "***********************************************************************************"
-echo "Abschliessende manuelle Konfiguration in Pihole:"
-echo "    In Pihole 127.0.0.1#5335 im Webinterface unter Settings > DNS > Custom 1 (IPv4)"
-echo "    als DNS konfigurieren!"
+echo "************************************************************************************"
+echo "Abschliessende manuelle Konfiguration von Pihole:"
+echo ""
+echo " 1. In Pihole im Webinterface unter Settings > DNS > Custom 1 (IPv4)"
+echo "    (http://pi.hole/admin/settings.php?tab=dns) 127.0.0.1#5335 als DNS konfigurieren!"
 echo "    Alle anderen bereits konfigurierten DNS-Server deaktivieren!"
-echo "***********************************************************************************"
+echo ""
+echo " 2. In der /etc/dnsmasq.d/01-pihole.conf das Attribut cache-size=0 setzen, das Caching"
+echo "    übernimmt Unbound!"
+echo "      Befehl zum Editieren: sudo nano /etc/dnsmasq.d/01-pihole.conf"
+echo "************************************************************************************"
 echo ""
 echo ""
