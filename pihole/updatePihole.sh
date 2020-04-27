@@ -60,8 +60,9 @@
 #                                   - Fehler behoben: Nach waitfordns und anschliessend fehlgeschlagenem DNS-Test
 #                                                     wurde der Code im If-Zweig zum erneuten DNS-Test nicht
 #                                                     ausgefuehrt.
-#         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5x
+#         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5x0
 #
+
 # Prüfen ob das Script als root ausgefuehrt wird
 if [ "$(id -u)" != "0" ]; then
    echo "Das Script muss mit Rootrechten ausgeführt werden!"
@@ -96,14 +97,13 @@ writeLog "[I] Logverzeichnis $logDir bereinigt."
 piholeDir=/etc/pihole
 piholeBinDir=/usr/local/bin
 gravityDB=$piholeDir/gravity.db
-pihole5=0
-if [ -f "$gravityDB" ]; then
-   pihole5=1
-fi
 gravListPihole=$piholeDir/gravity.list
 gravListBeforeUpdate=$tmp/gravity_before_update.list
 gravListDiff=$tmp/gravity_diff.list
 logStats=$logDir/updatePihole.stats.log
+
+# Pihole 5.x?
+[ -f $gravityDB ] && pihole5=1 || pihole5=0
 
 # Variablen fuer "Gesundheitsstatus": -1: Undefiniert / 0: true / >0: false
 piholeUpdateStatus=-1
@@ -203,13 +203,12 @@ fi
 # Kompatiblitaet fuer Pihole 5.x
 if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $gravListBeforeUpdate ..."
-   sqlite3 "$gravityDB" "select distinct domain from vw_gravity;" >$gravListBeforeUpdate
-   writeLog "[I] Aktualisiere Pi-hole Gravity in $gravityDB ..."
+   sqlite3 "$gravityDB" "select distinct domain from gravity;" >$gravListBeforeUpdate
 else
    writeLog "[I] Kopiere $gravListPihole nach $gravListBeforeUpdate ..."
    cp $gravListPihole $gravListBeforeUpdate
-   writeLog "[I] Aktualisiere Pi-hole Gravity in $gravListPihole ..."
 fi
+writeLog "[I] Aktualisiere Pi-hole Gravity  ..."
 echo ""
 $piholeBinDir/pihole -g # Pi-hole Gravity aktualisieren
 piholeGravUpdateStatus=$?
@@ -217,7 +216,7 @@ echo ""
 writeLog "[I] Pi-hole Gravity Update exitcode: $piholeGravUpdateStatus"
 
 # DNS nach Gravity Update testen
-waitfordns 15
+[ "$pihole5" -eq 0 ] && waitfordns 30 #waitfordns nach pihole -g nur bei Pihole Versionen < 5.x notwendig
 if ! checkdns; then
    waitfordns 30
    if ! checkdns; then
@@ -235,7 +234,7 @@ writeLog "[I] Erstelle Aenderungs-Gravityliste $gravListDiff ..."
 # Kompatiblitaet fuer Pihole 5.x
 if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $tmp/gravity.list ..."
-   sqlite3 "$gravityDB" "select distinct domain from vw_gravity;" >$tmp/gravity.list
+   sqlite3 "$gravityDB" "select distinct domain from gravity;" >$tmp/gravity.list
    gravListPihole=$tmp/gravity.list
 fi
 diff $gravListPihole $gravListBeforeUpdate | grep '[><]' >$gravListDiff
@@ -308,14 +307,6 @@ echo ""
    echo "(+): $(grep -c '<' $gravListDiff) Domains hinzugefuegt"
    echo "(-): $(grep -c '>' $gravListDiff) Domains geloescht"
    echo "(S): $(grep -Evc '^#|^$' $gravListDiff) Domains geaendert"
-
-   # Auskommentiert, damit der Spamfilter des Mailservers wegen den Domains nicht "glueht"!
-   #echo ""
-   #echo "(+) Hinzugefuegte Domains (Top 50):"
-   #grep -m50 '<' $gravListDiff
-   #echo ""
-   #echo "(-) Geloeschte Domains (Top 50):"
-   #grep -m50 '>' $gravListDiff
 ) | tee $logStats #Ausgaben innerhalb von () in die $logStats Datei schreiben
 echo ""
 writeLog "[I] Pi-hole Gravity Update Bericht/Statistik $logStats erstellt."
@@ -338,4 +329,9 @@ if [ -n "$email" ]; then
       writeLog "[I] E-Mailversand an $email erfolgreich."
    fi
 fi
+
+# Temp-Verzeihnis bereinigen
+writeLog "[I] Bereinige $tmp"
+rm -rf $tmp
+
 writeLog "[I] Ende | Logfile: $log"
