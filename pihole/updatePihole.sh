@@ -96,7 +96,10 @@ writeLog "[I] Logverzeichnis $logDir bereinigt."
 piholeDir=/etc/pihole
 piholeBinDir=/usr/local/bin
 gravityDB=$piholeDir/gravity.db
-pihole5=$([ -f "$gravityDB" ])
+pihole5=0
+if [ -f "$gravityDB" ]; then
+   pihole5=1
+fi
 gravListPihole=$piholeDir/gravity.list
 gravListBeforeUpdate=$tmp/gravity_before_update.list
 gravListDiff=$tmp/gravity_diff.list
@@ -198,7 +201,7 @@ fi
 # AKtuelle Gravity Liste vom Pi-hole zwischenspeichern und
 # Pi-hole Gravity aktualisieren
 # Kompatiblitaet fuer Pihole 5.x
-if [ "$pihole5" ]; then
+if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $gravListBeforeUpdate ..."
    sqlite3 "$gravityDB" "select domain from vw_gravity;" >$gravListBeforeUpdate
    writeLog "[I] Aktualisiere Pi-hole Gravity in $gravityDB ..."
@@ -230,7 +233,7 @@ fi
 # $gravListDiff Datei zur weiteren Auswertung speichern
 writeLog "[I] Erstelle Aenderungs-Gravityliste $gravListDiff ..."
 # Kompatiblitaet fuer Pihole 5.x
-if [ "$pihole5" ]; then
+if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $tmp/gravity.list ..."
    sqlite3 "$gravityDB" "select domain from vw_gravity;" >$tmp/gravity.list
    gravListPihole=$tmp/gravity.list
@@ -250,7 +253,7 @@ else
    phStatus="OFFLINE!"
 fi
 # Kompatiblitaet fuer Pihole 5.x
-if [ "$pihole5" ]; then
+if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Blacklist, RegExlisten, Whitelist und Adlists aus $gravityDB nach $tmp ..."
    sqlite3 "$gravityDB" "select domain from vw_blacklist;" >$tmp/blacklist.txt
    blacklist=$tmp/blacklist.txt
@@ -276,9 +279,9 @@ echo ""
    echo "# Raspberry Info #"
    echo ""
    echo "Hostname: $(hostname)"
-   echo "CPU Temperatur: $(($(cat /sys/class/thermal/thermal_zone0/temp) / 1000)) Grad"
-   echo "RAM Nutzung: $(awk '/^Mem/ {printf("%.2f%%", 100*($2-$4-$6)/$2);}' <(free -m))"
-   echo "HDD Nutzung: $(df -B1 / 2>/dev/null | awk 'END{ print $5 }')"
+   #echo "CPU Temperatur: $(($(cat /sys/class/thermal/thermal_zone0/temp) / 1000)) Grad"
+   #echo "RAM Nutzung: $(awk '/^Mem/ {printf("%.2f%%", 100*($2-$4-$6)/$2);}' <(free -m))"
+   #echo "HDD Nutzung: $(df -B1 / 2>/dev/null | awk 'END{ print $5 }')"
    echo "Reboot erforderlich?: $rebootRequired"
    echo ""
    echo "# Pi-hole Info #"
@@ -296,7 +299,7 @@ echo ""
    echo "RegEx Blacklist: $(grep -Evc '^#|^$' $regexblacklist)"
    echo "Domains Whitelist: $(grep -Evc '^#|^$' $whitelist)"
    # Kompatiblitaet fuer Pihole 5.x
-   if [ "$pihole5" ]; then
+   if [ "$pihole5" -eq 1 ]; then
       echo "RegEx Blacklist: $(grep -Evc '^#|^$' $regexwhitelist)"
    fi
    echo "Aktive Blocklisten: $(grep -Evc '^#|^$' $adlists)"
