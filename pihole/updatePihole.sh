@@ -60,7 +60,8 @@
 #                                   - Fehler behoben: Nach waitfordns und anschliessend fehlgeschlagenem DNS-Test
 #                                                     wurde der Code im If-Zweig zum erneuten DNS-Test nicht
 #                                                     ausgefuehrt.
-
+#         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5x
+#
 # Prüfen ob das Script als root ausgefuehrt wird
 if [ "$(id -u)" != "0" ]; then
    echo "Das Script muss mit Rootrechten ausgeführt werden!"
@@ -94,6 +95,8 @@ writeLog "[I] Logverzeichnis $logDir bereinigt."
 # Variablen fuer Dateien
 piholeDir=/etc/pihole
 piholeBinDir=/usr/local/bin
+gravityDB=$piholeDir/gravity.db
+pihole5=$([ -f "$gravityDB" ])
 gravListPihole=$piholeDir/gravity.list
 gravListBeforeUpdate=$tmp/gravity_before_update.list
 gravListDiff=$tmp/gravity_diff.list
@@ -194,10 +197,20 @@ fi
 
 # AKtuelle Gravity Liste vom Pi-hole zwischenspeichern und
 # Pi-hole Gravity aktualisieren
-writeLog "[I] Aktualisiere Pi-hole Gravity $gravListPihole ..."
-cp $gravListPihole $gravListBeforeUpdate
+# Kompatiblitaet fuer Pihole 5.x
+if [ "$pihole5" ]; then
+   writeLog "[I] Exportiere Domains aus $gravityDB nach $gravListBeforeUpdate ..."
+   sqlite3 "$gravityDB" "select domain from vw_gravity;" >$gravListBeforeUpdate
+   writeLog "[I] Aktualisiere Pi-hole Gravity in $gravityDB ..."
+else
+   writeLog "[I] Kopiere $gravListPihole nach $gravListBeforeUpdate ..."
+   cp $gravListPihole $gravListBeforeUpdate
+   writeLog "[I] Aktualisiere Pi-hole Gravity in $gravListPihole ..."
+fi
+echo ""
 $piholeBinDir/pihole -g # Pi-hole Gravity aktualisieren
 piholeGravUpdateStatus=$?
+echo ""
 writeLog "[I] Pi-hole Gravity Update exitcode: $piholeGravUpdateStatus"
 
 # DNS nach Gravity Update testen
@@ -216,6 +229,12 @@ fi
 # vergleichen und Aenderungen (hinzugefuegte/geloeschte Eintraege) in
 # $gravListDiff Datei zur weiteren Auswertung speichern
 writeLog "[I] Erstelle Aenderungs-Gravityliste $gravListDiff ..."
+# Kompatiblitaet fuer Pihole 5.x
+if [ "$pihole5" ]; then
+   writeLog "[I] Exportiere Domains aus $gravityDB nach $tmp/gravity.list ..."
+   sqlite3 "$gravityDB" "select domain from vw_gravity;" >$tmp/gravity.list
+   gravListPihole=$tmp/gravity.list
+fi
 diff $gravListPihole $gravListBeforeUpdate | grep '[><]' >$gravListDiff
 writeLog "[I] Aenderungs-Gravityliste mit $(grep -Evc '^#|^$' $gravListDiff) Eintraegen erstellt."
 
@@ -230,9 +249,29 @@ if [[ "$($piholeBinDir/pihole status web 2>/dev/null)" == "1" ]]; then
 else
    phStatus="OFFLINE!"
 fi
+# Kompatiblitaet fuer Pihole 5.x
+if [ "$pihole5" ]; then
+   writeLog "[I] Exportiere Blacklist, RegExlisten, Whitelist und Adlists aus $gravityDB nach $tmp ..."
+   sqlite3 "$gravityDB" "select domain from vw_blacklist;" >$tmp/blacklist.txt
+   blacklist=$tmp/blacklist.txt
+   sqlite3 "$gravityDB" "select domain from vw_regex_blacklist;" >$tmp/regex_blacklist.txt
+   regexblacklist=$tmp/regex_blacklist.txt
+   sqlite3 "$gravityDB" "select domain from vw_regex_whitelist;" >$tmp/regex_whitelist.txt
+   regexwhitelist=$tmp/regex_whitelist.txt
+   sqlite3 "$gravityDB" "select domain from vw_whitelist;" >$tmp/whitelist.txt
+   whitelist=$tmp/whitelist.txt
+   sqlite3 "$gravityDB" "select address from vw_adlist;" >$tmp/adlists.txt
+   adlists=$tmp/adlists.txt
+else
+   blacklist=$piholeDir/blacklist.txt
+   regexblacklist=$piholeDir/regex.list
+   whitelist=$piholeDir/whitelist.txt
+   adlists=$piholeDir/adlists.list
+fi
 
 # Gravity Update Bericht erzeugen und in die unter $logStats angegebene Datei schreiben.
 writeLog "[I] Erstelle Pi-hole Gravity Update Bericht/Statistik $id ..."
+echo ""
 (
    echo "# Raspberry Info #"
    echo ""
@@ -253,10 +292,14 @@ writeLog "[I] Erstelle Pi-hole Gravity Update Bericht/Statistik $id ..."
    echo "# Pi-hole Statistik #"
    echo ""
    echo "Domains Gravitylist: $(grep -Evc '^#|^$' $gravListPihole)"
-   echo "Domains Blacklist: $(grep -Evc '^#|^$' $piholeDir/blacklist.txt)"
-   echo "RegEx Blacklist: $(grep -Evc '^#|^$' $piholeDir/regex.list)"
-   echo "Domains Whitelist: $(grep -Evc '^#|^$' $piholeDir/whitelist.txt)"
-   echo "Aktive Blocklisten: $(grep -Evc '^#|^$' $piholeDir/adlists.list)"
+   echo "Domains Blacklist: $(grep -Evc '^#|^$' $blacklist)"
+   echo "RegEx Blacklist: $(grep -Evc '^#|^$' $regexblacklist)"
+   echo "Domains Whitelist: $(grep -Evc '^#|^$' $whitelist)"
+   # Kompatiblitaet fuer Pihole 5.x
+   if [ "$pihole5" ]; then
+      echo "RegEx Blacklist: $(grep -Evc '^#|^$' $regexwhitelist)"
+   fi
+   echo "Aktive Blocklisten: $(grep -Evc '^#|^$' $adlists)"
    echo ""
    echo "# Pi-hole Gravity Updatestatistik #"
    echo ""
@@ -272,6 +315,7 @@ writeLog "[I] Erstelle Pi-hole Gravity Update Bericht/Statistik $id ..."
    #echo "(-) Geloeschte Domains (Top 50):"
    #grep -m50 '>' $gravListDiff
 ) | tee $logStats #Ausgaben innerhalb von () in die $logStats Datei schreiben
+echo ""
 writeLog "[I] Pi-hole Gravity Update Bericht/Statistik $logStats erstellt."
 
 # *** E-Mail Versand des Update Berichtes ***
