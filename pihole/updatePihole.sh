@@ -203,7 +203,7 @@ fi
 # Kompatiblitaet fuer Pihole 5.x
 if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $gravListBeforeUpdate ..."
-   sqlite3 "$gravityDB" "select domain from vw_gravity;" >$gravListBeforeUpdate
+   sqlite3 "$gravityDB" "select distinct domain from vw_gravity;" >$gravListBeforeUpdate
    writeLog "[I] Aktualisiere Pi-hole Gravity in $gravityDB ..."
 else
    writeLog "[I] Kopiere $gravListPihole nach $gravListBeforeUpdate ..."
@@ -235,7 +235,7 @@ writeLog "[I] Erstelle Aenderungs-Gravityliste $gravListDiff ..."
 # Kompatiblitaet fuer Pihole 5.x
 if [ "$pihole5" -eq 1 ]; then
    writeLog "[I] Exportiere Domains aus $gravityDB nach $tmp/gravity.list ..."
-   sqlite3 "$gravityDB" "select domain from vw_gravity;" >$tmp/gravity.list
+   sqlite3 "$gravityDB" "select distinct domain from vw_gravity;" >$tmp/gravity.list
    gravListPihole=$tmp/gravity.list
 fi
 diff $gravListPihole $gravListBeforeUpdate | grep '[><]' >$gravListDiff
@@ -300,7 +300,7 @@ echo ""
    echo "Domains Whitelist: $(grep -Evc '^#|^$' $whitelist)"
    # Kompatiblitaet fuer Pihole 5.x
    if [ "$pihole5" -eq 1 ]; then
-      echo "RegEx Blacklist: $(grep -Evc '^#|^$' $regexwhitelist)"
+      echo "RegEx Whitelist: $(grep -Evc '^#|^$' $regexwhitelist)"
    fi
    echo "Aktive Blocklisten: $(grep -Evc '^#|^$' $adlists)"
    echo ""
