@@ -30,3 +30,5 @@ https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 #*** QuidSup ***
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+#*** OISD ***
+https://dbl.oisd.nl/
