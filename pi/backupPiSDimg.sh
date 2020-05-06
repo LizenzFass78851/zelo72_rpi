@@ -5,10 +5,10 @@
 # Beschreibung: Das Script sichert mittels dd die komplette SD Karte des laufenden Raspberry Pi in eine Image-Datei.
 #               Das gesicherte Image lässt sich z.B. balena etcher oder dd wieder auf eine SD-Karte schreiben.
 #
-#               HINWEIS: Da die Sicherung online während des laufendnen Pi-Systems durchgeführt wird, kann es zu 
+#               HINWEIS: Da die Sicherung online während des laufendnen Pi-Systems durchgeführt wird, kann es zu
 #               inkonsistenten Daten in der Sicherungs-Datei kommen wenn während der Sicherung viele Schreibvorgänge
-#               auf der SD erfolgen. Möchte man einen konsistenten, sicheren Backup erstellen, muss man diesen 
-#               offline an einem anderen System (Linux/Windows/Mac) durch Sichern der SD-Karte durchführen. 
+#               auf der SD erfolgen. Möchte man einen konsistenten, sicheren Backup erstellen, muss man diesen
+#               offline an einem anderen System (Linux/Windows/Mac) durch Offline-Sichern der SD-Karte durchführen.
 #
 # Aufrufparameter: 1. Backupverzeichnis              --> Pfad in dem das Image abgelegt werden soll
 #                  2. Bereinigungsintervall in Tagen --> (optional) Logs und Images älter als
@@ -21,9 +21,9 @@
 #                  optional: sudo ./backupPiSDimg.sh /mnt/nas/bak/ 30
 #                            sudo ./backupPiSDimg.sh /mnt/nas/bak/ 60 name@domain.xy
 #
-# Ausgabedateien: /var/log/pihole/Ymd_backupPiSDimg.sh.log  --> Logfile
-#                 /var/log/pihole/backupPiSDimg.cron.log    --> Logifile des Cron-Jobs
-#                 /.../Backup-raspberrypi-Ymd.img           --> Backup Image-Datei
+# Ausgabedateien: /var/log/pibackup/Ymd_backupPiSDimg.sh.log  --> Logfile
+#                 /var/log/backupPiSDimg.cron.log             --> Logifile des Cron-Jobs
+#                 /.../Backup-raspberrypi-Ymd.img             --> Backup Image-Datei
 #
 # Installation:   1. Script downloaden:
 #                    wget -N https://raw.githubusercontent.com/Zelo72/rpi/master/pi/backupPiSDimg.sh
@@ -35,7 +35,7 @@
 #                    Am Ende der Datei z.B. folgendes einfügen um das Script monatlich am 1. um 01:45 Uhr
 #                    auszuführen:
 #
-#                    45 1 1 * * /root/backupPiSDimg.sh /mnt/nas/bak/ > /var/log/pihole/backupPiSDimg.cron.log 2>&1
+#                    45 1 1 * * /root/backupPiSDimg.sh /mnt/nas/bak/ > /var/log/backupPiSDimg.cron.log 2>&1
 #
 #                  4. Datei speichern und schliessen (im nano Editor: Strg+o/Enter/Strg+x).
 #
@@ -71,7 +71,7 @@ fi
 # *** Initialisierung ***
 
 # Logging initialisieren
-logDir=/var/log/pihole
+logDir=/var/log/pibackup
 log=$logDir/$(date +'%Y%m%d')_backupPiSDimg.sh.log
 mkdir -p $logDir
 
