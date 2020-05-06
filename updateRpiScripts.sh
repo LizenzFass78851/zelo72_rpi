@@ -34,7 +34,8 @@ cd "$downloadDir" || exit
 # Script-Dateien die heruntergeladen werden sollen, weitere einfach hinzufügen
 scripturls=("https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/backupPiholeSettings.sh"
     "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/updatePihole.sh"
-    "https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh")
+    "https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh"
+    "https://raw.githubusercontent.com/Zelo72/rpi/master/pi/backupPiSDimg.sh")
 
 # Scripte herunterladen und in $DownloadDir speichern/updaten und mit chmod ausführbar machen
 for url in "${scripturls[@]}"; do
