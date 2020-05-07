@@ -2,11 +2,12 @@
 
 # Script: updatePihole.sh - https://github.com/Zelo72/rpi (/pihole/)
 #
-# Beschreibung: Das Script aktualisiert bei jedem Lauf die Pi-hole Gravity (gravity.list) auf Basis der in Pi-hole
-#               konfigurierten Blocklisten (adlists.list). Zusaetzlich werden, wenn das Script an einem Sonntag ausgefuehrt
-#               wird, die Raspberry Pakete und die Pi-hole Software selbst aktualisiert sofern ein Update vorliegt.
+# Beschreibung: Das Script aktualisiert bei jedem Lauf die Pi-hole Gravity auf Basis der in Pi-hole
+#               konfigurierten Blocklisten. Zusaetzlich werden, wenn das Script an einem Sonntag ausgefuehrt
+#               wird, Raspberry Paketupdates simuliert.
 #               Bei Bedarf wird ein Gravity-Update Bericht als Mail versendet. Dieser beinhaltet neben einem Pi-Hole
 #               Gesundheitstatus auch die Statistik für das Pi-Hole und Gravity Update.
+#               Das Script ist mit Pi-hole 4.x und 5.x kompatibel.
 #
 # Aufruf:       sudo ./updatePihole.sh name@domain.xy <-- mit Mailversand
 #               sudo ./updatePihole.sh                <-- ohne Mailversand
@@ -60,7 +61,9 @@
 #                                   - Fehler behoben: Nach waitfordns und anschliessend fehlgeschlagenem DNS-Test
 #                                                     wurde der Code im If-Zweig zum erneuten DNS-Test nicht
 #                                                     ausgefuehrt.
-#         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5x0
+#         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5.x
+#         1.0.8 - [Zelo72]          - Auf Update nur simulieren nicht automatisch durchführen umgestellt.
+#                                     Betrifft Raspberry Pakete und das Pi-hole Softwareupdate.
 #
 
 # Prüfen ob das Script als root ausgefuehrt wird
@@ -106,18 +109,23 @@ logStats=$logDir/updatePihole.stats.log
 [ -f $gravityDB ] && pihole5=1 || pihole5=0
 
 # Variablen fuer "Gesundheitsstatus": -1: Undefiniert / 0: true / >0: false
-piholeUpdateStatus=-1
+rpiUpdateStatus=-1
 piholeGravUpdateStatus=-1
 dnsTestStatus=-1
 inetTestStatus=-1
-rebootRequired="NEIN"
 
 # *** Hilfsfunktionen ***
 
 status() {
    case "$*" in
+   -3)
+      echo "|> UPDATES VERFUEGBAR! <|"
+      ;;
+   -2)
+      echo "KEINE UPDATES VERFUEGBAR"
+      ;;
    -1)
-      echo "NICHT DURCHGEFUEHRT"
+      echo "NICHT UEBERPRUEFT"
       ;;
    0)
       echo "OK"
@@ -167,33 +175,25 @@ checkinet # besteht keine Internetverbindung wird das Script mit exitcode 1 been
 checkdns
 
 # Nur wenn dieses Script Sonntags am Wochentag 0 ausgeführt wird:
-# die Raspberry Pakete und die Pi-hole Software selbst updaten.
+# das Raspberry Paket Update simulieren.
 if test "$(date "+%w")" -eq 0; then # Sonntags = Wochentag 0
-   # Raspberry Pakete updaten
-   writeLog "[I] Raspberry Pakete updaten ..."
+   # Raspberry Paketequellen updaten
+   writeLog "[I] Raspberry Paket Update simulieren ..."
+   echo ""
    apt-get update
-   apt-get -y upgrade
+   echo ""
+
+   # Raspberry Paketupdate simulieren
+   writeLog "[I] Ermitteln ob Paketupdates vorliegen ..."
+   tst=$(apt-get --simulate upgrade | grep ^Inst)
+   [ -n "$tst" ] && rpiUpdateStatus=-3 || rpiUpdateStatus=-2
 
    # Raspberry Pakete bereinigen
    writeLog "[I] Raspberry Pakete bereinigen ..."
+   echo ""
    apt-get -y autoremove
    apt-get -y clean
-
-   # Pi-hole updaten
-   writeLog "[I] Pi-hole updaten ..."
-   $piholeBinDir/pihole -up
-   piholeUpdateStatus=$?
-   writeLog "[I] Pi-hole Update exitcode: $piholeUpdateStatus"
-
-   # Pruefen ob durch die Updates ein Reboot erforderlich ist
-   writeLog "[I] Pruefe ob ein Reboot erforderlich ist ..."
-   if [ -f /var/run/reboot-required ]; then
-      writeLog "[W] REBOOT nach Update erforderlich!"
-      echo "*************************"
-      echo "R E B O O T erforderlich!"
-      echo "*************************"
-      rebootRequired="JA"
-   fi
+   echo ""
 fi
 
 # *** Pi-hole Gravity Update ***
@@ -280,15 +280,18 @@ echo ""
    echo "Hostname: $(hostname)"
    echo "RAM Nutzung: $(awk '/^Mem/ {printf("%.2f%%", 100*($2-$4-$6)/$2);}' <(free -m))"
    echo "HDD Nutzung: $(df -B1 / 2>/dev/null | awk 'END{ print $5 }')"
-   echo "Reboot erforderlich?: $rebootRequired"
+   echo "Paket Updates?: $(status $rpiUpdateStatus)"
    echo ""
    echo "# Pi-hole Info #"
    echo ""
    echo "Pi-hole Status: $phStatus"
    echo "Internet: $(status $inetTestStatus)"
    echo "DNS-Test: $(status $dnsTestStatus)"
-   echo "Update: $(status $piholeUpdateStatus)"
    echo "Gravity Update: $(status $piholeGravUpdateStatus)"
+   echo ""
+   echo "# Pi-hole Update Status #"
+   echo ""
+   $piholeBinDir/pihole -up --check-only
    echo ""
    echo "# Pi-hole Statistik #"
    echo ""
