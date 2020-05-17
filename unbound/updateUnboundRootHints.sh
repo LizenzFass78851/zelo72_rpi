@@ -49,5 +49,5 @@ if [[ $? -ne 0 ]]; then
 fi
 
 writeLog "[I] Starte den Unbound Service neu ..."
-service unbound restart
+/usr/sbin/service unbound restart
 writeLog "[I] Ende | Logfile: $log"
