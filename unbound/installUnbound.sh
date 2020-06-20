@@ -13,7 +13,7 @@ fi
 echo "*** Unbound installieren"
 echo ""
 apt-get update
-apt-get install unbound -y
+apt-get install unbound dnsutils -y
 echo ""
 echo ""
 
