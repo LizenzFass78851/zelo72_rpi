@@ -6,7 +6,7 @@
 
 echo "*** zram-config installieren"
 echo ""
-sudo apt-get install git
+sudo apt-get install git -y
 cd "$HOME" || exit
 git clone https://github.com/StuartIanNaylor/zram-config
 cd zram-config || exit
