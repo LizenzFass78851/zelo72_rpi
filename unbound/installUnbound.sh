@@ -7,7 +7,7 @@
 # Installation/Ausführen:
 #   1.	sudo -i
 #   2.	wget -N https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/installUnbound.sh
-#   3.	chmod +x intstallUnbound.sh
+#   3.	chmod +x installUnbound.sh
 #   4.	./installUnbound.sh
 
 # Script muss als Root ausgeführt werden
