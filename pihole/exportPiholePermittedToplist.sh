@@ -10,10 +10,10 @@ if [ ! -d "$1" ]; then
     exit 1
 fi
 
-exportFile=$1/TopDomainsBlocked.txt
+exportFile=$1/TopDomainsPermitted.txt
 
-echo "Exportiere geblockte Domains ..."
+echo "Exportiere aufgerufene Domains ..."
 
-sqlite3 /etc/pihole/pihole-FTL.db "SELECT domain, count(domain) FROM queries WHERE status NOT IN(2,3) GROUP BY domain ORDER BY count(domain) DESC;" >"$exportFile"
+sqlite3 /etc/pihole/pihole-FTL.db "SELECT domain, count(domain) FROM queries WHERE status IN(2,3) GROUP BY domain ORDER BY count(domain) DESC;" >"$exportFile"
 
 echo "Export nach $exportFile abgeschlossen"
