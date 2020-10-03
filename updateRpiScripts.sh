@@ -37,7 +37,8 @@ scripturls=("https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/backupPi
     "https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/updateUnboundRootHints.sh"
     "https://raw.githubusercontent.com/Zelo72/rpi/master/pi/backupPiSDimg.sh"
     "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/migratePiholeAdlists.py"
-    "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/migratePiholeAuditLog.py")
+    "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/migratePiholeAuditLog.py"
+    "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/exportPiholeBlockedToplist.sh")
 
 # Scripte herunterladen und in $DownloadDir speichern/updaten und mit chmod ausführbar machen
 for url in "${scripturls[@]}"; do
