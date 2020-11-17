@@ -1,0 +1,2 @@
+(\.|^)adnxs\.com$
+(\.|^)plista\.com$
