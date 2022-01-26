@@ -14,10 +14,9 @@ Config:
    ../../data/dead.nt.list
    ../../data/dead.list.threat-intelligence
 
--- Whitelists - 3:
+-- Whitelists - 2:
 
-   ../../data/white.list.bmj
-   ../../data/white.list.sw
+   ../../data/exclude.list
    ../../data/white.list.apple
 
 Initialize ...
@@ -40,14 +39,14 @@ Stats extra:
 
 ** Source (raw):    105219
 == Source (unique): 99900 (-5319)
--- White:           99645 (-255)
--- White(*):        99128 (-517)
--- Dead:            98746 (-382)
-++ FLD:             98746 (+0)
-++ WWW:             128308 (+29562)
+-- White:           98151 (-1749)
+-- White(*):        97524 (-627)
+-- Dead:            97149 (-375)
+++ FLD:             97149 (+0)
+++ WWW:             125902 (+28753)
 
-128308 unique Domains - Version 2022.0126.210231
-MD5 Domains RAW: b7fc03dd4596afbb3af2d5b0432099d2
+125902 unique Domains - Version 2022.0126.211126
+MD5 Domains RAW: e85760f31b5d75268dda257d7c7a57c0
 
 # Convert extra to Hostlist ... 
 
@@ -70,10 +69,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling extra.adblock.raw
-ℹ Original length is 98664
-ℹ Length after applying transformations is 98664
-ℹ The list was compressed from 98667 to 97927
-ℹ Final length of the list is 97933
+ℹ Original length is 97068
+ℹ Length after applying transformations is 97068
+ℹ The list was compressed from 97071 to 96520
+ℹ Final length of the list is 96526
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
 ℹ Finished compiling
 
