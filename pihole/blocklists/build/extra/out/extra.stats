@@ -14,16 +14,11 @@ Config:
    ../../data/dead.nt.list
    ../../data/dead.list.threat-intelligence
 
--- Whitelists - 8:
+-- Whitelists - 3:
 
-   ../../data/white.list.important
    ../../data/white.list.bmj
-   ../../data/white.list.nt
    ../../data/white.list.sw
-   ../../doh-vpn-proxy-bypass.txt
-   ../../data/white.list.mkb
    ../../data/white.list.apple
-   ../../data/white.list.microsoft
 
 Initialize ...
 
@@ -36,8 +31,8 @@ Initialize ...
    4 |    1116 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
    5 |    5421 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
    6 |    1067 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
-   7 |      88 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/wildcard.list
-   8 |      50 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/domains.list
+   7 |      88 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/wildcard.list
+   8 |      50 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/domains.list
 
 # Build extra Domainlist ...
 
@@ -45,14 +40,14 @@ Stats extra:
 
 ** Source (raw):    105219
 == Source (unique): 99900 (-5319)
--- White:           99158 (-742)
--- White(*):        98398 (-760)
--- Dead:            98019 (-379)
-++ FLD:             98019 (+0)
-++ WWW:             127305 (+29286)
+-- White:           99645 (-255)
+-- White(*):        99128 (-517)
+-- Dead:            98746 (-382)
+++ FLD:             98746 (+0)
+++ WWW:             128308 (+29562)
 
-127305 unique Domains - Version 2022.0126.204954
-MD5 Domains RAW: fe1f4122badec5ec5bce3cde7f687cb2
+128308 unique Domains - Version 2022.0126.210231
+MD5 Domains RAW: b7fc03dd4596afbb3af2d5b0432099d2
 
 # Convert extra to Hostlist ... 
 
@@ -75,10 +70,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling extra.adblock.raw
-ℹ Original length is 97937
-ℹ Length after applying transformations is 97937
-ℹ The list was compressed from 97940 to 97300
-ℹ Final length of the list is 97306
+ℹ Original length is 98664
+ℹ Length after applying transformations is 98664
+ℹ The list was compressed from 98667 to 97927
+ℹ Final length of the list is 97933
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
 ℹ Finished compiling
 
