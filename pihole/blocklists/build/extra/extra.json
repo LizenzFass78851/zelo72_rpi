@@ -1,0 +1,12 @@
+{
+    "name": "extra",
+    "sources": [
+        {
+            "source": "extra.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
