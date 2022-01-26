@@ -1,0 +1,4 @@
+adservice.google.com.*
+*.mozilla.com
+*.mozaws.net
+*.googleapis.com
