@@ -1,0 +1,7 @@
+../../big.txt
+../../affiliatetracking.txt
+../../threat-intelligence.txt
+https://dbl.oisd.nl/extra
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+& https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt

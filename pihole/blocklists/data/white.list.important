@@ -1,0 +1,481 @@
+# ---------------------------------------------
+# Zelo*s Whitelist
+# ---------------------------------------------
+# GitHub:  https://github.com/Zelo72
+# Discord: Zelo72#7513
+# Mail:    zelo72@dismail.de
+# ---------------------------------------------
+
+# AdBlock-Detection
+
+script.ioam.de
+tagger.opecloud.com
+tags.tiqcdn.com
+www.asadcdn.com
+
+# Amazon
+
+aan.amazon.com
+aax-*.amazon-adsystem.com
+aax.*.amazon.com
+aax.amazon-adsystem.com
+amazon-adsystem.com
+amazonwebservices.*.sc.omtrdc.net
+assoc-amazon.com
+aviary.amazon.*
+c.amazon-adsystem.com
+configuration-vending.service.amazonsilk.com
+fls-*.amazon-adsystem.com
+fls-*.amazon.*
+global.safebrowsing.service.amazonsilk.com
+mads-*.amazon.com
+mads-eu.amazon.com
+mads.amazon-adsystem.com
+mads.amazon.com
+partnernet.amazon.de
+s.amazon-adsystem.com
+ws-*.amazon-adsystem.com
+ws-*.assoc-amazon.com
+www-amazon-*.customer.fastly.net
+
+# Amazon Devices
+
+# Connection check
+acsechocaptiveportal.com
+# Prevent connection problems of different devices and services
+# Affected: Alexa, Sonos, New World
+# CNAME for e.g. avs-alexa-*-*.amazon.com
+*.a2z.com
+avs-alexa-*-*.amazon.com
+# Prevent various problems with Alexa and Smarthome devices
+d3p8zr0ffa9t17.cloudfront.net
+*.device-metrics-*.amazon.com
+dxz5jxhrrzigf.cloudfront.net
+prod.amcs-tachyon.com
+web.diagnostic.networking.aws.dev
+
+# Amazon Prime Video
+
+*.aiv-cdn.net
+*.aiv-cdn.net.c.footprint.net
+*.aiv-delivery.net
+*.amazonvideo.com
+*.atv-ext-eu.amazon.com
+*.atv-ext-fe.amazon.com
+*.atv-ext.amazon.com
+*.atv-ps.amazon.com
+*.primevideo.com
+*.pv-cdn.net
+*.video.a2z.com
+api.eu-west-1.aiv-delivery.net
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+global.telemetry.insights.video.a2z.com
+
+# Apple
+
+cstat.apple.com
+doh.dns.apple.com
+iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
+mask.icloud.com
+ocsp*.apple.com
+securemetrics.apple.com
+securemvt.apple.com
+supportmetrics.apple.com
+token.safebrowsing.apple
+xp.apple.com
+
+# Apps
+
+# Payment API for many apps for in app purchases
+api.revenuecat.com
+
+# CDNs
+
+# "Markstsuche" Edeka.de: https://www.edeka.de/marktsuche.jsp#/?searchstring=K%C3%B6ln
+cdn.tagcommander.com
+
+# Cookie Management
+
+# https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_whitelist.txt
+*.mgr.consensu.org
+*.sp-prod.net
+aggregator.service.usercentrics.eu
+api.usercentrics.eu
+app.usercentrics.eu
+cdn.cookielaw.org
+cdn.opencmp.net
+cdn.privacy-mgmt.com
+cmp-cdn.cookielaw.org
+consent.cookiebot.com
+consentcdn.cookiebot.com
+consentcdn.cookiebot.com-v1.edgekey.net
+consents.usercentrics.eu
+graphql.usercentrics.eu
+privacy-center.org
+sdk-gcp.privacy-center.org
+sdk.privacy-center.org
+vendorlist.consensu.org
+privacyportal.onetrust.com
+
+# Disney+
+
+*.disney-plus.net
+*.disneyplus.com
+*.disneyplus.com.ssl.sc.omtrdc.net
+*.dss.map.fastly.net
+*.dssott.com
+*.dssott.com.akamaized.net
+*.search-api-disney.bamgrid.com
+akamai-san*.exacttarget.com.edgekey.net
+e12906.dscx.akamaiedge.net
+exacttarget.com.edgekey.net
+# https://github.com/anudeepND/whitelist/issues/228
+*.cws.conviva.com
+cws-eu.conviva.com
+
+# Disqus
+
+c.disquscdn.com
+d231vab146qzfb.cloudfront.net
+
+# Facebook
+
+connect.facebook.com
+graph-video.facebook.com
+graph.facebook.com
+graph.instagram.com
+web.facebook.com
+
+# Gaming
+
+*.epicgames.com
+*.battle.net
+
+# Google
+
+clientservices.googleapis.com
+# Play store app
+*.gvt1.com
+*.gvt2.com
+*.gvt3.com
+
+# Microsoft
+
+# Required endpoints for Windows/Office/Teams
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-21h2-endpoints
+*.smartscreen-prod.microsoft.com
+arc.msn.com
+browser.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
+fp.msedge.net
+g.live.com
+g.msn.com
+go.microsoft.com
+ic3.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+prod.nexusrules.live.com.akadns.net
+prod.rewardsplatform.microsoft.com
+rewardsprod.trafficmanager.net
+self-events-data.trafficmanager.net
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+settingsfd-geo.trafficmanager.net
+target.microsoft.com
+teams-events-data.trafficmanager.net
+teams.events.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+windowsupdate.s.llnwi.net
+www.msftconnecttest.com
+
+# Silent Microsoft Sign-In / CNAME: h-microsoft.online-metrix.net
+vlscppe.microsoft.com
+*microsoft.online-metrix.net
+
+# Microsoft Office 365
+# https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
+*.outlookmobile.com
+
+# Microsoft Mails links/images
+click.email.microsoftrewards.com
+click.engage.windows.com
+click.engage.xbox.com
+click.mail.onedrive.com
+click.microsoftstoreemail.com
+image.email.microsoftrewards.com
+image.email2.office.com
+image.engage.surface.com
+image.engage.windows.com
+image.engage.xbox.com
+image.mail.onedrive.com
+
+# Netflix
+
+*.netflix.com
+*.netflix.net
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
+apiproxy-*-*.*.elb.amazonaws.com
+apiproxy-device-prod-nlb-*.*.amazonaws.com
+beaconserver-ce-*.*.elb.amazonaws.com
+dualstack.apiproxy-*-*.*.elb.amazonaws.com
+dualstack.apiproxy-device-prod-*.elb.*.amazonaws.com
+dualstack.beaconserver-ce-*.*.elb.amazonaws.com
+dualstack.ichnaea-web-*.*.elb.amazonaws.com
+
+# News sites/portals
+
+# Polls on n-tv.de and other news sites
+api.opinary.com
+widgets.opinary.com
+# FAZ
+faz.sevenval-fit.com
+# breaks site layout
+stats.t-online.de
+# breaks site layout
+bilder.fernsehserien.de
+
+# Nintendo
+
+*.nintendo.com
+*.nintendo.net
+*.nintendowifi.net
+a1843.g.akamai.net
+
+# NVidia
+
+*.gfe.nvidia.com
+gfwsl.geforce.com
+images.nvidiagrid.net
+nvidia.tt.omtrdc.net
+
+# Paypal
+
+*.braintreegateway.com
+*.paypal-dynamic-2.map.fastly.net
+*.paypal.ca
+*.paypal.co.uk
+*.paypal.com
+*.paypal.map.fastly.net
+*.paypalobjects.com
+
+# RTL+
+
+# App login non-premium not possible
+# Images are not displayed
+cdn.braze.eu
+
+# Streaming Videos
+
+# Videos on different websites do not start when the following domains are blocked:
+cdn.zomap.de
+cdn2.cam-content.com
+cdn30137721.ahacdn.me
+consent.dk
+consent.faz.net
+engine.phn.doublepimp.com
+ht-cdn2.adtng.com
+hw-cdn.trafficjunky.net
+hw-cdn2.adtng.com
+hw-cdn2.trafficjunky.net
+i01.sozcucdn.com
+p.brid.tv
+player-feedback-v1.glomex.com
+player.glomex.com
+redefine.hit.stat24.com
+s2.static.cfgr3.com
+s3t3d2y7.ackcdn.net
+services.brid.tv
+servix.idnes.cz
+slike.indiatimes.com
+swankyrule.zomap.de
+tdn.da-services.ch
+tm.jsuol.com.br
+uim.tifbs.net
+ultimedia.com
+video.xxxjmp.com
+videos-fms.jwpsrv.com
+vz-cdn.trafficjunky.net
+vz-cdn2.adtng.com
+vz-cdn2.trafficjunky.net
+yrg6yks9.ab1n.net
+# https://github.com/AdAway/adaway.github.io/issues/309
+cs.liiift.io
+
+# Steam
+
+*.s.team
+*.steam-chat.com
+*.steambroadcast.akamaized.net
+*.steamcdn-a.akamaihd.net
+*.steamchina.com
+*.steamcommunity-a.akamaihd.net
+*.steamcommunity.com
+*.steamcontent.com
+*.steamgames.com
+*.steampowered.com
+*.steampowered.com.8686c.com
+*.steamstatic.com
+*.steamstatic.com.8686c.com
+*.steamstore-a.akamaihd.net
+*.steamusercontent-a.akamaihd.net
+*.steamusercontent.com
+*.steamuserimages-a.akamaihd.net
+*.steamvideo-a.akamaihd.net
+*.valvesoftware.com
+
+# Sony (Playstation)
+
+*.playstation.com
+*.playstation.com.edgekey.net
+*.playstation.com.ssl.d1.sc.omtrdc.net
+*.playstation.net
+*.sonycoment.loris-e.llnwd.net
+*.sonyentertainmentnetwork.com
+*.sonyjpnpsg-1.hs.llnwd.net
+
+# Spotify
+
+# Prevent problems with Spotify Premium
+# https://www.netify.ai/resources/applications/spotify
+*.audio-*-spotify-com.akamaized.net
+*.audio4-*-spotify-com.akamaized.net
+*.heads-*-spotify-com.akamaized.net
+heads-*.spotify.com
+*.scdn.co
+wl.spotify.com
+
+# Twitch
+
+# https://www.netify.ai/resources/applications/twitch
+*.ext-twitch.tv
+*.jtvnw.net
+*.live-video.net
+*.ttvnw.net
+*.twitch.okta.com
+*.twitch.map.fastly.net
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
+# Images/Links in Twitch mails
+ink1001.com
+# Prime Loot
+spade.twitch.tv
+countess.twitch.tv
+
+# Twitter
+
+# Embedded Tweets
+analytics.twitter.com
+# CNAME of analytics.twitter.com
+ads.twitter.com
+syndication.twitter.com
+t.co
+
+# Unity
+
+answers.unity.com
+unityprod.answerhub.com
+
+# XBox
+
+*.xbox.com
+*.xboxab.com
+*.xboxab.net
+*.xboxlive.com
+*.xboxlive.com.akadns.net
+*.xboxlive.com.c.footprint.net
+*.xboxlive.com.edgekey.net
+*.xboxservices.com
+xbox-relying.vortex.data.microsoft.com
+
+# Youtube
+
+*.googlevideo.com
+# Search history
+s.youtube.com
+
+# Zoom
+
+logfiles.zoom.us
+
+# Local
+
+*.fritz.box
+*.fritz.nas
+*.gtld-servers.net
+*.lan
+*.local
+*.localdomain
+*.root-servers.net
+0.0.0.0
+127.0.0.1
+airbox.home
+airport
+arcor.easybox
+aterm.me
+broadcasthost
+bthomehub.home
+bthub.home
+congstar.box
+connect.box
+easy.box
+etxr
+fritz.box
+fritz.nas
+fritz.repeater
+giga.cube
+gtld-servers.net
+hi.link
+hitronhub.home
+homerouter.cpe
+huaweimobilewifi.com
+in-addr.arpa
+ip6-allhosts
+ip6-allnodes
+ip6-allrouters
+ip6-localhost
+ip6-localnet
+ip6-loopback
+ip6-mcastprefix
+lan
+local
+localdomain
+localhost
+localhost.localdomain
+myfritz.box
+ntt.setup
+pi.hole
+repeater.asus.com
+root-servers.net
+router.asus.com
+routerlogin.com
+routerlogin.net
+samsung.router
+speedport.ip
+tplinkwifi.net
+web.setup
+web.setup.home
+
+# Reported false positives
+
+# https://github.com/Zelo72/adguard/issues/6
+pcapredict.com
+# Tidal login
+et.tidal.com
+# https://github.com/Zelo72/rpi/issues/22#issuecomment-1017602873
+mycliplister.com
+# Polls on Merkur.de
+static.pinpoll.com
+tools.pinpoll.com
+#

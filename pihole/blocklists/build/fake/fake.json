@@ -1,0 +1,12 @@
+{
+    "name": "fake",
+    "sources": [
+        {
+            "source": "fake.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

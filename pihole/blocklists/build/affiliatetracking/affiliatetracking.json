@@ -1,0 +1,12 @@
+{
+    "name": "affiliatetracking",
+    "sources": [
+        {
+            "source": "affiliatetracking.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

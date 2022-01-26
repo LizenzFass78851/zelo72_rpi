@@ -1,0 +1,81 @@
+==========================
+Totallist (recommendation)
+==========================
+
+----------------------------
+* Big  
+----------------------------
+Included lists: Personal + Light + Multi + Fake + OISD Full
+
+Blocks ads, tracking, metrics, telemetry, fake, phishing, malware, coins, crypto and other "crap". 
+An all-in-one blocklist.
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/big.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/big.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/big.adblock
+
+
+=========================================
+** Basiclists (included in Big blocklist)
+=========================================
+
+----------------------------
+* Multi
+----------------------------
+Blocks ads, tracking, metrics, telemetry, phishing, malware, coins, crypto and other "crap".
+The "light" version of the big list.
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/multi.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock
+
+----------------------------
+* Light
+----------------------------
+Blocks ads, tracking, metrics, telemetry.
+The "very light" version of the multi list.
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/light.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/light.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/light.adblock
+
+----------------------------
+* Fake
+----------------------------
+Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co. 
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/fake.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock
+
+----------------------------
+* Personal
+----------------------------
+Blocks ads, tracking, metrics, telemetry and other "crap".
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/personal.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/personal.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/personal.adblock
+
+
+==================================================================
+** Extensionlists (extension to the Big, Multi or Light blocklist)
+==================================================================
+
+----------------------------
+* Affilate & Tracking
+----------------------------
+Blocks additional ads, ad links, tracking, metrics and telemetry.
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/affiliatetracking.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/affiliatetracking.adblock
+
+----------------------------
+* Threat Intelligence Feeds:
+----------------------------
+Blocks Malware, Crypto, Coins, Spam, Scam and Pishing - domains known to spread malware, launch phishing attacks, host command-and-control servers and more. Increases secutity significantly. 
+
+Domains: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/threat-intelligence.txt
+Hosts: https://raw.githubusercontent.com/Zelo72/hosts/main/threat-intelligence.txt
+AdGuard: https://raw.githubusercontent.com/Zelo72/adguard/main/threat-intelligence.adblock

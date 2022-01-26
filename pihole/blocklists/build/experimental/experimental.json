@@ -1,0 +1,12 @@
+{
+    "name": "experimental",
+    "sources": [
+        {
+            "source": "experimental.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

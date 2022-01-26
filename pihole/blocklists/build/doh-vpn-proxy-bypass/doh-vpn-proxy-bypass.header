@@ -1,0 +1,25 @@
+# ----------------------------------------------
+# DoH/VPN/TOR/Proxy Bypass Blocklist
+# ----------------------------------------------
+#
+# Title: Zelo72 - DoH/VPN/TOR/Proxy Bypass
+#
+# Prevent methods to bypass your DNS:
+#   DNS over HTTPS, VPN, TOR, Proxies
+#
+# Addition:
+#
+# To ensure the bootstrap is your DNS server:
+#   - Redirect standard DNS outbound (UDP 53) to 
+#     an internal server.
+#   - Block all DoT (TCP 853) outbound.
+#
+# Created for purely personal, private use.
+# Keep the internet clean!
+#
+# ----------------------------------------------
+# Support/Report false positive:
+#   GitHub:  https://github.com/Zelo72
+#   Discord: Zelo72#7513
+#   Mail:    zelo72@dismail.de
+# ----------------------------------------------

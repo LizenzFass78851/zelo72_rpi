@@ -1,0 +1,5 @@
+*.checkfordead
+*.sourceurls
+*.removed
+*.regex
+md5.*

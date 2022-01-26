@@ -1,0 +1,12 @@
+{
+    "name": "big",
+    "sources": [
+        {
+            "source": "big.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

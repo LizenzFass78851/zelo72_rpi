@@ -1,0 +1,54 @@
+# Admiral
+https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+
+# Ads & Tracking
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
+
+# Multi
+https://dbl.oisd.nl/basic/
+
+# ---------------------------------------------------------------------------------------------
+# Hosts
+# ---------------------------------------------------------------------------------------------
+
+# Ads & Tracking
+# ! https://adaway.org/hosts.txt
+! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+! https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+! https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+! https://someonewhocares.org/hosts/
+
+# Multi
+# ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Phishing & Malware & Spam
+! https://urlhaus.abuse.ch/downloads/hostfile/
+! https://threatfox.abuse.ch/downloads/hostfile
+
+# ---------------------------------------------------------------------------------------------
+# AdBlock
+# ---------------------------------------------------------------------------------------------
+
+# AdGuard
+& https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+
+# EasyList
+& https://easylist.to/easylist/easylist.txt
+& https://easylist.to/easylist/easyprivacy.txt
+& https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+
+# uBlock
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+# ---------------------------------------------------------------------------------------------
+# Local
+# ---------------------------------------------------------------------------------------------
+
+../../personal.txt

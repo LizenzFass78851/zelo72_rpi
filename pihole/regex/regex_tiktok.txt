@@ -1,0 +1,41 @@
+# RegeEx to completly block TikTok
+
+# Individual  rules
+
+(\.|^)bytecdn\.cn$
+(\.|^)bytedance\.com$
+(\.|^)bytedance\.net$
+(\.|^)bytedns\.net$
+(\.|^)byteicdn\.com$
+(\.|^)byteimg\.com$
+(\.|^)byteoversea\.com$
+(\.|^)byteoversea\.net$
+(\.|^)bytetcdn\.com$
+(\.|^)hypstarcdn\.com$
+(\.|^)ibytedtos\.com$
+(\.|^)ibyteimg\.com$
+(\.|^)ipstatp\.com$
+(\.|^)isnssdk\.com$
+(\.|^)muscdn\.com$
+(\.|^)musemuse\.cn$
+(\.|^)musical\.ly$
+(\.|^)pstatp\.com$
+(\.|^)sgpstatp\.com$
+(\.|^)sgsnssdk\.com$
+(\.|^)snssdk\.com$
+(\.|^)tiktok\.com$
+(\.|^)tiktokcdn-in\.com$
+(\.|^)tiktokcdn-us\.com$
+(\.|^)tiktokcdn\.com$
+(\.|^)tiktokd\.org$
+(\.|^)tiktokv\.com$
+(\.|^)tlivecdn\.com$
+(\.|^)toutiao\.com$
+(\.|^)ttlivecdn\.com$
+(\.|^)ttoversea\.net$
+(\.|^)worldfcdn\.com$
+(\.|^)wsdvs\.com$
+
+# All in one rule
+
+^(.+[_.-])?(bytecdn|bytedance|bytedns|byteicdn|byteimg|byteoversea|bytetcdn|hypstarcdn|ibytedtos|ibyteimg|ipstatp|isnssdk|muscdn|musemuse|musical|pstatp|sgpstatp|sgsnssdk|snssdk|tiktok|tiktokcdn|tiktokcdn-in|tiktokcdn-us|tiktokd|tiktokv|tlivecdn|toutiao|ttlivecdn|ttoversea|worldfcdn|wsdvs)\.[^.]+$

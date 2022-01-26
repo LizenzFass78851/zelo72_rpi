@@ -1,0 +1,35 @@
+# ---------------------------------------------------
+# Zelo*s "Personal Blacklist" - for a better internet
+# ---------------------------------------------------
+#
+# Title: Zelo72 - Personal
+#
+# My personal blacklist. 
+# An extension for other blocklists.
+#
+# Blocks:
+#   ads, tracking, metrics, telemetry and 
+#   other "crap".
+#
+# This blocklist was designed to avoid false 
+# positive domains as much as possible and
+# not to block any needed features.
+# Maximum blocking with full functionality.
+#
+# To keep the list as small as possible, 
+# dead domains are removed regularly.
+#
+# It is updated daily and is available in
+# the following formats:
+#   domains, hosts and adblock.
+#   See: https://github.com/Zelo72
+#
+# Created for purely personal, private use.
+# Keep the internet clean!
+#
+# ---------------------------------------------------
+# Support/Report false positive:
+#   GitHub:  https://github.com/Zelo72
+#   Discord: Zelo72#7513
+#   Mail:    zelo72@dismail.de
+# ---------------------------------------------------

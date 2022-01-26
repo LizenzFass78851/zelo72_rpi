@@ -1,0 +1,12 @@
+{
+    "name": "multi",
+    "sources": [
+        {
+            "source": "multi.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

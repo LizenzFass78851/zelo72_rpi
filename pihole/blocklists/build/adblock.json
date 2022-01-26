@@ -1,0 +1,12 @@
+{
+    "name": "tmp",
+    "sources": [
+        {
+            "source": "tmp.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

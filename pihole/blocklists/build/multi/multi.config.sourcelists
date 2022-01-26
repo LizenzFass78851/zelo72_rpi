@@ -1,0 +1,128 @@
+# ---------------------------------------------------------------------------------------------
+# Domains
+# ---------------------------------------------------------------------------------------------
+
+# Admiral
+https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+https://v.firebog.net/hosts/Admiral.txt
+
+# Ads & Tracking
+https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
+https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+# https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+
+# Multi
+https://dbl.oisd.nl/basic/
+# https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/include_for_all.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+
+# Phishing & Malware & Spyware
+https://phishing.army/download/phishing_army_blocklist.txt
+
+# ---------------------------------------------------------------------------------------------
+# Hosts
+# ---------------------------------------------------------------------------------------------
+
+# Ads & Tracking
+# ! https://adaway.org/hosts.txt
+! https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+! https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+! https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+! https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+! https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+# ! https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+! https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+# ! https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+# ! https://raw.githubusercontent.com/velesila/yhosts/master/hosts
+! https://someonewhocares.org/hosts/
+! https://winhelp2002.mvps.org/hosts.txt
+# ! https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+# ! https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+
+# Coins
+# ! https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
+! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
+# Multi
+# ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Phishing & Malware & Spam
+! https://urlhaus.abuse.ch/downloads/hostfile/
+! https://threatfox.abuse.ch/downloads/hostfile
+
+# Sonstiges
+! https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+
+# ---------------------------------------------------------------------------------------------
+# AdBlock
+# ---------------------------------------------------------------------------------------------
+
+# AdGuard
+& https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
+& https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+
+# EasyList
+& https://easylist-downloads.adblockplus.org/Liste_AR.txt
+& https://easylist-downloads.adblockplus.org/advblock.txt
+& https://easylist-downloads.adblockplus.org/easylistchina.txt
+& https://easylist-downloads.adblockplus.org/easylistdutch.txt
+& https://easylist-downloads.adblockplus.org/easylistgermany.txt
+& https://easylist-downloads.adblockplus.org/easylistitaly.txt
+& https://easylist-downloads.adblockplus.org/easylistpolish.txt
+& https://easylist-downloads.adblockplus.org/easylistportuguese.txt
+& https://easylist-downloads.adblockplus.org/easylistspanish.txt
+& https://easylist-downloads.adblockplus.org/indianlist.txt
+& https://easylist-downloads.adblockplus.org/koreanlist.txt
+& https://easylist-downloads.adblockplus.org/liste_fr.txt
+& https://easylist.to/easylist/easylist.txt
+& https://easylist.to/easylist/easyprivacy.txt
+& https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+& https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+& https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+& https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+& https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+& https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
+& https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+& https://stanev.org/abp/adblock_bg.txt
+& https://www.void.gr/kargig/void-gr-filters.txt
+& https://www.zoso.ro/pages/rolist.txt
+& https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+
+# uBlock
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+& https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+# Kees
+& https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+& https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+
+# ---------------------------------------------------------------------------------------------
+# Local
+# ---------------------------------------------------------------------------------------------
+
+../../personal.txt

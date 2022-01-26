@@ -1,0 +1,9 @@
+# Title: EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.
+#
+# Please report issues related to website breakage at
+# https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+#
+# After the previous experience of adding false positives by adding a new source to this list,
+# I decided to create a second file, so any false positives introduced with this new source
+# will not impact existing users of the EU_US-most_used blocklist. This list nearly doubles
+# in rules, because the threshold was lowered to (highter than) one percent marketshare.

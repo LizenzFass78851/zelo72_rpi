@@ -1,0 +1,12 @@
+{
+    "name": "doh-vpn-proxy-bypass",
+    "sources": [
+        {
+            "source": "doh-vpn-proxy-bypass.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

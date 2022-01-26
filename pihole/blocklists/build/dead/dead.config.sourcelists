@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/domains/INACTIVE/list
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.fake/master/output/origin.list/domains/INACTIVE/list
+../../data/dead.list.afftrack
+../../data/dead.list.fake
+../../data/dead.list.multi
+../../data/dead.list.threat-intelligence

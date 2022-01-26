@@ -1,0 +1,70 @@
+# Apple
+api-adservices.apple.com
+books-analytics-events.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+cs.iadsdk.apple.com
+iadsdk.apple.com
+metrics.apple.com
+metrics.icloud.com
+news.iadsdk.apple.com
+notes-analytics-events.apple.com
+su.iadsdk.apple.com
+tr.iadsdk.apple.com
+ut.iadsdk.apple.com
+weather-analytics-events.apple.com
+
+# Appsflyer
+t.appsflyer.com
+stats.appsflyer.com
+stats.appsflyer.com.akamaized.net
+
+# Crashlytics
+crashlytics2.l.google.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+reports.crashlytics.com
+
+# Google
+ade.googlesyndication.com
+app-measurement.com
+firebaselogging-pa.googleapis.com
+fls.doubleclick.net
+google-analytics.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+pagead-googlehosted.l.google.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+rpc.googlesyndication.com
+s0-2mdn-net.l.google.com
+s0.2mdn.net
+safeframe.googlesyndication.com
+secureads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ssl.google-analytics.com
+static.doubleclick.net
+stats.g.doubleclick.net
+toc.googlesyndication.com
+tpc.googlesyndication.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+www.google-analytics.com
+www.googlesyndication.com
+www.googletagmanager.com
+www.googletagservices.com
+
+# Ioam
+config.ioam.de
+de.ioam.de
+
+# Philips Hue
+diagnostics.meethue.com
+
+# Quantserve
+secure.quantserve.com
+global.px.quantserve.com

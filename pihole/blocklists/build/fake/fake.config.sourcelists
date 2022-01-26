@@ -1,0 +1,8 @@
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+https://assets.windscribe.com/custom_blocklists/clickbait.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
+../../data/black.list.fake
+../../data/fake.ts.black.list
+../../data/fake.vzni.black.list

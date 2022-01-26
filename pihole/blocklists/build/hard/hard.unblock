@@ -1,0 +1,3 @@
+# Whitelist
+# you can use wildcards: *.test.com / cdn-*.test.*.com
+*.et.tidal.com

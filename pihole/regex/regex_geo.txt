@@ -1,0 +1,9 @@
+# Geo
+(\.cn$|\.hk$|\.vn$|\.jp$|\.kr$|\.kp$|\.asia$)
+(\.ru$|\.su$)
+
+# Most Abused Top Level Domains
+(\.top$|\.surf$|\.date$|\.icu$|\.cam$|\.bar$|\.gq$|\.ml$|\.webcam$|\.xyz$|\.bid$|\.cf$|\.work$|\.ga$|\.biz$)
+
+# Onion
+\.onion$

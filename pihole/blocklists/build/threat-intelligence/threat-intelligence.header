@@ -1,0 +1,39 @@
+# -----------------------------------------
+# Zelo*s "Threat Intelligence Feeds" 
+# -----------------------------------------
+#
+# Title: Zelo72 - Threat Intelligence Feeds
+#
+# Malware, Crypto, Coin, Spam and Pishing
+# 
+# Blocks:
+#   domains known to spread malware, 
+#   launch phishing attacks and host 
+#   command-and-control servers.
+#
+# Increases secutity significantly.
+#
+# It was compiled from numerous sources.
+#
+# An attempt has been made to avoid false 
+# positive domains, but still this list
+# may contain false positive domains.
+# Therefore, an admin should be available
+# to allow falsely blocked domains when
+# you use this list.
+# Please report false positive domains.
+#
+# It is updated daily and is available in
+# the following formats:
+#   domains, hosts and adblock.
+#   See: https://github.com/Zelo72
+#
+# Created for purely personal, private use.
+# Keep the internet clean and safe!
+#
+# -----------------------------------------
+# Support/Report false positive:
+#   GitHub:  https://github.com/Zelo72
+#   Discord: Zelo72#7513
+#   Mail:    zelo72@dismail.de
+# -----------------------------------------

@@ -1,0 +1,12 @@
+{
+    "name": "threat-intelligence",
+    "sources": [
+        {
+            "source": "threat-intelligence.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

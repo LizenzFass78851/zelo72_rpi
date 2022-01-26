@@ -1,0 +1,30 @@
+### Compile dead.nt Blocklist ###
+
+Config:
+
+** Build - 3:
+
+   localpush
+   dead
+   noheader
+
+Initialize ...
+
+# Download and convert Sourcelists ...
+
+  Nr |   Count | Format  | Source | Status  | File      | URL/File
+   1 |  106567 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
+   2 |   28586 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
+
+# Build dead.nt Domainlist ...
+
+Stats dead.nt:
+
+** Source (raw):    135153
+== Source (unique): 135153 (-0)
+
+135153 unique Domains - Version 2022.0126.102004
+MD5 Domains RAW: 5c1ba15be1db1ee7c32ad2d6b94dfb97
+
+# Push dead.nt to local Repositories ...
+
