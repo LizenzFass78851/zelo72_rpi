@@ -13,8 +13,8 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  106567 | dead    | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
-   2 |   28586 | dead    | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
+   1 |  106567 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
+   2 |   28586 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
    3 |      47 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/domains/INACTIVE/list
    4 |     357 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.fake/master/output/origin.list/domains/INACTIVE/list
    5 |     121 | dead    | local  | online  | unchanged | dead.list.afftrack
@@ -29,8 +29,7 @@ Stats dead:
 ** Source (raw):    750477
 == Source (unique): 555095 (-195382)
 
-555095 unique Domains - Version 2022.0126.101940
-MD5 Domains RAW: db61d875467f346c4589828241a2f4c8
-
-# Push dead to local Repositories ...
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 

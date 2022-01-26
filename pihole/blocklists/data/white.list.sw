@@ -5254,6 +5254,7 @@ click.linksynergy.com
 click.mc.caldwellshooting.com
 click.mc.crimsontrace.com
 click-message.capitalone.com
+click-notification.capitalone.com
 click.oe.target.com
 clickorlando.com
 click.parlermailer.com

@@ -158,6 +158,7 @@ web.facebook.com
 
 # Google
 
+*.cdn.ampproject.org
 clientservices.googleapis.com
 # Play store app
 *.gvt1.com
@@ -274,6 +275,11 @@ nvidia.tt.omtrdc.net
 # App login non-premium not possible
 # Images are not displayed
 cdn.braze.eu
+
+# Shopping
+
+content.aimatch.com
+widgets.trustedshops.com
 
 # Streaming Videos
 

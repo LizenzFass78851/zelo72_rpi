@@ -275,6 +275,11 @@ nvidia.tt.omtrdc.net
 # Images are not displayed
 cdn.braze.eu
 
+# Shopping
+
+content.aimatch.com
+widgets.trustedshops.com
+
 # Streaming Videos
 
 # Videos on different websites do not start when the following domains are blocked:
@@ -478,4 +483,6 @@ mycliplister.com
 # Polls on Merkur.de
 static.pinpoll.com
 tools.pinpoll.com
+# https://github.com/Zelo72/adguard/issues/7
+sportsbet.com.au
 #
