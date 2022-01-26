@@ -6,9 +6,12 @@ ampcid.google.*
 id.google.*
 *.cloudflare.net
 *.cloudflare.com
-unagi.amazon.ae
 unagi.amazon.*
 unagi*.amazon.*
 *.amazon.com
 *.amazon.de
 *.amazonaws.com
+*.instagram.com
+*.fbcdn.net
+*.facebook.com
+*.samsung*
