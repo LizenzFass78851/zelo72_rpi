@@ -14,9 +14,14 @@ Config:
    ../../data/dead.nt.list
    ../../data/dead.list.threat-intelligence
 
--- Whitelists - 3:
+-- Whitelists - 8:
 
-   ../../data/exclude.list
+   ../../data/white.list.important
+   ../../data/white.list.bmj
+   ../../data/white.list.nt
+   ../../data/white.list.sw
+   ../../doh-vpn-proxy-bypass.txt
+   ../../data/white.list.mkb
    ../../data/white.list.apple
    ../../data/white.list.microsoft
 
@@ -25,27 +30,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   69248 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-   2 |   16035 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-   3 |   12193 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
-   4 |    1116 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
-   5 |    5421 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
-   6 |    1067 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
+   1 |   69248 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+   2 |   16035 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+   3 |   12194 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
+   4 |    1116 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
+   5 |    5421 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
+   6 |    1067 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
 
 # Build extra Domainlist ...
 
 Stats extra:
 
-** Source (raw):    105080
-== Source (unique): 99847 (-5233)
--- White:           98103 (-1744)
--- White(*):        97322 (-781)
--- Dead:            96949 (-373)
-++ FLD:             96949 (+0)
-++ WWW:             125678 (+28729)
+** Source (raw):    105081
+== Source (unique): 99847 (-5234)
+-- White:           99111 (-736)
+-- White(*):        98351 (-760)
+-- Dead:            97972 (-379)
+++ FLD:             97972 (+0)
+++ WWW:             127236 (+29264)
 
-125678 unique Domains - Version 2022.0126.200341
-MD5 Domains RAW: 288eca7d22da62e0ca0ed19e1e862170
+127236 unique Domains - Version 2022.0126.202403
+MD5 Domains RAW: 74839eebd234d9b5761681d5ce65305f
 
 # Convert extra to Hostlist ... 
 
@@ -68,10 +73,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling extra.adblock.raw
-ℹ Original length is 96868
-ℹ Length after applying transformations is 96868
-ℹ The list was compressed from 96871 to 96323
-ℹ Final length of the list is 96329
+ℹ Original length is 97890
+ℹ Length after applying transformations is 97890
+ℹ The list was compressed from 97893 to 97254
+ℹ Final length of the list is 97260
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
 ℹ Finished compiling
 
