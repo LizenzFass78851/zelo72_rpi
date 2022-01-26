@@ -2,3 +2,13 @@ adservice.google.com.*
 *.mozilla.com
 *.mozaws.net
 *.googleapis.com
+ampcid.google.*
+id.google.*
+*.cloudflare.net
+*.cloudflare.com
+unagi.amazon.ae
+unagi.amazon.*
+unagi*.amazon.*
+*.amazon.com
+*.amazon.de
+*.amazonaws.com
