@@ -35,10 +35,10 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13691 | domains | local  | online  | unchanged | black.list
+!    1 |   13661 | domains | local  | online  | changed   | black.list
 !    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 9696 unique Domains - Version 2022.0126.102804
+! 9666 unique Domains - Version 2022.0127.041109
 !
 ||07c0aec6173f.cdn4.forter.com^
 ||08811fe312b34d79a529147893a6c3f8-3624ab25de3b.cdn.forter.com^
@@ -125,6 +125,7 @@
 ||50websads.com^
 ||518ad.com^
 ||53e1270541f5.cdn4.forter.com^
+||55b41bef46.com^
 ||5baf1288cf.dl8.me^
 ||5f651e70.akstat.io^
 ||5ijo.01net.com^
@@ -183,6 +184,7 @@
 ||a3cloud.net^
 ||a4.overclockers.ua^
 ||a5414371492.cdn.optimizely.com^
+||a5a0976123.com^
 ||a5.overclockers.ua^
 ||a6529002483.cdn.optimizely.com^
 ||a7871036.cdn.optimizely.com^
@@ -390,6 +392,7 @@
 ||ad-dev.globalnoticias.pt^
 ||addfreestats.com^
 ||ad.digitallook.com^
+||additionalcasualcabinet.com^
 ||addme.com^
 ||add.newmedia.cz^
 ||ad.doganburda.com^
@@ -2084,6 +2087,7 @@
 ||beam.giraffe360.com^
 ||beamincrease.com^
 ||beam-ws.giraffe360.com^
+||beastintruder.com^
 ||bebi.com^
 ||beddinginset.com^
 ||bedsberry.com^
@@ -2253,6 +2257,7 @@
 ||brightinfo.com^
 ||brightmountainmedia.com^
 ||brilliantcollector.com^
+||briskedmiskept.com^
 ||britepool.com^
 ||british-banners.com^
 ||britishskybroadcasti.tt.omtrdc.net^
@@ -3139,6 +3144,7 @@
 ||cognitiv.ai^
 ||cognitivlabs.com^
 ||cogwheel.inventory.schibsted.io^
+||cohabitrecipetransmitted.com^
 ||coinhiveproxy.com^
 ||coliassfeurytheme.com^
 ||collect2.sas.com^
@@ -3258,7 +3264,6 @@
 ||contentabc.com^
 ||content.acc-hd.de^
 ||content.ad^
-||content.aimatch.com^
 ||content.canadiantire.ca^
 ||content.discover.com^
 ||contentexchange.me^
@@ -3952,6 +3957,7 @@
 ||dockdigestion.com^
 ||docksalmon.com^
 ||dogcollarfavourbluff.com^
+||dogcollarnearest.com^
 ||do-global.com^
 ||domaining.in^
 ||domainsponsor.com^
@@ -4084,6 +4090,7 @@
 ||editor-assets.abtasty.com^
 ||e.dlx.addthis.com^
 ||eezegrip.net^
+||effectivedisplaycontent.com^
 ||effectivemeasure.com^
 ||effectivemeasure.net^
 ||efficaciouscactus.com^
@@ -4103,6 +4110,7 @@
 ||eligibility.wootric.com^
 ||elitedollars.com^
 ||elitetoplist.com^
+||elizabethclowneasy.com^
 ||eljxvlvlceli.top^
 ||elkjop.112.2o7.net^
 ||elkjop.tt.omtrdc.net^
@@ -4153,6 +4161,7 @@
 ||england365.gr^
 ||enormousearth.com^
 ||enquisite.com^
+||enrilov.info^
 ||ens.nzz.ch^
 ||entercasino.com^
 ||enterpriseholdingsin.tt.omtrdc.net^
@@ -4381,6 +4390,7 @@
 ||feeds.videosz.com^
 ||feefo.com^
 ||felix.data.tm-awx.com^
+||felonlosel.com^
 ||fendhaunteddelay.com^
 ||fff.dailymail.co.uk^
 ||ffxcam.fairfax.com.au^
@@ -5293,6 +5303,7 @@
 ||kanoodle.com^
 ||kantartns.lt^
 ||kaplanindex.com^
+||kareaumatzot.com^
 ||kargo.com^
 ||karma.mdpcdn.com^
 ||karonty.com^
@@ -5373,6 +5384,7 @@
 ||lapre28rmcat2.com^
 ||lapresse-ca.lapresse.ca^
 ||lasteventf-tm.everesttech.net^
+||latereshi.pro^
 ||latinwayy.com^
 ||laughablecopper.com^
 ||laughcloth.com^
@@ -5457,6 +5469,7 @@
 ||lijit.com^
 ||likemore-go.imgsmail.ru^
 ||li.livingsocial.com^
+||limpstronglyer.com^
 ||li.mw.drhinternet.net^
 ||link4ads.com^
 ||linkadd.de^
@@ -5844,6 +5857,7 @@
 ||meter.bostonglobe.com^
 ||meter-svc.nytimes.com^
 ||methodcash.com^
+||metopeharriet.com^
 ||metric-agent.i10c.net^
 ||metric.gstatic.com^
 ||metric.huya.com^
@@ -5927,6 +5941,7 @@
 ||mid.hao123.com^
 ||mieru-ca.com^
 ||mihvea1f.micpn.com^
+||mildewtali.com^
 ||milesandmore.tt.omtrdc.net^
 ||militaryverse.com^
 ||milotree.com^
@@ -6259,6 +6274,7 @@
 ||nuttyorganization.com^
 ||nvidpns.com^
 ||nxakpj4ac8gkd53.info^
+||nxuktkuoazvizd.com^
 ||nym1-ib.adnxs.com^
 ||nypost-com.videoplayerhub.com^
 ||nytrng.com^
@@ -6266,65 +6282,8 @@
 ||nztv.juno.com^
 ||nztv.netzero.net^
 ||nzz.tt.omtrdc.net^
-||o101405.ingest.sentry.io^
-||o1020801.ingest.sentry.io^
-||o1028474.ingest.sentry.io^
-||o1064249.ingest.sentry.io^
-||o108982.ingest.sentry.io^
-||o109687.ingest.sentry.io^
-||o115706.ingest.sentry.io^
-||o120674.ingest.sentry.io^
-||o127091.ingest.sentry.io^
-||o13855.ingest.sentry.io^
-||o147001.ingest.sentry.io^
-||o148425.ingest.sentry.io^
-||o152342.ingest.sentry.io^
-||o160713.ingest.sentry.io^
-||o165775.ingest.sentry.io^
-||o1.ingest.sentry.io^
-||o207141.ingest.sentry.io^
-||o211375.ingest.sentry.io^
-||o223348.ingest.sentry.io^
-||o22381.ingest.sentry.io^
-||o227519.ingest.sentry.io^
-||o22822.ingest.sentry.io^
-||o245575.ingest.sentry.io^
-||o248881.ingest.sentry.io^
-||o249255.ingest.sentry.io^
-||o281138.ingest.sentry.io^
 ||o2.hit.gemius.pl^
-||o303126.ingest.sentry.io^
-||o31459.ingest.sentry.io^
-||o314617.ingest.sentry.io^
 ||o333o.com^
-||o356416.ingest.sentry.io^
-||o375540.ingest.sentry.io^
-||o38597.ingest.sentry.io^
-||o426583.ingest.sentry.io^
-||o427384.ingest.sentry.io^
-||o435357.ingest.sentry.io^
-||o455617.ingest.sentry.io^
-||o463757.ingest.sentry.io^
-||o465114.ingest.sentry.io^
-||o509422.ingest.sentry.io^
-||o524565.ingest.sentry.io^
-||o552333.ingest.sentry.io^
-||o561379.ingest.sentry.io^
-||o565572.ingest.sentry.io^
-||o57603.ingest.sentry.io^
-||o61655.ingest.sentry.io^
-||o64130.ingest.sentry.io^
-||o64315.ingest.sentry.io^
-||o71339.ingest.sentry.io^
-||o723128.ingest.sentry.io^
-||o741402.ingest.sentry.io^
-||o83843.ingest.sentry.io^
-||o878075.ingest.sentry.io^
-||o90235.ingest.sentry.io^
-||o90687.ingest.sentry.io^
-||o916138.ingest.sentry.io^
-||o930955.ingest.sentry.io^
-||o95877.ingest.sentry.io^
 ||oafishobservation.com^
 ||oaftaijo.net^
 ||oakapsot.com^
@@ -7006,6 +6965,7 @@
 ||quarterserver.de^
 ||qubit.com^
 ||qubitproducts.com^
+||quenchskirmishcohere.com^
 ||questaffiliates.net^
 ||questback.com^
 ||quickkoala.io^
@@ -7340,6 +7300,7 @@
 ||rutrk.org^
 ||rxthdr.com^
 ||ryanair.demdex.net^
+||rycuvaphy.com^
 ||s0-2mdn-net.l.google.com^
 ||s11.cnzz.com^
 ||s121.cnzz.com^
@@ -7413,6 +7374,7 @@
 ||satismeter.com^
 ||sats.manager-magazin.de^
 ||sats.spiegel.de^
+||saumonpipidae.com^
 ||saymedia.com^
 ||saysidewalk.com^
 ||s.bankier.pl^
@@ -7677,6 +7639,7 @@
 ||skyrisecities.com^
 ||sky.tt.omtrdc.net^
 ||slaapschool.com^
+||slavesenviablegrammar.com^
 ||sleepcartoon.com^
 ||s.lenovo.com^
 ||slickdeals-d.openx.net^
@@ -7993,6 +7956,7 @@
 ||sp.hattiesburgamerican.com^
 ||sp.htrnews.com^
 ||spidersboats.com^
+||spidersmerithenceforward.com^
 ||spiegel.met.vgwort.de^
 ||spiffymachine.com^
 ||spinbox.techtracker.com^
@@ -8308,7 +8272,6 @@
 ||stats.suite101.com^
 ||stats.sxp.smartclip.net^
 ||stats.thevideo.me^
-||stats-t--online-de.cdn.ampproject.org^
 ||stats.townnews.com^
 ||statstracker.celebrity-gossip.net^
 ||stats.tvmaze.com^
@@ -8465,6 +8428,7 @@
 ||synerise.com^
 ||synerise.decathlon.pl^
 ||sys.refocus.ru^
+||system-notify.app^
 ||syteapi.com^
 ||s.zmctrack.net^
 ||sz.met.vgwort.de^
@@ -9047,6 +9011,7 @@
 ||turbo-cdn.net^
 ||turbotax.demdex.net^
 ||turn.com^
+||tv2zanalytics.com^
 ||tvcok.ru^
 ||t.vimeo.com^
 ||t.vi-serve.com^
@@ -9382,6 +9347,7 @@
 ||waust.at^
 ||wa.wdr.de^
 ||wa.web.de^
+||waymarkgentiin.com^
 ||waz.met.vgwort.de^
 ||wbg.tt.omtrdc.net^
 ||wblt.oui.sncf^
@@ -9523,6 +9489,7 @@
 ||wishpond.net^
 ||witch-counter.de^
 ||witches.reactor.cc^
+||withoutmotivation.com^
 ||wizaly.com^
 ||wknd.ai^
 ||wlct-one.de^
@@ -9551,6 +9518,7 @@
 ||wpshsdk.com^
 ||wpu.sh^
 ||wrapper.lemde.fr^
+||writtenanonymousgum.com^
 ||wryfinger.com^
 ||wsglb0.com^
 ||w.sharethis.com^
@@ -9669,6 +9637,7 @@
 ||yoggrt.com^
 ||yogyn.com^
 ||youborafds01.com^
+||youngestsow.com^
 ||youradexchange.com^
 ||your-notice.com^
 ||yourtemplatefinder.com^
@@ -9720,6 +9689,7 @@
 ||zippyfrog.co^
 ||ziyu.net^
 ||zjngh6ej.micpn.com^
+||zlajnpfqgsleo.com^
 ||zlp6s.pw^
 ||zm232.com^
 ||zmedia.com^

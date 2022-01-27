@@ -35,10 +35,10 @@
 # ---------------------------------------------------
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |   13691 | domains | local  | online  | unchanged | black.list
+#    1 |   13661 | domains | local  | online  | changed   | black.list
 #    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 #
-# 18634 unique Domains - Version 2022.0126.102804
+# 18633 unique Domains - Version 2022.0127.041109
 #
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
@@ -841,6 +841,7 @@
 0.0.0.0 5582200.fls.doubleclick.net
 0.0.0.0 5584487.fls.doubleclick.net
 0.0.0.0 5593200.fls.doubleclick.net
+0.0.0.0 55b41bef46.com
 0.0.0.0 55f58553ffff421b843b01d04c702014.js.ubembed.com
 0.0.0.0 5604400.fls.doubleclick.net
 0.0.0.0 5609200.fls.doubleclick.net
@@ -1395,6 +1396,7 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a5414371492.cdn.optimizely.com
 0.0.0.0 a58914a2.de.ioam.de
+0.0.0.0 a5a0976123.com
 0.0.0.0 a5.overclockers.ua
 0.0.0.0 a6529002483.cdn.optimizely.com
 0.0.0.0 a6h6k2bhr1.kameleoon.eu
@@ -1696,6 +1698,7 @@
 0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 addfreestats.com
 0.0.0.0 ad.digitallook.com
+0.0.0.0 additionalcasualcabinet.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 addme.com
 0.0.0.0 add.newmedia.cz
@@ -3829,6 +3832,7 @@
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beastintruder.com
 0.0.0.0 bebi.com
 0.0.0.0 beddinginset.com
 0.0.0.0 bedsberry.com
@@ -4032,6 +4036,7 @@
 0.0.0.0 brightinfo.com
 0.0.0.0 brightmountainmedia.com
 0.0.0.0 brilliantcollector.com
+0.0.0.0 briskedmiskept.com
 0.0.0.0 britepool.com
 0.0.0.0 british-banners.com
 0.0.0.0 britishskybroadcasti.tt.omtrdc.net
@@ -5351,6 +5356,7 @@
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitivlabs.com
 0.0.0.0 cogwheel.inventory.schibsted.io
+0.0.0.0 cohabitrecipetransmitted.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 coliassfeurytheme.com
@@ -5568,7 +5574,6 @@
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content.adriver.ru
-0.0.0.0 content.aimatch.com
 0.0.0.0 content.canadiantire.ca
 0.0.0.0 content.discover.com
 0.0.0.0 contentexchange.me
@@ -6489,6 +6494,7 @@
 0.0.0.0 docksalmon.com
 0.0.0.0 documentation.kameleoon.com
 0.0.0.0 dogcollarfavourbluff.com
+0.0.0.0 dogcollarnearest.com
 0.0.0.0 do-global.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
@@ -6793,6 +6799,7 @@
 0.0.0.0 eezegrip.net
 0.0.0.0 efd29527.de.ioam.de
 0.0.0.0 efda80bb.de.ioam.de
+0.0.0.0 effectivedisplaycontent.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 efficaciouscactus.com
@@ -6828,6 +6835,7 @@
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
+0.0.0.0 elizabethclowneasy.com
 0.0.0.0 eljxvlvlceli.top
 0.0.0.0 elkjop.112.2o7.net
 0.0.0.0 elkjop.tt.omtrdc.net
@@ -6905,6 +6913,7 @@
 0.0.0.0 england365.gr
 0.0.0.0 enormousearth.com
 0.0.0.0 enquisite.com
+0.0.0.0 enrilov.info
 0.0.0.0 ens.nzz.ch
 0.0.0.0 entercasino.com
 0.0.0.0 enterpriseholdingsin.tt.omtrdc.net
@@ -7245,6 +7254,7 @@
 0.0.0.0 feefo.com
 0.0.0.0 feffec48.de.ioam.de
 0.0.0.0 felix.data.tm-awx.com
+0.0.0.0 felonlosel.com
 0.0.0.0 fendhaunteddelay.com
 0.0.0.0 ff792076.de.ioam.de
 0.0.0.0 ff953c77.de.ioam.de
@@ -8606,6 +8616,7 @@
 0.0.0.0 kanoodle.com
 0.0.0.0 kantartns.lt
 0.0.0.0 kaplanindex.com
+0.0.0.0 kareaumatzot.com
 0.0.0.0 kargo.com
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 karonty.com
@@ -8727,6 +8738,7 @@
 0.0.0.0 lapresse-ca.lapresse.ca
 0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 lat2491.d41.co
+0.0.0.0 latereshi.pro
 0.0.0.0 latinwayy.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
@@ -8826,6 +8838,7 @@
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 li.livingsocial.com
 0.0.0.0 limelight-ssl.cedexis-test.com
+0.0.0.0 limpstronglyer.com
 0.0.0.0 li.mw.drhinternet.net
 0.0.0.0 link4ads.com
 0.0.0.0 linkadd.de
@@ -9319,6 +9332,7 @@
 0.0.0.0 meter.bostonglobe.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 methodcash.com
+0.0.0.0 metopeharriet.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.huya.com
@@ -9409,6 +9423,7 @@
 0.0.0.0 mieru-ca.com
 0.0.0.0 mihvea1f.micpn.com
 0.0.0.0 milanuncios.pushengage.com
+0.0.0.0 mildewtali.com
 0.0.0.0 milesandmore.tt.omtrdc.net
 0.0.0.0 militaryverse.com
 0.0.0.0 milotree.com
@@ -9839,6 +9854,7 @@
 0.0.0.0 nvidpns.com
 0.0.0.0 nw5t2qtka8.kameleoon.eu
 0.0.0.0 nxakpj4ac8gkd53.info
+0.0.0.0 nxuktkuoazvizd.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nypost-com.videoplayerhub.com
 0.0.0.0 nytrng.com
@@ -9849,71 +9865,14 @@
 0.0.0.0 nzz.tt.omtrdc.net
 0.0.0.0 o03mg7vsxf.kameleoon.eu
 0.0.0.0 o0n5us4isa.kameleoon.eu
-0.0.0.0 o101405.ingest.sentry.io
-0.0.0.0 o1020801.ingest.sentry.io
-0.0.0.0 o1028474.ingest.sentry.io
-0.0.0.0 o1064249.ingest.sentry.io
-0.0.0.0 o108982.ingest.sentry.io
-0.0.0.0 o109687.ingest.sentry.io
-0.0.0.0 o115706.ingest.sentry.io
-0.0.0.0 o120674.ingest.sentry.io
-0.0.0.0 o127091.ingest.sentry.io
-0.0.0.0 o13855.ingest.sentry.io
-0.0.0.0 o147001.ingest.sentry.io
-0.0.0.0 o148425.ingest.sentry.io
-0.0.0.0 o152342.ingest.sentry.io
-0.0.0.0 o160713.ingest.sentry.io
-0.0.0.0 o165775.ingest.sentry.io
 0.0.0.0 o1.abtshield.com
 0.0.0.0 o1gbw4vvne.kameleoon.eu
-0.0.0.0 o1.ingest.sentry.io
-0.0.0.0 o207141.ingest.sentry.io
-0.0.0.0 o211375.ingest.sentry.io
-0.0.0.0 o223348.ingest.sentry.io
-0.0.0.0 o22381.ingest.sentry.io
-0.0.0.0 o227519.ingest.sentry.io
-0.0.0.0 o22822.ingest.sentry.io
-0.0.0.0 o245575.ingest.sentry.io
-0.0.0.0 o248881.ingest.sentry.io
-0.0.0.0 o249255.ingest.sentry.io
-0.0.0.0 o281138.ingest.sentry.io
 0.0.0.0 o2.hit.gemius.pl
-0.0.0.0 o303126.ingest.sentry.io
-0.0.0.0 o31459.ingest.sentry.io
-0.0.0.0 o314617.ingest.sentry.io
 0.0.0.0 o333o.com
-0.0.0.0 o356416.ingest.sentry.io
-0.0.0.0 o375540.ingest.sentry.io
-0.0.0.0 o38597.ingest.sentry.io
-0.0.0.0 o426583.ingest.sentry.io
-0.0.0.0 o427384.ingest.sentry.io
-0.0.0.0 o435357.ingest.sentry.io
-0.0.0.0 o455617.ingest.sentry.io
-0.0.0.0 o463757.ingest.sentry.io
-0.0.0.0 o465114.ingest.sentry.io
 0.0.0.0 o48kfrlhr0.mentalist.kameleoon.com
 0.0.0.0 o4mpkr2wrzyawn8kyyzlpvlnnpmgb1640881813.nuid.imrworldwide.com
-0.0.0.0 o509422.ingest.sentry.io
-0.0.0.0 o524565.ingest.sentry.io
-0.0.0.0 o552333.ingest.sentry.io
-0.0.0.0 o561379.ingest.sentry.io
-0.0.0.0 o565572.ingest.sentry.io
-0.0.0.0 o57603.ingest.sentry.io
-0.0.0.0 o61655.ingest.sentry.io
-0.0.0.0 o64130.ingest.sentry.io
-0.0.0.0 o64315.ingest.sentry.io
-0.0.0.0 o71339.ingest.sentry.io
-0.0.0.0 o723128.ingest.sentry.io
-0.0.0.0 o741402.ingest.sentry.io
-0.0.0.0 o83843.ingest.sentry.io
-0.0.0.0 o878075.ingest.sentry.io
 0.0.0.0 o8egkl8seb.kameleoon.eu
 0.0.0.0 o8urya7fkq.mentalist.kameleoon.com
-0.0.0.0 o90235.ingest.sentry.io
-0.0.0.0 o90687.ingest.sentry.io
-0.0.0.0 o916138.ingest.sentry.io
-0.0.0.0 o930955.ingest.sentry.io
-0.0.0.0 o95877.ingest.sentry.io
 0.0.0.0 o.adhslx.com
 0.0.0.0 o.adtriba.com
 0.0.0.0 o.advg.jp
@@ -10844,6 +10803,7 @@
 0.0.0.0 quarterserver.de
 0.0.0.0 qubit.com
 0.0.0.0 qubitproducts.com
+0.0.0.0 quenchskirmishcohere.com
 0.0.0.0 query.fqtag.com
 0.0.0.0 questaffiliates.net
 0.0.0.0 questback.com
@@ -11280,6 +11240,7 @@
 0.0.0.0 rutrk.org
 0.0.0.0 rxthdr.com
 0.0.0.0 ryanair.demdex.net
+0.0.0.0 rycuvaphy.com
 0.0.0.0 rydvfmfq55.kameleoon.eu
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s0.2mdn.net
@@ -11389,6 +11350,7 @@
 0.0.0.0 satismeter.com
 0.0.0.0 sats.manager-magazin.de
 0.0.0.0 sats.spiegel.de
+0.0.0.0 saumonpipidae.com
 0.0.0.0 saxp.zedo.com
 0.0.0.0 saymedia.com
 0.0.0.0 saysidewalk.com
@@ -11787,6 +11749,7 @@
 0.0.0.0 sky.tt.omtrdc.net
 0.0.0.0 sl7z48lo45.kameleoon.eu
 0.0.0.0 slaapschool.com
+0.0.0.0 slavesenviablegrammar.com
 0.0.0.0 sleepcartoon.com
 0.0.0.0 s.lenovo.com
 0.0.0.0 slickdeals.btttag.com
@@ -12126,6 +12089,7 @@
 0.0.0.0 sp.hattiesburgamerican.com
 0.0.0.0 sp.htrnews.com
 0.0.0.0 spidersboats.com
+0.0.0.0 spidersmerithenceforward.com
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spinbox.techtracker.com
@@ -12589,7 +12553,6 @@
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stats.thevideo.me
-0.0.0.0 stats-t--online-de.cdn.ampproject.org
 0.0.0.0 stats.townnews.com
 0.0.0.0 statstracker.celebrity-gossip.net
 0.0.0.0 stats.tvmaze.com
@@ -12802,6 +12765,7 @@
 0.0.0.0 synerise.com
 0.0.0.0 synerise.decathlon.pl
 0.0.0.0 sys.refocus.ru
+0.0.0.0 system-notify.app
 0.0.0.0 syteapi.com
 0.0.0.0 sz42mipej7aogyxfvyhqmw3wk8gtc1640877387.nuid.imrworldwide.com
 0.0.0.0 sz7juql6l5.kameleoon.eu
@@ -13556,6 +13520,7 @@
 0.0.0.0 turbotax.demdex.net
 0.0.0.0 turn.com
 0.0.0.0 t.us1.dyntrk.com
+0.0.0.0 tv2zanalytics.com
 0.0.0.0 tvcok.ru
 0.0.0.0 t.vimeo.com
 0.0.0.0 t.vi-serve.com
@@ -14047,6 +14012,7 @@
 0.0.0.0 waves.retentionscience.com
 0.0.0.0 wa.wdr.de
 0.0.0.0 wa.web.de
+0.0.0.0 waymarkgentiin.com
 0.0.0.0 waz.met.vgwort.de
 0.0.0.0 wbg.tt.omtrdc.net
 0.0.0.0 wblt.oui.sncf
@@ -14228,6 +14194,7 @@
 0.0.0.0 wishpond.net
 0.0.0.0 witch-counter.de
 0.0.0.0 witches.reactor.cc
+0.0.0.0 withoutmotivation.com
 0.0.0.0 wizaly.com
 0.0.0.0 wk96z0qdp2.kameleoon.eu
 0.0.0.0 wknd.ai
@@ -14262,6 +14229,7 @@
 0.0.0.0 wpu.sh
 0.0.0.0 wpzaf21wua.kameleoon.eu
 0.0.0.0 wrapper.lemde.fr
+0.0.0.0 writtenanonymousgum.com
 0.0.0.0 wrs.adrsp.net
 0.0.0.0 wryfinger.com
 0.0.0.0 ws.audioeye.com
@@ -14365,6 +14333,7 @@
 0.0.0.0 www.50bang.org
 0.0.0.0 www.50websads.com
 0.0.0.0 www.518ad.com
+0.0.0.0 www.55b41bef46.com
 0.0.0.0 www.5mcwl.pw
 0.0.0.0 www.65twenty.com
 0.0.0.0 www.6ldu6qa.com
@@ -14389,6 +14358,7 @@
 0.0.0.0 www.9f3b5a24d5.com
 0.0.0.0 www.9v58v.com
 0.0.0.0 www.a3cloud.net
+0.0.0.0 www.a5a0976123.com
 0.0.0.0 www.a8a8altrk.com
 0.0.0.0 www.a8.net
 0.0.0.0 www.aaddzz.com
@@ -14495,6 +14465,7 @@
 0.0.0.0 www.addefend.com
 0.0.0.0 www.ad-delivery.net
 0.0.0.0 www.addfreestats.com
+0.0.0.0 www.additionalcasualcabinet.com
 0.0.0.0 www.addme.com
 0.0.0.0 www.addresseepaper.com
 0.0.0.0 www.addroplet.com
@@ -15024,6 +14995,7 @@
 0.0.0.0 www.beachfront.com
 0.0.0.0 www.beachlinkz.com
 0.0.0.0 www.beamincrease.com
+0.0.0.0 www.beastintruder.com
 0.0.0.0 www.bebi.com
 0.0.0.0 www.beddinginset.com
 0.0.0.0 www.bedsberry.com
@@ -15151,6 +15123,7 @@
 0.0.0.0 www.brightinfo.com
 0.0.0.0 www.brightmountainmedia.com
 0.0.0.0 www.brilliantcollector.com
+0.0.0.0 www.briskedmiskept.com
 0.0.0.0 www.britepool.com
 0.0.0.0 www.british-banners.com
 0.0.0.0 www.broadboundary.com
@@ -15346,6 +15319,7 @@
 0.0.0.0 www.cognativex.com
 0.0.0.0 www.cognitiv.ai
 0.0.0.0 www.cognitivlabs.com
+0.0.0.0 www.cohabitrecipetransmitted.com
 0.0.0.0 www.coinhiveproxy.com
 0.0.0.0 www.coliassfeurytheme.com
 0.0.0.0 www.colonize.com
@@ -15592,6 +15566,7 @@
 0.0.0.0 www.dockdigestion.com
 0.0.0.0 www.docksalmon.com
 0.0.0.0 www.dogcollarfavourbluff.com
+0.0.0.0 www.dogcollarnearest.com
 0.0.0.0 www.do-global.com
 0.0.0.0 www.domaining.in
 0.0.0.0 www.domainsponsor.com
@@ -15669,6 +15644,7 @@
 0.0.0.0 www.edaa.eu
 0.0.0.0 www.edioca.com
 0.0.0.0 www.eezegrip.net
+0.0.0.0 www.effectivedisplaycontent.com
 0.0.0.0 www.effectivemeasure.com
 0.0.0.0 www.effectivemeasure.net
 0.0.0.0 www.efficaciouscactus.com
@@ -15684,6 +15660,7 @@
 0.0.0.0 www.elephantqueue.com
 0.0.0.0 www.elitedollars.com
 0.0.0.0 www.elitetoplist.com
+0.0.0.0 www.elizabethclowneasy.com
 0.0.0.0 www.eljxvlvlceli.top
 0.0.0.0 www.email-match.com
 0.0.0.0 www.emanog.com
@@ -15710,6 +15687,7 @@
 0.0.0.0 www.england365.gr
 0.0.0.0 www.enormousearth.com
 0.0.0.0 www.enquisite.com
+0.0.0.0 www.enrilov.info
 0.0.0.0 www.entercasino.com
 0.0.0.0 www.enthusiastgaming.net
 0.0.0.0 www.enthusiasticdad.com
@@ -15830,6 +15808,7 @@
 0.0.0.0 www.feedjit.com
 0.0.0.0 www.feedmob.com
 0.0.0.0 www.feefo.com
+0.0.0.0 www.felonlosel.com
 0.0.0.0 www.fendhaunteddelay.com
 0.0.0.0 www.fg8dgt.com
 0.0.0.0 www.fiftyt.com
@@ -16355,6 +16334,7 @@
 0.0.0.0 www.kanoodle.com
 0.0.0.0 www.kantartns.lt
 0.0.0.0 www.kaplanindex.com
+0.0.0.0 www.kareaumatzot.com
 0.0.0.0 www.kargo.com
 0.0.0.0 www.karonty.com
 0.0.0.0 www.kctag.net
@@ -16403,6 +16383,7 @@
 0.0.0.0 www.lamforsung.com
 0.0.0.0 www.lanistaads.com
 0.0.0.0 www.lapre28rmcat2.com
+0.0.0.0 www.latereshi.pro
 0.0.0.0 www.latinwayy.com
 0.0.0.0 www.laughablecopper.com
 0.0.0.0 www.laughcloth.com
@@ -16442,6 +16423,7 @@
 0.0.0.0 www.lightcushion.com
 0.0.0.0 www.lightspeedcash.com
 0.0.0.0 www.lijit.com
+0.0.0.0 www.limpstronglyer.com
 0.0.0.0 www.link4ads.com
 0.0.0.0 www.linkadd.de
 0.0.0.0 www.link-ag.net
@@ -16606,6 +16588,7 @@
 0.0.0.0 www.messagenovice.com
 0.0.0.0 www.metanetwork.com
 0.0.0.0 www.methodcash.com
+0.0.0.0 www.metopeharriet.com
 0.0.0.0 www.metrigo.com
 0.0.0.0 www.metrika-informer.com
 0.0.0.0 www.metrilo.com
@@ -16621,6 +16604,7 @@
 0.0.0.0 www.microticker.com
 0.0.0.0 www.midas-network.com
 0.0.0.0 www.mieru-ca.com
+0.0.0.0 www.mildewtali.com
 0.0.0.0 www.militaryverse.com
 0.0.0.0 www.milotree.com
 0.0.0.0 www.mindbox.ru
@@ -16833,6 +16817,7 @@
 0.0.0.0 www.nuttyorganization.com
 0.0.0.0 www.nvidpns.com
 0.0.0.0 www.nxakpj4ac8gkd53.info
+0.0.0.0 www.nxuktkuoazvizd.com
 0.0.0.0 www.nytrng.com
 0.0.0.0 www.nzaza.com
 0.0.0.0 www.o333o.com
@@ -17227,6 +17212,7 @@
 0.0.0.0 www.quarterserver.de
 0.0.0.0 www.qubit.com
 0.0.0.0 www.qubitproducts.com
+0.0.0.0 www.quenchskirmishcohere.com
 0.0.0.0 www.questaffiliates.net
 0.0.0.0 www.questback.com
 0.0.0.0 www.quickkoala.io
@@ -17425,6 +17411,7 @@
 0.0.0.0 www.ruthlessrobin.com
 0.0.0.0 www.rutrk.org
 0.0.0.0 www.rxthdr.com
+0.0.0.0 www.rycuvaphy.com
 0.0.0.0 www.s1-adfly.com
 0.0.0.0 www.s20dh7e9dh.com
 0.0.0.0 www.s2d6.com
@@ -17448,6 +17435,7 @@
 0.0.0.0 www.sape.ru
 0.0.0.0 www.satisfycork.com
 0.0.0.0 www.satismeter.com
+0.0.0.0 www.saumonpipidae.com
 0.0.0.0 www.saymedia.com
 0.0.0.0 www.saysidewalk.com
 0.0.0.0 www.sbgsodufuosmmvsdf.info
@@ -17580,6 +17568,7 @@
 0.0.0.0 www.skylink.vn
 0.0.0.0 www.skyrisecities.com
 0.0.0.0 www.slaapschool.com
+0.0.0.0 www.slavesenviablegrammar.com
 0.0.0.0 www.sleepcartoon.com
 0.0.0.0 www.slipclearing.com
 0.0.0.0 www.slipperysack.com
@@ -17661,6 +17650,7 @@
 0.0.0.0 www.speop.com
 0.0.0.0 www.spezialreporte.de
 0.0.0.0 www.spidersboats.com
+0.0.0.0 www.spidersmerithenceforward.com
 0.0.0.0 www.spiffymachine.com
 0.0.0.0 www.spirebaboon.com
 0.0.0.0 www.spkoevngk.com
@@ -17787,6 +17777,7 @@
 0.0.0.0 www.swordfishdc.com
 0.0.0.0 www.swordgoose.com
 0.0.0.0 www.synerise.com
+0.0.0.0 www.system-notify.app
 0.0.0.0 www.syteapi.com
 0.0.0.0 www.tabookbusines.info
 0.0.0.0 www.tag4arm.com
@@ -18002,6 +17993,7 @@
 0.0.0.0 www.turboadv.com
 0.0.0.0 www.turbo-cdn.net
 0.0.0.0 www.turn.com
+0.0.0.0 www.tv2zanalytics.com
 0.0.0.0 www.tvcok.ru
 0.0.0.0 www.tvpixel.com
 0.0.0.0 www.tvsquared.com
@@ -18198,6 +18190,7 @@
 0.0.0.0 www.watanvision.sa
 0.0.0.0 www.wateryvan.com
 0.0.0.0 www.waust.at
+0.0.0.0 www.waymarkgentiin.com
 0.0.0.0 www.wbtrk.net
 0.0.0.0 www.wcfbc.net
 0.0.0.0 www.wdfl.co
@@ -18271,6 +18264,7 @@
 0.0.0.0 www.wisepops.com
 0.0.0.0 www.wishpond.net
 0.0.0.0 www.witch-counter.de
+0.0.0.0 www.withoutmotivation.com
 0.0.0.0 www.wizaly.com
 0.0.0.0 www.wknd.ai
 0.0.0.0 www.wlct-one.de
@@ -18294,6 +18288,7 @@
 0.0.0.0 www.wpnsrv.com
 0.0.0.0 www.wpshsdk.com
 0.0.0.0 www.wpu.sh
+0.0.0.0 www.writtenanonymousgum.com
 0.0.0.0 www.wryfinger.com
 0.0.0.0 www.wsglb0.com
 0.0.0.0 www.wsod.com
@@ -18360,6 +18355,7 @@
 0.0.0.0 www.yoggrt.com
 0.0.0.0 www.yogyn.com
 0.0.0.0 www.youborafds01.com
+0.0.0.0 www.youngestsow.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.your-notice.com
 0.0.0.0 www.yourtemplatefinder.com
@@ -18398,6 +18394,7 @@
 0.0.0.0 www.zimg.jp
 0.0.0.0 www.zippyfrog.co
 0.0.0.0 www.ziyu.net
+0.0.0.0 www.zlajnpfqgsleo.com
 0.0.0.0 www.zlp6s.pw
 0.0.0.0 www.zm232.com
 0.0.0.0 www.zmedia.com
@@ -18547,6 +18544,7 @@
 0.0.0.0 yogyn.com
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 youborafds01.com
+0.0.0.0 youngestsow.com
 0.0.0.0 youradexchange.com
 0.0.0.0 your-notice.com
 0.0.0.0 yourtemplatefinder.com
@@ -18621,6 +18619,7 @@
 0.0.0.0 ziyu.net
 0.0.0.0 zjngh6ej.micpn.com
 0.0.0.0 zkcatwifn2.kameleoon.eu
+0.0.0.0 zlajnpfqgsleo.com
 0.0.0.0 zlg32td80f.kameleoon.eu
 0.0.0.0 zlp6s.pw
 0.0.0.0 zm232.com

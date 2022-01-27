@@ -35,26 +35,26 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13691 | domains | local  | online  | unchanged | black.list
+   1 |   13661 | domains | local  | online  | changed   | black.list
    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build personal Domainlist ...
 
 Stats personal:
 
-** Source (raw):    14326
-== Source (unique): 14319 (-7)
--- White:           14317 (-2)
--- White(*):        14317 (-0)
--- Dead:            14297 (-20)
-++ Block:           14833 (+536)
--- Unblock:         14832 (-1)
--- Unblock(*):      14828 (-4)
-++ FLD:             14877 (+49)
-++ WWW:             18634 (+3757)
+** Source (raw):    14296
+== Source (unique): 14289 (-7)
+-- White:           14287 (-2)
+-- White(*):        14287 (-0)
+-- Dead:            14267 (-20)
+++ Block:           14803 (+536)
+-- Unblock:         14802 (-1)
+-- Unblock(*):      14798 (-4)
+++ FLD:             14847 (+49)
+++ WWW:             18633 (+3786)
 
-18634 unique Domains - Version 2022.0126.102804
-MD5 Domains RAW: 99eb3289d8420c3e381cbe2dd24f5dd9
+18633 unique Domains - Version 2022.0127.041109
+MD5 Domains RAW: 3531e10b8399d84456efc8e550095261
 
 # Convert personal to Hostlist ... 
 
@@ -77,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 14554
-ℹ Length after applying transformations is 14554
-ℹ The list was compressed from 14557 to 9700
-ℹ Final length of the list is 9706
+ℹ Original length is 14524
+ℹ Length after applying transformations is 14524
+ℹ The list was compressed from 14527 to 9670
+ℹ Final length of the list is 9676
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
