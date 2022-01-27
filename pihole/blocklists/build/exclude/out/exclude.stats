@@ -22,7 +22,7 @@ Initialize ...
    2 |      48 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/RemovedDomains
    3 |     698 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/RPiList/specials/master/dev/corona%20whitelist
    4 |    3199 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/RPiList/specials/master/dev/whitelist
-   5 |   27284 | white   | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Filter
+   5 |   27308 | white   | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Filter
    6 |     355 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist
    7 |     949 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
    8 |     778 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/anudeepND/blacklist/master/miscellaneous/false-positives.txt
@@ -32,7 +32,7 @@ Initialize ...
   12 |       1 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/accomplist/master/whitelist/optimized.white.domain.list
   13 |     686 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/my-allowlist/master/allow.list
   14 |     352 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/chrisjudk/hosts/master/whitelist
-  15 |     436 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
+  15 |     437 | white   | http   | online  | changed   | https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
   16 |     143 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
   17 |    3420 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt
   18 |      50 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist
@@ -40,15 +40,15 @@ Initialize ...
   20 |     358 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains
   21 |    1725 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
   22 |     892 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
-  23 |     222 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/p1r473/hosts/master/whitelist.txt
+  23 |     223 | white   | http   | online  | changed   | https://raw.githubusercontent.com/p1r473/hosts/master/whitelist.txt
   24 |      79 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/whitelist.txt
   25 |      94 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.FadeMind
   26 |   15039 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/whitelisted.list
   27 |    5937 | white   | local  | online  | unchanged | white.list.common
   28 |     899 | white   | local  | online  | unchanged | white.list.referral
-  29 |     341 | white   | local  | online  | changed   | white.list.important
-  30 |    4410 | white   | local  | online  | changed   | white.list.adguard
-  31 |    3203 | white   | local  | online  | unchanged | white.list.oisd
+  29 |     344 | white   | local  | online  | changed   | white.list.important
+  30 |    4410 | white   | local  | online  | unchanged | white.list.adguard
+  31 |    3236 | white   | local  | online  | changed   | white.list.oisd
   32 |     595 | white   | local  | online  | unchanged | white.list.bmj
   33 |      43 | white   | local  | online  | unchanged | white.list.shc
   34 |     780 | white   | local  | online  | unchanged | doh-vpn-proxy-bypass.txt
@@ -57,15 +57,15 @@ Initialize ...
 
 Stats exclude:
 
-** Source (raw):    74909
-== Source (unique): 62914 (-11995)
--- White:           62875 (-39)
-++ FLD from SLD:    71216 (+8341)
-++ FLD:             71314 (+98)
-++ WWW:             98590 (+27276)
+** Source (raw):    74971
+== Source (unique): 62953 (-12018)
+-- White:           62914 (-39)
+++ FLD from SLD:    71253 (+8339)
+++ FLD:             71351 (+98)
+++ WWW:             98645 (+27294)
 
-98590 unique Domains - Version 2022.0126.184703
-MD5 Domains RAW: 4dcc7d6bb0e50bfd02cf153a1ee4787a
+98645 unique Domains - Version 2022.0127.040051
+MD5 Domains RAW: 2e16483d753cfc9df1a2262f1cda4838
 
 # Push exclude to local Repositories ...
 

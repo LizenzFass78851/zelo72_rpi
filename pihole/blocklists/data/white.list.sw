@@ -261,6 +261,7 @@
 4players.de
 4pos.co.za
 4shared.com
+4sio.club
 4.sophosxl.net
 4-stroke.net
 4usky.com
@@ -646,6 +647,7 @@ actionnewsjax.com
 actiontrucks.com
 actionvillage.com
 activate.activation-v2.kaspersky.com
+activate.api.stardock.net
 activate.courant.com
 activate-here.com
 activate-here.us
@@ -1655,6 +1657,7 @@ apkins.aptoide.com
 apkmirror.com
 apkpure.com
 aplan.co.uk
+apmex.com
 apnews.com
 ap-northeast-2.console.aws.amazon.com
 ap-northeast-2.signin.aws.amazon.com
@@ -2408,6 +2411,7 @@ au.www.download.windowsupdate.com
 a-v2.sndcdn.com
 avadirect.com
 availability.dickssportinggoods.com
+avalanche-studios.cdn.prismic.io
 avalanchestudios.com
 avanquest.com
 avanquestusa.com
@@ -3587,6 +3591,7 @@ buy.garmin.com
 buy.garmin.com.cdn.cloudflare.net
 buy.gm.com
 buyhandh.com
+buy.hpe.com
 buy.itunes.apple.com
 buy.logitech.com
 buy.matterport.com
@@ -4650,6 +4655,7 @@ cdn.razersynapse.com
 cdn.realpython.com
 cdn.registerdisney.go.com
 cdn.rentavault.net
+cdnres.willyweather.com
 cdn.retrorgb.com
 cdn.reverso.net
 cdnrf.securenetsystems.net
@@ -4735,6 +4741,7 @@ cdn.theatlantic.com
 cdn.thecoolist.com
 cdn.thecustommotorcycle.co.uk
 cdn.thegamesdb.net
+cdn.theme.iastate.edu
 cdn.themovieseries.net
 cdn.theoplayer.com
 cdn.therateinc.com
@@ -5231,6 +5238,7 @@ cldup.com
 cleanairguides.com
 cleantalk.org
 clearchain.com
+clearinghouse.fmcsa.dot.gov
 clearurls.github.io
 cleaverfirearms.com
 clementine-player.org
@@ -5498,6 +5506,7 @@ coins.ha.com
 coins.thefuntimesguide.com
 cointalk.com
 cointrackers.com
+coinworld.com
 colddeadhands.us
 coldfeet-space.nyc3.cdn.digitaloceanspaces.com
 coldfeet-space.nyc3.digitaloceanspaces.com
@@ -5515,6 +5524,7 @@ collectablecds.s3.amazonaws.com
 collectiblend.com
 collectors.com
 collectorsrow.net
+collectorsuniverse.com
 collectorsweekly.com
 collegebasketball.ap.org
 collegefootball.ap.org
@@ -8233,6 +8243,7 @@ egopowerplus.com
 egp-idsoc-proxy-prod.ol.epicgames.com
 egwguns.com
 eh5153jjbilvhwnq18672ksy-wpengine.netdna-ssl.com
+ehs.iastate.edu
 eidebailly.com
 eielectronics.com
 eightforums.com
@@ -9014,6 +9025,7 @@ feed.theplatform.com
 feed.tunein.com
 feelgrafix.com
 feelinsonice-hrd.appspot.com
+fe-hpe-script.s3.us-east-2.amazonaws.com
 fellowsheep.ch
 feltmagnet.com
 fema.gov
@@ -9524,6 +9536,7 @@ foundationfarm.org
 foundlingmuseum.org.uk
 fourdofapi.hornady.com
 fourleafdigital.shell.com
+fourseasons.com
 fourthrockrecords.com
 fourwheelporn.com
 fox10phoenix.com
@@ -11361,6 +11374,7 @@ hippo-deals.com
 hips.hearstapps.com
 hirejordansmith.com
 hirepurpose.com
+hirezstudios.com
 hiroom2.com
 hisense.com
 hisense-usa.com
@@ -11845,6 +11859,7 @@ iareap.net
 iastate.account.box.com
 iastate.app.box.com
 iastate.box.com
+iastate.edu
 iava.org
 ia.varsitybound.com
 iavs9x.avg.u.avcdn.net
@@ -12262,6 +12277,7 @@ images.anandtech.com
 images.andale.com
 images.ansys.com
 images.antonline.com
+images-apmex.com
 images.apple.com
 images.apple.com.akadns.net
 images.arrowfilms.com
@@ -18140,6 +18156,7 @@ overstock.com
 overthinkingit.com
 overwatchprecision.com
 overwolf.com
+overwolf.github.io
 ovh.net
 ovp.peacocktv.com
 ow1.res.office365.com
@@ -19946,6 +19963,7 @@ redneckblinds.com
 redpowermagazine.com
 redpowerphotos.s3.us-east-2.amazonaws.com
 redream.io
+redrobin.com
 redrunrite.com
 redsharknews.com
 redsky.target.com
@@ -20084,6 +20102,7 @@ research.net
 research.wsu.edu
 reseed-fr.i2pd.xyz
 resellerratings.com
+reservations.fourseasons.com
 residentadvisor.net
 resideo.com
 resilience.org
@@ -22260,6 +22279,7 @@ starbucks.com
 starcraftmarine.com
 stardewvalley.net
 stardock.com
+stardock.net
 starecat.com
 star-herald.com
 star-herald.dotphoto.com
@@ -22269,6 +22289,7 @@ starlink.com
 starmakerstudios.com
 starschanges.com
 starstashnashville.com
+startallback.com
 startasl.com
 startcdn.starttv.com
 startcomca.com
@@ -22276,6 +22297,7 @@ startcom.org
 start.duckduckgo.com
 startech.com
 startech.com.cdn.cloudflare.net
+startisback.com
 start.lenovo.com
 start.new.toshiba.com
 startpage.com
@@ -22759,6 +22781,7 @@ steenmn.com
 steeringinnovation.s3.us-east-2.amazonaws.com
 steinelammo.com
 steiner-optics.com
+stellabooks.com
 stella-emu.github.io
 stellarinfo.com
 stephenmcculley.co.uk
@@ -26819,6 +26842,7 @@ ws.audioscrobbler.com
 wsaw.com
 wsbtv.com
 ws.cnetcontent.com
+ws.coinworld.com
 ws-comments.ign.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com

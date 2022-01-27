@@ -158,6 +158,7 @@ web.facebook.com
 
 # Google
 
+*.cdn.ampproject.org
 clientservices.googleapis.com
 # Play store app
 *.gvt1.com
@@ -416,6 +417,7 @@ logfiles.zoom.us
 
 # Local
 
+*.arpa
 *.fritz.box
 *.fritz.nas
 *.gtld-servers.net
@@ -485,4 +487,6 @@ static.pinpoll.com
 tools.pinpoll.com
 # https://github.com/Zelo72/adguard/issues/7
 sportsbet.com.au
+# https://github.com/AdAway/adaway.github.io/issues/312
+*.sentry.io
 #
