@@ -39,11 +39,11 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-!    3 |    7067 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
+!    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
 !    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 !    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !
-! 71342 unique Domains - Version 2022.0126.103720
+! 71334 unique Domains - Version 2022.0127.042053
 !
 ||0.0.0.0.beeglivesex.com^
 ||000free.us^
@@ -2587,6 +2587,7 @@
 ||ad.accesstrade.vn^
 ||ad-ace.doubleclick.net^
 ||adaction.de^
+||adactive-ads.aimatch.com^
 ||ad.adacado.com^
 ||adadmin.headlines.pw^
 ||ad-admin.vnay.vn^
@@ -5295,7 +5296,6 @@
 ||adstest.weather.com^
 ||adstextview.qq.com^
 ||ads.thanhnien.vn^
-||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.thecoolhunter.net^
 ||ads.thecrimson.com^
 ||ads.thefrisky.com^
@@ -6187,7 +6187,6 @@
 ||ailoganalyticsportal-eus.cloudapp.net^
 ||aim4media.com^
 ||ai-marketing.net.daraz.com^
-||aimatch.com^
 ||aimeos.softuvo.xyz^
 ||aimes.com^
 ||aim.etr.im^
@@ -6953,7 +6952,6 @@
 ||analytics.data.lloydsbankinggroup.com^
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.digital-metric.com^
-||analytics-digit-in.cdn.ampproject.org^
 ||analytics.dnsfilter.com^
 ||analytics.dogecoin.gg^
 ||analytics.dspunion.com^
@@ -7465,7 +7463,6 @@
 ||anycracks.com^
 ||an.yesnetwork.com^
 ||anymind360.com^
-||anymind360-com.cdn.ampproject.org^
 ||anynewdomain.xyz^
 ||an.z5x.net^
 ||anz7.allianz-voyage.fr^
@@ -12390,7 +12387,6 @@
 ||cdn.bigmining.com^
 ||cdn.blisspointmedia.com^
 ||cdn.bluecore.com^
-||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn.brandmetrics.com^
 ||cdn.braun634.com^
 ||cdn.brcdn.com^
@@ -15501,6 +15497,7 @@
 ||crta.dailymail.co.uk^
 ||crtbb.livejasmin.com^
 ||crtinf.livejasmin.com^
+||crtl.aimatch.com^
 ||crt.livejasmin.com^
 ||crto.in^
 ||cr-toptom.com^
@@ -18689,7 +18686,6 @@
 ||dishpurchasingcorporation-stage.hb-api.omtrdc.net^
 ||diskord.ru.com^
 ||disneyembroiderycards.com^
-||disney.my.sentry.io^
 ||disneyswap.org^
 ||disorde.gift^
 ||disordpromotlons.com^
@@ -30962,7 +30958,6 @@
 ||ingamesads.gameloft.com^
 ||ingbkpl.com^
 ||ingest.m2appmonitor.com^
-||ingest.sentry.io^
 ||inglgoog.coocoldini.xyz^
 ||ing-ll.pl^
 ||inglnet.milldrop.xyz^
@@ -34627,7 +34622,6 @@
 ||log.videocampaign.co^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamplus.vn^
-||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vnfinance.vn^
@@ -39428,6 +39422,7 @@
 ||mobileclient-ns2.cl.bellsouth.net.daraz.com^
 ||mobileclient-partner.net.zooplus.com^
 ||mobile-collector.newrelic.com^
+||mobileconfig.sascdn.com^
 ||mobile.confsettings.com^
 ||mobilecore.com^
 ||mobile.eum-appdynamics.com^
@@ -54432,7 +54427,6 @@
 ||s.baomoi.xdn.vn^
 ||sbaqub.instantfunk.co^
 ||sbbanner.com^
-||sbbanner-com.cdn.ampproject.org^
 ||sbcapitalmanagementinc.com^
 ||sbcomniture.focus.de^
 ||sbdhdq.zeeman.com^
@@ -61334,7 +61328,6 @@
 ||static.accesstrade.vn^
 ||static.adbutter.net^
 ||static.adconnect.vn^
-||static-addtoany-com.cdn.ampproject.org^
 ||static.addynamo.net^
 ||static.adfclick1.com^
 ||static.ad-lancers.jp^
@@ -66977,7 +66970,6 @@
 ||v8engine.pinsightmedia.com^
 ||v8push.pinsightmedia.com^
 ||v9banners.com^
-||v9banners-com.cdn.ampproject.org^
 ||v9-laserdetector-pl.com^
 ||va.5.p2l.info^
 ||vaabsd.chainkzal.xyz^

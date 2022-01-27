@@ -39,11 +39,11 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 #    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-#    3 |    7067 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
+#    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112774 unique Domains - Version 2022.0126.103720
+# 112751 unique Domains - Version 2022.0127.042053
 #
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -6858,7 +6858,6 @@ adstest.reklamstore.com
 adstest.weather.com
 adstextview.qq.com
 ads.thanhnien.vn
-ads-thanhnien-vn.cdn.ampproject.org
 ads.thecoolhunter.net
 ads.thecrimson.com
 ads.thefrisky.com
@@ -7913,7 +7912,6 @@ ailamtrieuphu.com
 ailoganalyticsportal-eus.cloudapp.net
 aim4media.com
 ai-marketing.net.daraz.com
-aimatch.com
 aimeos.softuvo.xyz
 aimes.com
 aim.etr.im
@@ -8853,7 +8851,6 @@ analytics-csr11.net.daraz.com
 analytics.data.lloydsbankinggroup.com
 analytics.diamondstarfinancial.com.vn
 analytics.digital-metric.com
-analytics-digit-in.cdn.ampproject.org
 analytics.dnsfilter.com
 analytics.dogecoin.gg
 analytics.donglogs.com
@@ -9426,7 +9423,6 @@ anycracks.com
 an.yesnetwork.com
 anylist.c.appier.net
 anymind360.com
-anymind360-com.cdn.ampproject.org
 anynewdomain.xyz
 anythinghollywood.us.intellitxt.com
 an.z5x.net
@@ -15896,7 +15892,6 @@ cdn.blisspointmedia.com
 cdn.blueconic.net
 cdn.bluecore.com
 cdn.bongdadem.net
-cdn-bongdadem-net.cdn.ampproject.org
 cdn.boomtrain.com
 cdn.brandmetrics.com
 cdn.braun634.com
@@ -18987,7 +18982,6 @@ content.adacado.com
 content.adspynet.com
 content.adtegrity.net
 content.aerohive.com
-content.aimatch.com
 content.allsafe.nl
 content.alticemedia.com
 content.amafiltration.com
@@ -23795,7 +23789,6 @@ disney.demdex.net
 disneyembroiderycards.com
 disneyinternational.demdex.net
 disneyinternational.hb.omtrdc.net
-disney.my.sentry.io
 disneyswap.org
 disneyvacations.com.102.112.2o7.net
 dis.nl.eu.criteo.com
@@ -38432,7 +38425,6 @@ ingbkpl.com
 ing-dashboard.net.zooplus.es
 ing-district.clicktale.net
 ingest.m2appmonitor.com
-ingest.sentry.io
 ingest.vungle.akadns.net
 ingest.vungle.com
 in.getclicky.com
@@ -42866,7 +42858,6 @@ log.videocampaign.co
 log.vietnamdaily.net.vn
 log.vietnamnetad.vn
 log.vietnamplus.vn
-log-vietnamplus-vn.cdn.ampproject.org
 log.viettimes.vn
 log.vnay.vn
 log.vnfinance.vn
@@ -48108,6 +48099,7 @@ mobileclient-ns2.cl.bellsouth.net.daraz.com
 mobileclient-partner.net.zooplus.com
 mobile-collector.newrelic.com
 mobilecomputermag.uk.intellitxt.com
+mobileconfig.sascdn.com
 mobile.confsettings.com
 mobile.controller.duokanbox.com
 mobilecore.com
@@ -53022,8 +53014,6 @@ nz.welcome-to.com
 nzz.d3.sc.omtrdc.net
 o0ooo.xyz
 o0.winfuture.de
-o107031.ingest.sentry.io
-o129937.ingest.sentry.io
 o1fp6o.webwave.dev
 o1.inviziads.com
 o1.qnsr.com
@@ -53036,19 +53026,11 @@ o2lo.pl
 o2omart.co.in
 o2-online.pl
 o313o.com
-o325556.ingest.sentry.io
 o333o.com
-o334541.ingest.sentry.io
 o3sndvzo25.com
-o400018.ingest.sentry.io
-o472445.ingest.sentry.io
-o491168.ingest.sentry.io
 o4kvv6.webwave.dev
-o502263.ingest.sentry.io
-o534899.ingest.sentry.io
 o5team.com
 o68c.sfr.fr
-o77029.ingest.sentry.io
 o8.aus.cc
 o8.hyatt.com
 o9sfsufhdgyysd.bar
@@ -65023,7 +65005,6 @@ s.baidu.com
 s.baomoi.xdn.vn
 sbaqub.instantfunk.co
 sbbanner.com
-sbbanner-com.cdn.ampproject.org
 sbcapitalmanagementinc.com
 sbcomniture.focus.de
 sbdhdq.zeeman.com
@@ -72803,7 +72784,6 @@ static.ad.atdmt.com
 static.adbutter.net
 static.adconnect.vn
 static.addtoany.com
-static-addtoany-com.cdn.ampproject.org
 static.addynamo.net
 static.adfarm1.adition.com
 static.adfclick1.com
@@ -79569,7 +79549,6 @@ v8.analytics.pinsightmedia.com
 v8engine.pinsightmedia.com
 v8push.pinsightmedia.com
 v9banners.com
-v9banners-com.cdn.ampproject.org
 v9-laserdetector-pl.com
 va1.vip.prod.criteo.com
 va1.vip.prod.criteo.net
@@ -85161,7 +85140,6 @@ www.aiisa.am
 www.aijabruvere.com
 www.ailamtrieuphu.com
 www.aim4media.com
-www.aimatch.com
 www.aimes.com
 www.ainformacje.waw.pl
 www.ainoshiatsu.se
@@ -85617,7 +85595,6 @@ www.anal-videos-photos.com
 www.analystset.com
 www.analysys.cn
 www.analytics.247sports.com
-www.analytics-digit-in.cdn.ampproject.org
 www.analytics.ero-advertising.com
 www.analytics.icons8.com
 www.analytics.picsart.com

@@ -39,11 +39,11 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 #    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-#    3 |    7067 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
+#    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112774 unique Domains - Version 2022.0126.103720
+# 112751 unique Domains - Version 2022.0127.042053
 #
 0.0.0.0 0.0.0.0.beeglivesex.com
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
@@ -6858,7 +6858,6 @@
 0.0.0.0 adstest.weather.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 ads.thanhnien.vn
-0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
 0.0.0.0 ads.thecoolhunter.net
 0.0.0.0 ads.thecrimson.com
 0.0.0.0 ads.thefrisky.com
@@ -7913,7 +7912,6 @@
 0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aim4media.com
 0.0.0.0 ai-marketing.net.daraz.com
-0.0.0.0 aimatch.com
 0.0.0.0 aimeos.softuvo.xyz
 0.0.0.0 aimes.com
 0.0.0.0 aim.etr.im
@@ -8853,7 +8851,6 @@
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.digital-metric.com
-0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dogecoin.gg
 0.0.0.0 analytics.donglogs.com
@@ -9426,7 +9423,6 @@
 0.0.0.0 an.yesnetwork.com
 0.0.0.0 anylist.c.appier.net
 0.0.0.0 anymind360.com
-0.0.0.0 anymind360-com.cdn.ampproject.org
 0.0.0.0 anynewdomain.xyz
 0.0.0.0 anythinghollywood.us.intellitxt.com
 0.0.0.0 an.z5x.net
@@ -15896,7 +15892,6 @@
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.bluecore.com
 0.0.0.0 cdn.bongdadem.net
-0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.braun634.com
@@ -18987,7 +18982,6 @@
 0.0.0.0 content.adspynet.com
 0.0.0.0 content.adtegrity.net
 0.0.0.0 content.aerohive.com
-0.0.0.0 content.aimatch.com
 0.0.0.0 content.allsafe.nl
 0.0.0.0 content.alticemedia.com
 0.0.0.0 content.amafiltration.com
@@ -23795,7 +23789,6 @@
 0.0.0.0 disneyembroiderycards.com
 0.0.0.0 disneyinternational.demdex.net
 0.0.0.0 disneyinternational.hb.omtrdc.net
-0.0.0.0 disney.my.sentry.io
 0.0.0.0 disneyswap.org
 0.0.0.0 disneyvacations.com.102.112.2o7.net
 0.0.0.0 dis.nl.eu.criteo.com
@@ -38432,7 +38425,6 @@
 0.0.0.0 ing-dashboard.net.zooplus.es
 0.0.0.0 ing-district.clicktale.net
 0.0.0.0 ingest.m2appmonitor.com
-0.0.0.0 ingest.sentry.io
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
 0.0.0.0 in.getclicky.com
@@ -42866,7 +42858,6 @@
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamnetad.vn
 0.0.0.0 log.vietnamplus.vn
-0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vnfinance.vn
@@ -48108,6 +48099,7 @@
 0.0.0.0 mobileclient-partner.net.zooplus.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobilecomputermag.uk.intellitxt.com
+0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobile.confsettings.com
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobilecore.com
@@ -53022,8 +53014,6 @@
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o0ooo.xyz
 0.0.0.0 o0.winfuture.de
-0.0.0.0 o107031.ingest.sentry.io
-0.0.0.0 o129937.ingest.sentry.io
 0.0.0.0 o1fp6o.webwave.dev
 0.0.0.0 o1.inviziads.com
 0.0.0.0 o1.qnsr.com
@@ -53036,19 +53026,11 @@
 0.0.0.0 o2omart.co.in
 0.0.0.0 o2-online.pl
 0.0.0.0 o313o.com
-0.0.0.0 o325556.ingest.sentry.io
 0.0.0.0 o333o.com
-0.0.0.0 o334541.ingest.sentry.io
 0.0.0.0 o3sndvzo25.com
-0.0.0.0 o400018.ingest.sentry.io
-0.0.0.0 o472445.ingest.sentry.io
-0.0.0.0 o491168.ingest.sentry.io
 0.0.0.0 o4kvv6.webwave.dev
-0.0.0.0 o502263.ingest.sentry.io
-0.0.0.0 o534899.ingest.sentry.io
 0.0.0.0 o5team.com
 0.0.0.0 o68c.sfr.fr
-0.0.0.0 o77029.ingest.sentry.io
 0.0.0.0 o8.aus.cc
 0.0.0.0 o8.hyatt.com
 0.0.0.0 o9sfsufhdgyysd.bar
@@ -65023,7 +65005,6 @@
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 sbaqub.instantfunk.co
 0.0.0.0 sbbanner.com
-0.0.0.0 sbbanner-com.cdn.ampproject.org
 0.0.0.0 sbcapitalmanagementinc.com
 0.0.0.0 sbcomniture.focus.de
 0.0.0.0 sbdhdq.zeeman.com
@@ -72803,7 +72784,6 @@
 0.0.0.0 static.adbutter.net
 0.0.0.0 static.adconnect.vn
 0.0.0.0 static.addtoany.com
-0.0.0.0 static-addtoany-com.cdn.ampproject.org
 0.0.0.0 static.addynamo.net
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adfclick1.com
@@ -79569,7 +79549,6 @@
 0.0.0.0 v8engine.pinsightmedia.com
 0.0.0.0 v8push.pinsightmedia.com
 0.0.0.0 v9banners.com
-0.0.0.0 v9banners-com.cdn.ampproject.org
 0.0.0.0 v9-laserdetector-pl.com
 0.0.0.0 va1.vip.prod.criteo.com
 0.0.0.0 va1.vip.prod.criteo.net
@@ -85161,7 +85140,6 @@
 0.0.0.0 www.aijabruvere.com
 0.0.0.0 www.ailamtrieuphu.com
 0.0.0.0 www.aim4media.com
-0.0.0.0 www.aimatch.com
 0.0.0.0 www.aimes.com
 0.0.0.0 www.ainformacje.waw.pl
 0.0.0.0 www.ainoshiatsu.se
@@ -85617,7 +85595,6 @@
 0.0.0.0 www.analystset.com
 0.0.0.0 www.analysys.cn
 0.0.0.0 www.analytics.247sports.com
-0.0.0.0 www.analytics-digit-in.cdn.ampproject.org
 0.0.0.0 www.analytics.ero-advertising.com
 0.0.0.0 www.analytics.icons8.com
 0.0.0.0 www.analytics.picsart.com

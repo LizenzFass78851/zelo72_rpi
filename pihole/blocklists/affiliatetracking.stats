@@ -31,7 +31,7 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-   3 |    7067 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
+   3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 
@@ -39,16 +39,16 @@ Initialize ...
 
 Stats affiliatetracking:
 
-** Source (raw):    124711
-== Source (unique): 115973 (-8738)
--- White:           115450 (-523)
--- White(*):        115277 (-173)
--- Dead:            104034 (-11243)
-++ FLD:             105318 (+1284)
-++ WWW:             112774 (+7456)
+** Source (raw):    124689
+== Source (unique): 115974 (-8715)
+-- White:           115449 (-525)
+-- White(*):        115255 (-194)
+-- Dead:            104012 (-11243)
+++ FLD:             105296 (+1284)
+++ WWW:             112751 (+7455)
 
-112774 unique Domains - Version 2022.0126.103720
-MD5 Domains RAW: f7b123a53339a88cd97ff4b55194bd4c
+112751 unique Domains - Version 2022.0127.042053
+MD5 Domains RAW: 3e8dcb328f91814f7d546303d59a8aa2
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -71,10 +71,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 84873
-ℹ Length after applying transformations is 84873
-ℹ The list was compressed from 84876 to 71346
-ℹ Final length of the list is 71352
+ℹ Original length is 84852
+ℹ Length after applying transformations is 84852
+ℹ The list was compressed from 84855 to 71338
+ℹ Final length of the list is 71344
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
