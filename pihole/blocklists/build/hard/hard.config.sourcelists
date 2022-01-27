@@ -1,6 +1,8 @@
 ../../big.txt
+../experimental/out/experimental.domains
 ../../affiliatetracking.txt
 ../../threat-intelligence.txt
+../extra/out/extra.domains
 https://dbl.oisd.nl
 https://dbl.oisd.nl/extra
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
