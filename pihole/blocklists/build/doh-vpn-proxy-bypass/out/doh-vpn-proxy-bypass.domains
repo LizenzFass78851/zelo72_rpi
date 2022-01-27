@@ -1,36 +1,3 @@
-# ----------------------------------------------
-# DoH/VPN/TOR/Proxy Bypass Blocklist
-# ----------------------------------------------
-#
-# Title: Zelo72 - DoH/VPN/TOR/Proxy Bypass
-#
-# Prevent methods to bypass your DNS:
-#   DNS over HTTPS, VPN, TOR, Proxies
-#
-# Addition:
-#
-# To ensure the bootstrap is your DNS server:
-#   - Redirect standard DNS outbound (UDP 53) to 
-#     an internal server.
-#   - Block all DoT (TCP 853) outbound.
-#
-# Created for purely personal, private use.
-# Keep the internet clean!
-#
-# ----------------------------------------------
-# Support/Report false positive:
-#   GitHub:  https://github.com/Zelo72
-#   Discord: Zelo72#7513
-#   Mail:    zelo72@dismail.de
-# ----------------------------------------------
-#
-#   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-#    2 |     637 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
-#    3 |     142 | domains | local  | online  | unchanged | black.list.dohdot
-#
-# 780 unique Domains - Version 2022.0126.101822
-#
 012proxy.ga
 123-24.eport.gr
 12vpx.com

@@ -30,38 +30,7 @@ Stats doh-vpn-proxy-bypass:
 == Source (unique): 790 (-277)
 -- White:           780 (-10)
 
-780 unique Domains - Version 2022.0126.101822
-MD5 Domains RAW: a7aea660be8cb161fb8f29e30b995318
-
-# Convert doh-vpn-proxy-bypass to Hostlist ... 
-
-# Convert doh-vpn-proxy-bypass to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "doh-vpn-proxy-bypass",
-    "sources": [
-        {
-            "source": "doh-vpn-proxy-bypass.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling doh-vpn-proxy-bypass.adblock.raw
-ℹ Original length is 781
-ℹ Length after applying transformations is 781
-ℹ The list was compressed from 784 to 748
-ℹ Final length of the list is 754
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
-ℹ Finished compiling
-
-# Attach header to doh-vpn-proxy-bypass Domainlist ...
-
-# Push doh-vpn-proxy-bypass to local Repositories ...
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
