@@ -9,10 +9,10 @@
 # in rules, because the threshold was lowered to (highter than) one percent marketshare.
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |    4777 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-#    2 |    2011 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+#    1 |    4811 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+#    2 |    2011 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: kees1958_w3c_annual_most_used_survey_blocklist_top_eu_us_ads_trackers_abp.txt
 #
-# 4826 unique Domains - Version 2022.0126.110223
+# 4860 unique Domains - Version 2022.0127.044541
 #
 0.0.0.0 0emm.com
 0.0.0.0 0stats.com
@@ -314,12 +314,15 @@
 0.0.0.0 adrule.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
+0.0.0.0 ads-api.twitter.com
 0.0.0.0 adsbwm.com
 0.0.0.0 adsbyisocket.com
 0.0.0.0 adscience.nl
 0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
 0.0.0.0 adscore.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsend.de
 0.0.0.0 adsensedetective.com
 0.0.0.0 ad-serverparc.nl
@@ -329,18 +332,27 @@
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsettings.com
+0.0.0.0 ads.google.com
 0.0.0.0 adshost1.com
+0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 adsnative.com
 0.0.0.0 ad-sniper.com
 0.0.0.0 ad-souk.com
+0.0.0.0 ads.pinterest.com
 0.0.0.0 adspsp.com
+0.0.0.0 ads.reddit.com
 0.0.0.0 adsrvr.org
 0.0.0.0 ad-srv-track.com
+0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ad-stir.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 adsymptotic.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtarget.me
 0.0.0.0 ad-tech.com
 0.0.0.0 adtector.com
@@ -355,7 +367,10 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advangelists.com
 0.0.0.0 advconversion.com
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 adways.com
 0.0.0.0 adwstats.com
 0.0.0.0 adxadtracker.com
@@ -367,6 +382,7 @@
 0.0.0.0 affilae.com
 0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliates-pro.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 affiliatly.com
 0.0.0.0 affilired.com
 0.0.0.0 affinesystems.com
@@ -431,11 +447,17 @@
 0.0.0.0 analytics.edgesuite.net
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
+0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.go.com
+0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analyticson.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analyticswizard.com
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytik.xyz
 0.0.0.0 analytk.com
 0.0.0.0 analyze.yahooapis.com
@@ -472,10 +494,12 @@
 0.0.0.0 appboy.com
 0.0.0.0 appcast.io
 0.0.0.0 app.flexitive.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
 0.0.0.0 app.link
 0.0.0.0 applovin.com
+0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appn.center
 0.0.0.0 appnexus.com
 0.0.0.0 appolicious.com
@@ -791,6 +815,7 @@
 0.0.0.0 britepool.com
 0.0.0.0 british-banners.com
 0.0.0.0 bronto.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
 0.0.0.0 brsrvr.com
@@ -1247,6 +1272,7 @@
 0.0.0.0 dps-reach.com
 0.0.0.0 drawbrid.ge
 0.0.0.0 dreamcounter.de
+0.0.0.0 d.reddit.com
 0.0.0.0 driv-analytics.com
 0.0.0.0 dsmmadvantage.com
 0.0.0.0 dsnextgen.com
@@ -1420,6 +1446,7 @@
 0.0.0.0 eu-survey.com
 0.0.0.0 evadav.com
 0.0.0.0 evanetpro.com
+0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
@@ -1456,6 +1483,7 @@
 0.0.0.0 exposebox.com
 0.0.0.0 express-submit.de
 0.0.0.0 extend.tv
+0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extole.com
 0.0.0.0 extole.io
 0.0.0.0 extreme-dm.com
@@ -1736,6 +1764,7 @@
 0.0.0.0 goadservices.com
 0.0.0.0 goaltraffic.com
 0.0.0.0 goatcounter.com
+0.0.0.0 gobal.adserver.yahoo.com
 0.0.0.0 go-clicks.de
 0.0.0.0 godatafeed.com
 0.0.0.0 godhat.com
@@ -2353,6 +2382,7 @@
 0.0.0.0 logiq.com
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
+0.0.0.0 log.pinterest.com
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
 0.0.0.0 logua.com
@@ -3493,6 +3523,7 @@
 0.0.0.0 report-uri.io
 0.0.0.0 republika.onet.pl
 0.0.0.0 requestmetrics.com
+0.0.0.0 rereddit.com
 0.0.0.0 research-artisan.com
 0.0.0.0 research.de.com
 0.0.0.0 researchintel.com
@@ -4016,6 +4047,7 @@
 0.0.0.0 stats.video.search.yahoo.com
 0.0.0.0 statsw.com
 0.0.0.0 statswebtown.com
+0.0.0.0 stats.wp.com
 0.0.0.0 statsy.net
 0.0.0.0 stattds.club
 0.0.0.0 stattooz.com
@@ -4370,6 +4402,7 @@
 0.0.0.0 trklvs.com
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us
+0.0.0.0 trk.pinterest.com
 0.0.0.0 trmads.eu
 0.0.0.0 trmnsite.com
 0.0.0.0 trovus.co.uk
@@ -4675,6 +4708,7 @@
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 widgetserver.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wildxtraffic.com

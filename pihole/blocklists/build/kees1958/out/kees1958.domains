@@ -9,10 +9,10 @@
 # in rules, because the threshold was lowered to (highter than) one percent marketshare.
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |    4777 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-#    2 |    2011 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+#    1 |    4811 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+#    2 |    2011 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: kees1958_w3c_annual_most_used_survey_blocklist_top_eu_us_ads_trackers_abp.txt
 #
-# 4826 unique Domains - Version 2022.0126.110223
+# 4860 unique Domains - Version 2022.0127.044541
 #
 0emm.com
 0stats.com
@@ -314,12 +314,15 @@ adrta.com
 adrule.net
 adsafeprotected.com
 adsafety.net
+ads-api.twitter.com
 adsbwm.com
 adsbyisocket.com
 adscience.nl
 adsco.re
 ad-score.com
 adscore.com
+ads-dev.pinterest.com
+adsdk.yandex.ru
 adsend.de
 adsensedetective.com
 ad-serverparc.nl
@@ -329,18 +332,27 @@ adserve.zone
 adservingfactory.com
 adservinginternational.com
 adsettings.com
+ads.google.com
 adshost1.com
+ads.linkedin.com
 ads.microsoft.com
 adsnative.com
 ad-sniper.com
 ad-souk.com
+ads.pinterest.com
 adspsp.com
+ads.reddit.com
 adsrvr.org
 ad-srv-track.com
+ads-sg.tiktok.com
 ad-stir.com
 ads-twitter.com
 ads.twitter.com
+ads.yahoo.com
+ads.yap.yahoo.com
 adsymptotic.com
+ads.youtube.com
+adtago.s3.amazonaws.com
 adtarget.me
 ad-tech.com
 adtector.com
@@ -355,7 +367,10 @@ advalo.com
 advanced-web-analytics.com
 advangelists.com
 advconversion.com
+advertising-api-eu.amazon.com
 advertising.com
+advertising.twitter.com
+advice-ads.s3.amazonaws.com
 adways.com
 adwstats.com
 adxadtracker.com
@@ -367,6 +382,7 @@ affex.org
 affilae.com
 affiliateedge.eu
 affiliates-pro.com
+affiliationjs.s3.amazonaws.com
 affiliatly.com
 affilired.com
 affinesystems.com
@@ -431,11 +447,17 @@ analytics.edgekey.net
 analytics.edgesuite.net
 analytics-egain.com
 analytics-engine.net
+analyticsengine.s3.amazonaws.com
 analytics.go.com
+analytics.mobile.yandex.net
 analyticson.com
+analytics.pinterest.com
+analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
+analytics-sg.tiktok.com
 analytics.shareaholic.com
 analyticswizard.com
+analytics.yahoo.com
 analytik.xyz
 analytk.com
 analyze.yahooapis.com
@@ -472,10 +494,12 @@ appboycdn.com
 appboy.com
 appcast.io
 app.flexitive.com
+app.getsentry.com
 appia.com
 appier.com
 app.link
 applovin.com
+appmetrica.yandex.com
 appn.center
 appnexus.com
 appolicious.com
@@ -791,6 +815,7 @@ brilliantcollector.com
 britepool.com
 british-banners.com
 bronto.com
+browser.sentry-cdn.com
 browser-statistik.de
 browser-update.org
 brsrvr.com
@@ -1247,6 +1272,7 @@ dp-dhl.com
 dps-reach.com
 drawbrid.ge
 dreamcounter.de
+d.reddit.com
 driv-analytics.com
 dsmmadvantage.com
 dsnextgen.com
@@ -1420,6 +1446,7 @@ euroranking.de
 eu-survey.com
 evadav.com
 evanetpro.com
+events.redditmedia.com
 everestjs.net
 everesttech.net
 evergage.com
@@ -1456,6 +1483,7 @@ exponential.com
 exposebox.com
 express-submit.de
 extend.tv
+extmaps-api.yandex.net
 extole.com
 extole.io
 extreme-dm.com
@@ -1736,6 +1764,7 @@ go2link.net
 goadservices.com
 goaltraffic.com
 goatcounter.com
+gobal.adserver.yahoo.com
 go-clicks.de
 godatafeed.com
 godhat.com
@@ -2353,6 +2382,7 @@ loginhood.io
 logiq.com
 logmatic.io
 lognormal.net
+log.pinterest.com
 logrocket.com
 logrocket.io
 logua.com
@@ -3493,6 +3523,7 @@ report-uri.com
 report-uri.io
 republika.onet.pl
 requestmetrics.com
+rereddit.com
 research-artisan.com
 research.de.com
 researchintel.com
@@ -4016,6 +4047,7 @@ statssheet.com
 stats.video.search.yahoo.com
 statsw.com
 statswebtown.com
+stats.wp.com
 statsy.net
 stattds.club
 stattooz.com
@@ -4370,6 +4402,7 @@ trkjmp.com
 trklvs.com
 trkme.net
 trkn.us
+trk.pinterest.com
 trmads.eu
 trmnsite.com
 trovus.co.uk
@@ -4675,6 +4708,7 @@ widerplanet.com
 widespace.com
 widgetbucks.com
 widgetserver.com
+widgets.pinterest.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
