@@ -42,7 +42,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   69248 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+   1 |   69257 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
    2 |   16035 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
    3 |   12195 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
    4 |    1116 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
@@ -55,17 +55,17 @@ Initialize ...
 
 Stats extra:
 
-** Source (raw):    105222
-== Source (unique): 99902 (-5320)
--- Exclude:         69777 (-30125)
--- White:           68527 (-1250)
--- White(*):        67122 (-1405)
--- Dead:            66765 (-357)
-++ FLD:             66765 (+0)
-++ WWW:             78529 (+11764)
+** Source (raw):    105231
+== Source (unique): 99911 (-5320)
+-- Exclude:         69778 (-30133)
+-- White:           68524 (-1254)
+-- White(*):        67119 (-1405)
+-- Dead:            66762 (-357)
+++ FLD:             66762 (+0)
+++ WWW:             78521 (+11759)
 
-78529 unique Domains - Version 2022.0126.225803
-MD5 Domains RAW: 2732f784863b3394d4f856ffd03e7bef
+78521 unique Domains - Version 2022.0127.051229
+MD5 Domains RAW: 111d963f92f2e5ad54a685b955762766
 
 # Convert extra to Hostlist ... 
 
@@ -88,10 +88,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling extra.adblock.raw
-ℹ Original length is 66763
-ℹ Length after applying transformations is 66763
-ℹ The list was compressed from 66766 to 66675
-ℹ Final length of the list is 66681
+ℹ Original length is 66760
+ℹ Length after applying transformations is 66760
+ℹ The list was compressed from 66763 to 66672
+ℹ Final length of the list is 66678
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
 ℹ Finished compiling
 
