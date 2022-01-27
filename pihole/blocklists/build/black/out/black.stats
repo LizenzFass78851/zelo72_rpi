@@ -21,8 +21,8 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13691 | domains | local  | online  | unchanged | black.list
-   2 |    1427 | domains | local  | online  | changed   | black.list.wl.removed
+   1 |   13721 | domains | local  | online  | changed   | black.list
+   2 |    1427 | domains | local  | online  | unchanged | black.list.wl.removed
    3 |     141 | domains | local  | online  | unchanged | black.list.wc.removed
    4 |    1333 | domains | local  | online  | unchanged | blocked.gravity
 
@@ -30,13 +30,13 @@ Initialize ...
 
 Stats black:
 
-** Source (raw):    16592
-== Source (unique): 15259 (-1333)
--- White:           13832 (-1427)
--- White(*):        13691 (-141)
+** Source (raw):    16622
+== Source (unique): 15289 (-1333)
+-- White:           13860 (-1429)
+-- White(*):        13661 (-199)
 
-13691 unique Domains - Version 2022.0126.102023
-MD5 Domains RAW: fe7e1047878c248978d2afa04a0e998d
+13661 unique Domains - Version 2022.0127.040149
+MD5 Domains RAW: 52585e3264f253007eb070bb25a53542
 
 # Push black to local Repositories ...
 
