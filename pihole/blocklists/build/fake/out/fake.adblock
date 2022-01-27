@@ -34,11 +34,11 @@
 !    3 |   14234 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-!    6 |    6902 | domains | local  | online  | unchanged | black.list.fake
-!    7 |    1607 | domains | local  | online  | unchanged | fake.ts.black.list
+!    6 |    6938 | domains | local  | online  | changed   | black.list.fake
+!    7 |    1608 | domains | local  | online  | changed   | fake.ts.black.list
 !    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 19811 unique Domains - Version 2022.0126.102907
+! 19846 unique Domains - Version 2022.0127.041205
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -362,6 +362,7 @@
 ||abspoultry.com^
 ||absurd.news^
 ||abxtv.cam^
+||abylul.com^
 ||abyridee.com^
 ||academyonlinesavings.com^
 ||acargoshippers.com^
@@ -654,6 +655,7 @@
 ||aftershipcourierexpress.com^
 ||agentur-bang.de^
 ||ag-europe.com^
+||agileney.com^
 ||agiletechbusiness.com^
 ||agitrustfund.com^
 ||agnesmaltesepuppies.com^
@@ -1570,6 +1572,7 @@
 ||autostyles.store^
 ||autumwind.com^
 ||avabien.com^
+||avagang.com^
 ||availablebernedoodlesforsale.store^
 ||availablenovascotiaducktollingretrieverforsale.com^
 ||availableshibas.com^
@@ -1620,6 +1623,7 @@
 ||azfancy.com^
 ||azikishihtzupuppies.com^
 ||aziur.de^
+||azuremodule.com^
 ||azztimes.com^
 ||azzunto.de^
 ||b-123-hp.com^
@@ -1834,6 +1838,7 @@
 ||beisimple.de^
 ||bekleidungsoutlet.com^
 ||belairinv.com^
+||beleshoping.com^
 ||belfastdrivinglicence.com^
 ||belgian-malinoisbreeders.com^
 ||belgianmalinoiscenter.com^
@@ -2384,6 +2389,7 @@
 ||bombayonlinepharma.com^
 ||bombrainbow.com^
 ||bonance.top^
+||bonasl.com^
 ||bondstee.com^
 ||bondstreetgeneraltrading.com^
 ||bonficegermany.myshopify.com^
@@ -2541,6 +2547,7 @@
 ||brennamunchkinhome.com^
 ||brettlabradoodles.com^
 ||brevardsun.com^
+||breville.vip^
 ||breviory.top^
 ||brfglobalsa-br.com^
 ||brfsa-global.com^
@@ -5897,6 +5904,7 @@
 ||eternalcandle.net^
 ||ethanbluefrenchies.com^
 ||ethansgoldenretriever.com^
+||ethashop.com^
 ||ethicalkey.com^
 ||etiklogistiks.com^
 ||etsgaminggmbh.com^
@@ -6392,6 +6400,7 @@
 ||fbicorruption.news^
 ||fbookisrael.com^
 ||fbrestore.com^
+||fbuys.shop^
 ||fcfood.in^
 ||fcirlich.de^
 ||fcp-herrenhaus.de^
@@ -6708,6 +6717,7 @@
 ||foodsupply.news^
 ||foodtruckbuildersofphoenix.com^
 ||foolhouse.de^
+||foortyfive.com^
 ||footballcamp.at^
 ||footfetishdating.com^
 ||foothillsreview.com^
@@ -7155,6 +7165,7 @@
 ||garminprostore.com^
 ||garminworldmaps.com^
 ||garnettli.com^
+||garshoping.com^
 ||gartencenter-horstmann.de^
 ||gartencenter-pursch.de^
 ||garten-events.de^
@@ -7850,6 +7861,7 @@
 ||gothspothome.co.za^
 ||gotmedications.com^
 ||gotnews.com^
+||gotrax.store^
 ||government-grant-money-money-transfer-service.business.site^
 ||govtslaves.com^
 ||govtslaves.info^
@@ -8265,6 +8277,7 @@
 ||harmonyshihtzufarm.com^
 ||harpictradings.com^
 ||harrycavapoopuppies.com^
+||harshoping.com^
 ||hartdobermanpuppies.store^
 ||hartfordreporter.com^
 ||hartmann-versand.de^
@@ -8316,6 +8329,7 @@
 ||h-birds.store^
 ||hbnorton.com^
 ||hbpsupport.com^
+||hbuys.store^
 ||hclketamaxstore.com^
 ||hdflix.de^
 ||hdwelt.de^
@@ -8488,6 +8502,7 @@
 ||hexrobox.site^
 ||heyganja.com^
 ||heykush.com^
+||hhaclothing.com^
 ||hheexpot.com^
 ||hhsdtrtts.cam^
 ||hibote.de^
@@ -9806,6 +9821,7 @@
 ||khantherapie.de^
 ||khayanuts.com^
 ||khaymall.top^
+||khbrz.com^
 ||khogiaodien247.com^
 ||khristinawelpenhaus.com^
 ||khululivestockandpoultryfarm.co.za^
@@ -10448,6 +10464,7 @@
 ||ligueteo.com^
 ||likelymore.com^
 ||likelymorely.com^
+||likesell.store^
 ||likezstore.com^
 ||likkoteddybears.com^
 ||lilbellabella.com^
@@ -11463,6 +11480,7 @@
 ||mibusinessdaily.com^
 ||micapitolnews.com^
 ||micatholictribune.com^
+||micbriggift.com^
 ||micgoldtradingstore.com^
 ||michael-hoffmann-wuppertal.de^
 ||michaelkorshandbagsonsale.com^
@@ -11994,6 +12012,7 @@
 ||muscascrapmetals.com^
 ||muscleanabolics.net^
 ||musculeroidpharmacy.com^
+||musemes.com^
 ||mushroom-society.com^
 ||music2ndhand.de^
 ||musicalinstrumentsmall.com^
@@ -13092,6 +13111,7 @@
 ||opednews.com^
 ||openborders.news^
 ||opendownload.de^
+||openedijti.com^
 ||openmagazines.com^
 ||open-robux.online^
 ||opentheism.info^
@@ -15138,6 +15158,7 @@
 ||richardsfrenchies.com^
 ||richardsonteacuppuppies.com^
 ||richardtea.eu^
+||richashoping.com^
 ||richchemstore.com^
 ||richiefrenchies.com^
 ||richmondleader.com^
@@ -15616,6 +15637,7 @@
 ||sapopod.com^
 ||sapotatee.com^
 ||sapoultryfarmsupplies.co.za^
+||sapphirekeep.com^
 ||sapphiresoftech.com^
 ||sapphiretee.com^
 ||sapuppiesgiants.com^
@@ -16343,6 +16365,7 @@
 ||smxrt.de^
 ||snapadultere.com^
 ||snapadultere-jacquieetmichelcontact.com^
+||snapsaler.com^
 ||snapshot-x.com^
 ||sneaker2020z.com^
 ||sneakers4you.eu^
@@ -16426,6 +16449,7 @@
 ||sonygamestore.com^
 ||sonylink.net^
 ||soonerstatenews.com^
+||soortysive.com^
 ||sopashop5.com^
 ||sophiecuteshome.co.za^
 ||soqghiarf.com^
@@ -17075,6 +17099,7 @@
 ||superterra.net^
 ||supertigers.de^
 ||superzoomtech.com^
+||suplsan.com^
 ||supperbrand.company.site^
 ||suppercurrencystore.com^
 ||supperelectronicstore.com^
@@ -17814,6 +17839,7 @@
 ||tinnitus-losung.com^
 ||tinybellbernedoodle.com^
 ||tinydachshundhome.com^
+||tinyjabber.com^
 ||tinypaws4home.com^
 ||tinypawszuhause.de^
 ||tinypomeranianpups.com^
@@ -18275,6 +18301,7 @@
 ||twovillas.com^
 ||twpfactory.com^
 ||txbusinessdaily.com^
+||txsxj.com^
 ||tyfirearmstore.com^
 ||tylerbelgianmalinoispups.com^
 ||tylermaltipoopups.com^
@@ -18750,6 +18777,7 @@
 ||versandpharma.de^
 ||versemedicals.com^
 ||versicherungprivat.com^
+||verstorefront.com^
 ||vertow.com^
 ||veryvoga.at^
 ||veryvoga.ch^
@@ -19138,6 +19166,7 @@
 ||weedsupermarket.net^
 ||weedvapeshop.com^
 ||weedxpressuk.com^
+||weeedition.com^
 ||weekendlily.myshoplaza.com^
 ||weekendteacuppomeranians.com^
 ||weekendtoypoodle.com^
@@ -19171,6 +19200,7 @@
 ||wellindal.com^
 ||wellindal.de^
 ||wellpieces.com^
+||wellsell.store^
 ||wellsfrenchiehome.com^
 ||wellzdravs.com^
 ||welmacu.com^
@@ -19383,6 +19413,7 @@
 ||willsgoldendoodle.com^
 ||willsmaltese.com^
 ||willysbernesepups.com^
+||wilmshop.com^
 ||wilsonguide.com^
 ||wilsonscanecorsopuppieshome.com^
 ||wilsonsdachshundpuppies.com^
@@ -19412,6 +19443,8 @@
 ||winrbx.site^
 ||win-shoppingvouchers-de.com^
 ||winstonsalemtimes.com^
+||winstorefront.com^
+||wintehere.com^
 ||wintercomfy.com^
 ||wintergardentoday.com^
 ||winterstiefelsale.at^
@@ -19547,6 +19580,7 @@
 ||wyatttoyfoxterrier.com^
 ||wybusinessdaily.com^
 ||wynnbernesemountainpups.com^
+||wzcjbd.com^
 ||wzlooo.com^
 ||xaden-container-sales.business.site^
 ||xarmidanews.com^
@@ -19814,6 +19848,7 @@
 ||zmabc.com^
 ||zmazmitech.com^
 ||znamazco.com^
+||zoeorashop.com^
 ||zoesle.com^
 ||zokastore.com^
 ||zokgoc.com^

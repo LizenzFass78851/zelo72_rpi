@@ -34,11 +34,11 @@
 #    3 |   14234 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-#    6 |    6902 | domains | local  | online  | unchanged | black.list.fake
-#    7 |    1607 | domains | local  | online  | unchanged | fake.ts.black.list
+#    6 |    6938 | domains | local  | online  | changed   | black.list.fake
+#    7 |    1608 | domains | local  | online  | changed   | fake.ts.black.list
 #    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 39004 unique Domains - Version 2022.0126.102907
+# 39074 unique Domains - Version 2022.0127.041205
 #
 0.0.0.0 000relationships.com
 0.0.0.0 007cryptooption.com
@@ -362,6 +362,7 @@
 0.0.0.0 abspoultry.com
 0.0.0.0 absurd.news
 0.0.0.0 abxtv.cam
+0.0.0.0 abylul.com
 0.0.0.0 abyridee.com
 0.0.0.0 academyonlinesavings.com
 0.0.0.0 acargoshippers.com
@@ -655,6 +656,7 @@
 0.0.0.0 aftershipcourierexpress.com
 0.0.0.0 agentur-bang.de
 0.0.0.0 ag-europe.com
+0.0.0.0 agileney.com
 0.0.0.0 agiletechbusiness.com
 0.0.0.0 agitrustfund.com
 0.0.0.0 agnesmaltesepuppies.com
@@ -1572,6 +1574,7 @@
 0.0.0.0 autostyles.store
 0.0.0.0 autumwind.com
 0.0.0.0 avabien.com
+0.0.0.0 avagang.com
 0.0.0.0 availablebernedoodlesforsale.store
 0.0.0.0 availablenovascotiaducktollingretrieverforsale.com
 0.0.0.0 availableshibas.com
@@ -1622,6 +1625,7 @@
 0.0.0.0 azfancy.com
 0.0.0.0 azikishihtzupuppies.com
 0.0.0.0 aziur.de
+0.0.0.0 azuremodule.com
 0.0.0.0 azztimes.com
 0.0.0.0 azzunto.de
 0.0.0.0 b-123-hp.com
@@ -1837,6 +1841,7 @@
 0.0.0.0 beisimple.de
 0.0.0.0 bekleidungsoutlet.com
 0.0.0.0 belairinv.com
+0.0.0.0 beleshoping.com
 0.0.0.0 belfastdrivinglicence.com
 0.0.0.0 belgian-malinoisbreeders.com
 0.0.0.0 belgianmalinoiscenter.com
@@ -2387,6 +2392,7 @@
 0.0.0.0 bombayonlinepharma.com
 0.0.0.0 bombrainbow.com
 0.0.0.0 bonance.top
+0.0.0.0 bonasl.com
 0.0.0.0 bondstee.com
 0.0.0.0 bondstreetgeneraltrading.com
 0.0.0.0 bonficegermany.myshopify.com
@@ -2544,6 +2550,7 @@
 0.0.0.0 brennamunchkinhome.com
 0.0.0.0 brettlabradoodles.com
 0.0.0.0 brevardsun.com
+0.0.0.0 breville.vip
 0.0.0.0 breviory.top
 0.0.0.0 brfglobalsa-br.com
 0.0.0.0 brfsa-global.com
@@ -5909,6 +5916,7 @@
 0.0.0.0 eternalcandle.net
 0.0.0.0 ethanbluefrenchies.com
 0.0.0.0 ethansgoldenretriever.com
+0.0.0.0 ethashop.com
 0.0.0.0 ethicalkey.com
 0.0.0.0 etiklogistiks.com
 0.0.0.0 etsgaminggmbh.com
@@ -6404,6 +6412,7 @@
 0.0.0.0 fbicorruption.news
 0.0.0.0 fbookisrael.com
 0.0.0.0 fbrestore.com
+0.0.0.0 fbuys.shop
 0.0.0.0 fcfood.in
 0.0.0.0 fcirlich.de
 0.0.0.0 fcp-herrenhaus.de
@@ -6720,6 +6729,7 @@
 0.0.0.0 foodsupply.news
 0.0.0.0 foodtruckbuildersofphoenix.com
 0.0.0.0 foolhouse.de
+0.0.0.0 foortyfive.com
 0.0.0.0 footballcamp.at
 0.0.0.0 footfetishdating.com
 0.0.0.0 foothillsreview.com
@@ -7168,6 +7178,7 @@
 0.0.0.0 garminprostore.com
 0.0.0.0 garminworldmaps.com
 0.0.0.0 garnettli.com
+0.0.0.0 garshoping.com
 0.0.0.0 gartencenter-horstmann.de
 0.0.0.0 gartencenter-pursch.de
 0.0.0.0 garten-events.de
@@ -7864,6 +7875,7 @@
 0.0.0.0 gothspothome.co.za
 0.0.0.0 gotmedications.com
 0.0.0.0 gotnews.com
+0.0.0.0 gotrax.store
 0.0.0.0 government-grant-money-money-transfer-service.business.site
 0.0.0.0 govtslaves.com
 0.0.0.0 govtslaves.info
@@ -8279,6 +8291,7 @@
 0.0.0.0 harmonyshihtzufarm.com
 0.0.0.0 harpictradings.com
 0.0.0.0 harrycavapoopuppies.com
+0.0.0.0 harshoping.com
 0.0.0.0 hartdobermanpuppies.store
 0.0.0.0 hartfordreporter.com
 0.0.0.0 hartmann-versand.de
@@ -8330,6 +8343,7 @@
 0.0.0.0 h-birds.store
 0.0.0.0 hbnorton.com
 0.0.0.0 hbpsupport.com
+0.0.0.0 hbuys.store
 0.0.0.0 hclketamaxstore.com
 0.0.0.0 hdflix.de
 0.0.0.0 hdwelt.de
@@ -8502,6 +8516,7 @@
 0.0.0.0 hexrobox.site
 0.0.0.0 heyganja.com
 0.0.0.0 heykush.com
+0.0.0.0 hhaclothing.com
 0.0.0.0 hheexpot.com
 0.0.0.0 hhsdtrtts.cam
 0.0.0.0 hibote.de
@@ -9821,6 +9836,7 @@
 0.0.0.0 khantherapie.de
 0.0.0.0 khayanuts.com
 0.0.0.0 khaymall.top
+0.0.0.0 khbrz.com
 0.0.0.0 khogiaodien247.com
 0.0.0.0 khristinawelpenhaus.com
 0.0.0.0 khululivestockandpoultryfarm.co.za
@@ -10463,6 +10479,7 @@
 0.0.0.0 ligueteo.com
 0.0.0.0 likelymore.com
 0.0.0.0 likelymorely.com
+0.0.0.0 likesell.store
 0.0.0.0 likezstore.com
 0.0.0.0 likkoteddybears.com
 0.0.0.0 lilbellabella.com
@@ -11478,6 +11495,7 @@
 0.0.0.0 mibusinessdaily.com
 0.0.0.0 micapitolnews.com
 0.0.0.0 micatholictribune.com
+0.0.0.0 micbriggift.com
 0.0.0.0 micgoldtradingstore.com
 0.0.0.0 michael-hoffmann-wuppertal.de
 0.0.0.0 michaelkorshandbagsonsale.com
@@ -12009,6 +12027,7 @@
 0.0.0.0 muscascrapmetals.com
 0.0.0.0 muscleanabolics.net
 0.0.0.0 musculeroidpharmacy.com
+0.0.0.0 musemes.com
 0.0.0.0 mushroom-society.com
 0.0.0.0 music2ndhand.de
 0.0.0.0 musicalinstrumentsmall.com
@@ -13107,6 +13126,7 @@
 0.0.0.0 opednews.com
 0.0.0.0 openborders.news
 0.0.0.0 opendownload.de
+0.0.0.0 openedijti.com
 0.0.0.0 openmagazines.com
 0.0.0.0 open-robux.online
 0.0.0.0 opentheism.info
@@ -15153,6 +15173,7 @@
 0.0.0.0 richardsfrenchies.com
 0.0.0.0 richardsonteacuppuppies.com
 0.0.0.0 richardtea.eu
+0.0.0.0 richashoping.com
 0.0.0.0 richchemstore.com
 0.0.0.0 richiefrenchies.com
 0.0.0.0 richmondleader.com
@@ -15631,6 +15652,7 @@
 0.0.0.0 sapopod.com
 0.0.0.0 sapotatee.com
 0.0.0.0 sapoultryfarmsupplies.co.za
+0.0.0.0 sapphirekeep.com
 0.0.0.0 sapphiresoftech.com
 0.0.0.0 sapphiretee.com
 0.0.0.0 sapuppiesgiants.com
@@ -16359,6 +16381,7 @@
 0.0.0.0 smxrt.de
 0.0.0.0 snapadultere.com
 0.0.0.0 snapadultere-jacquieetmichelcontact.com
+0.0.0.0 snapsaler.com
 0.0.0.0 snapshot-x.com
 0.0.0.0 sneaker2020z.com
 0.0.0.0 sneakers4you.eu
@@ -16442,6 +16465,7 @@
 0.0.0.0 sonygamestore.com
 0.0.0.0 sonylink.net
 0.0.0.0 soonerstatenews.com
+0.0.0.0 soortysive.com
 0.0.0.0 sopashop5.com
 0.0.0.0 sophiecuteshome.co.za
 0.0.0.0 soqghiarf.com
@@ -17093,6 +17117,7 @@
 0.0.0.0 superterra.net
 0.0.0.0 supertigers.de
 0.0.0.0 superzoomtech.com
+0.0.0.0 suplsan.com
 0.0.0.0 supperbrand.company.site
 0.0.0.0 suppercurrencystore.com
 0.0.0.0 supperelectronicstore.com
@@ -17832,6 +17857,7 @@
 0.0.0.0 tinnitus-losung.com
 0.0.0.0 tinybellbernedoodle.com
 0.0.0.0 tinydachshundhome.com
+0.0.0.0 tinyjabber.com
 0.0.0.0 tinypaws4home.com
 0.0.0.0 tinypawszuhause.de
 0.0.0.0 tinypomeranianpups.com
@@ -18293,6 +18319,7 @@
 0.0.0.0 twovillas.com
 0.0.0.0 twpfactory.com
 0.0.0.0 txbusinessdaily.com
+0.0.0.0 txsxj.com
 0.0.0.0 tyfirearmstore.com
 0.0.0.0 tylerbelgianmalinoispups.com
 0.0.0.0 tylermaltipoopups.com
@@ -18768,6 +18795,7 @@
 0.0.0.0 versandpharma.de
 0.0.0.0 versemedicals.com
 0.0.0.0 versicherungprivat.com
+0.0.0.0 verstorefront.com
 0.0.0.0 vertow.com
 0.0.0.0 veryvoga.at
 0.0.0.0 veryvoga.ch
@@ -19156,6 +19184,7 @@
 0.0.0.0 weedsupermarket.net
 0.0.0.0 weedvapeshop.com
 0.0.0.0 weedxpressuk.com
+0.0.0.0 weeedition.com
 0.0.0.0 weekendlily.myshoplaza.com
 0.0.0.0 weekendteacuppomeranians.com
 0.0.0.0 weekendtoypoodle.com
@@ -19189,6 +19218,7 @@
 0.0.0.0 wellindal.com
 0.0.0.0 wellindal.de
 0.0.0.0 wellpieces.com
+0.0.0.0 wellsell.store
 0.0.0.0 wellsfrenchiehome.com
 0.0.0.0 wellzdravs.com
 0.0.0.0 welmacu.com
@@ -19401,6 +19431,7 @@
 0.0.0.0 willsgoldendoodle.com
 0.0.0.0 willsmaltese.com
 0.0.0.0 willysbernesepups.com
+0.0.0.0 wilmshop.com
 0.0.0.0 wilsonguide.com
 0.0.0.0 wilsonscanecorsopuppieshome.com
 0.0.0.0 wilsonsdachshundpuppies.com
@@ -19430,6 +19461,8 @@
 0.0.0.0 winrbx.site
 0.0.0.0 win-shoppingvouchers-de.com
 0.0.0.0 winstonsalemtimes.com
+0.0.0.0 winstorefront.com
+0.0.0.0 wintehere.com
 0.0.0.0 wintercomfy.com
 0.0.0.0 wintergardentoday.com
 0.0.0.0 winterstiefelsale.at
@@ -19870,6 +19903,7 @@
 0.0.0.0 www.abspoultry.com
 0.0.0.0 www.absurd.news
 0.0.0.0 www.abxtv.cam
+0.0.0.0 www.abylul.com
 0.0.0.0 www.abyridee.com
 0.0.0.0 www.academyonlinesavings.com
 0.0.0.0 www.acargoshippers.com
@@ -20147,6 +20181,7 @@
 0.0.0.0 www.aftershipcourierexpress.com
 0.0.0.0 www.agentur-bang.de
 0.0.0.0 www.ag-europe.com
+0.0.0.0 www.agileney.com
 0.0.0.0 www.agiletechbusiness.com
 0.0.0.0 www.agitrustfund.com
 0.0.0.0 www.agnesmaltesepuppies.com
@@ -21029,6 +21064,7 @@
 0.0.0.0 www.autostyles.store
 0.0.0.0 www.autumwind.com
 0.0.0.0 www.avabien.com
+0.0.0.0 www.avagang.com
 0.0.0.0 www.availablebernedoodlesforsale.store
 0.0.0.0 www.availablenovascotiaducktollingretrieverforsale.com
 0.0.0.0 www.availableshibas.com
@@ -21075,6 +21111,7 @@
 0.0.0.0 www.azfancy.com
 0.0.0.0 www.azikishihtzupuppies.com
 0.0.0.0 www.aziur.de
+0.0.0.0 www.azuremodule.com
 0.0.0.0 www.azztimes.com
 0.0.0.0 www.azzunto.de
 0.0.0.0 www.b-123-hp.com
@@ -21280,6 +21317,7 @@
 0.0.0.0 www.beisimple.de
 0.0.0.0 www.bekleidungsoutlet.com
 0.0.0.0 www.belairinv.com
+0.0.0.0 www.beleshoping.com
 0.0.0.0 www.belfastdrivinglicence.com
 0.0.0.0 www.belgian-malinoisbreeders.com
 0.0.0.0 www.belgianmalinoiscenter.com
@@ -21808,6 +21846,7 @@
 0.0.0.0 www.bombayonlinepharma.com
 0.0.0.0 www.bombrainbow.com
 0.0.0.0 www.bonance.top
+0.0.0.0 www.bonasl.com
 0.0.0.0 www.bondstee.com
 0.0.0.0 www.bondstreetgeneraltrading.com
 0.0.0.0 www.bonia-media.com
@@ -21961,6 +22000,7 @@
 0.0.0.0 www.brennamunchkinhome.com
 0.0.0.0 www.brettlabradoodles.com
 0.0.0.0 www.brevardsun.com
+0.0.0.0 www.breville.vip
 0.0.0.0 www.breviory.top
 0.0.0.0 www.brfglobalsa-br.com
 0.0.0.0 www.brfsa-global.com
@@ -25217,6 +25257,7 @@
 0.0.0.0 www.eternalcandle.net
 0.0.0.0 www.ethanbluefrenchies.com
 0.0.0.0 www.ethansgoldenretriever.com
+0.0.0.0 www.ethashop.com
 0.0.0.0 www.ethicalkey.com
 0.0.0.0 www.etiklogistiks.com
 0.0.0.0 www.etsgaminggmbh.com
@@ -25698,6 +25739,7 @@
 0.0.0.0 www.fbicorruption.news
 0.0.0.0 www.fbookisrael.com
 0.0.0.0 www.fbrestore.com
+0.0.0.0 www.fbuys.shop
 0.0.0.0 www.fcfood.in
 0.0.0.0 www.fcirlich.de
 0.0.0.0 www.fcp-herrenhaus.de
@@ -26006,6 +26048,7 @@
 0.0.0.0 www.foodsupply.news
 0.0.0.0 www.foodtruckbuildersofphoenix.com
 0.0.0.0 www.foolhouse.de
+0.0.0.0 www.foortyfive.com
 0.0.0.0 www.footballcamp.at
 0.0.0.0 www.footfetishdating.com
 0.0.0.0 www.foothillsreview.com
@@ -26439,6 +26482,7 @@
 0.0.0.0 www.garminprostore.com
 0.0.0.0 www.garminworldmaps.com
 0.0.0.0 www.garnettli.com
+0.0.0.0 www.garshoping.com
 0.0.0.0 www.gartencenter-horstmann.de
 0.0.0.0 www.gartencenter-pursch.de
 0.0.0.0 www.garten-events.de
@@ -27107,6 +27151,7 @@
 0.0.0.0 www.gothatoday.com
 0.0.0.0 www.gotmedications.com
 0.0.0.0 www.gotnews.com
+0.0.0.0 www.gotrax.store
 0.0.0.0 www.govtslaves.com
 0.0.0.0 www.govtslaves.info
 0.0.0.0 www.goxpresslogistics.com
@@ -27508,6 +27553,7 @@
 0.0.0.0 www.harmonyshihtzufarm.com
 0.0.0.0 www.harpictradings.com
 0.0.0.0 www.harrycavapoopuppies.com
+0.0.0.0 www.harshoping.com
 0.0.0.0 www.hartdobermanpuppies.store
 0.0.0.0 www.hartfordreporter.com
 0.0.0.0 www.hartmann-versand.de
@@ -27557,6 +27603,7 @@
 0.0.0.0 www.h-birds.store
 0.0.0.0 www.hbnorton.com
 0.0.0.0 www.hbpsupport.com
+0.0.0.0 www.hbuys.store
 0.0.0.0 www.hclketamaxstore.com
 0.0.0.0 www.hdflix.de
 0.0.0.0 www.hdwelt.de
@@ -27728,6 +27775,7 @@
 0.0.0.0 www.hexrobox.site
 0.0.0.0 www.heyganja.com
 0.0.0.0 www.heykush.com
+0.0.0.0 www.hhaclothing.com
 0.0.0.0 www.hheexpot.com
 0.0.0.0 www.hhsdtrtts.cam
 0.0.0.0 www.hibote.de
@@ -29006,6 +29054,7 @@
 0.0.0.0 www.khantherapie.de
 0.0.0.0 www.khayanuts.com
 0.0.0.0 www.khaymall.top
+0.0.0.0 www.khbrz.com
 0.0.0.0 www.khogiaodien247.com
 0.0.0.0 www.khristinawelpenhaus.com
 0.0.0.0 www.kiarapuppies.com
@@ -29627,6 +29676,7 @@
 0.0.0.0 www.ligueteo.com
 0.0.0.0 www.likelymore.com
 0.0.0.0 www.likelymorely.com
+0.0.0.0 www.likesell.store
 0.0.0.0 www.likezstore.com
 0.0.0.0 www.likkoteddybears.com
 0.0.0.0 www.lilbellabella.com
@@ -30614,6 +30664,7 @@
 0.0.0.0 www.mibusinessdaily.com
 0.0.0.0 www.micapitolnews.com
 0.0.0.0 www.micatholictribune.com
+0.0.0.0 www.micbriggift.com
 0.0.0.0 www.micgoldtradingstore.com
 0.0.0.0 www.michael-hoffmann-wuppertal.de
 0.0.0.0 www.michaelkorshandbagsonsale.com
@@ -31121,6 +31172,7 @@
 0.0.0.0 www.muscascrapmetals.com
 0.0.0.0 www.muscleanabolics.net
 0.0.0.0 www.musculeroidpharmacy.com
+0.0.0.0 www.musemes.com
 0.0.0.0 www.mushroom-society.com
 0.0.0.0 www.music2ndhand.de
 0.0.0.0 www.musicalinstrumentsmall.com
@@ -32195,6 +32247,7 @@
 0.0.0.0 www.opednews.com
 0.0.0.0 www.openborders.news
 0.0.0.0 www.opendownload.de
+0.0.0.0 www.openedijti.com
 0.0.0.0 www.openmagazines.com
 0.0.0.0 www.open-robux.online
 0.0.0.0 www.opentheism.info
@@ -34195,6 +34248,7 @@
 0.0.0.0 www.richardsfrenchies.com
 0.0.0.0 www.richardsonteacuppuppies.com
 0.0.0.0 www.richardtea.eu
+0.0.0.0 www.richashoping.com
 0.0.0.0 www.richchemstore.com
 0.0.0.0 www.richiefrenchies.com
 0.0.0.0 www.richmondleader.com
@@ -34660,6 +34714,7 @@
 0.0.0.0 www.saplanetlivestockgroup.com
 0.0.0.0 www.sapopod.com
 0.0.0.0 www.sapotatee.com
+0.0.0.0 www.sapphirekeep.com
 0.0.0.0 www.sapphiresoftech.com
 0.0.0.0 www.sapphiretee.com
 0.0.0.0 www.sapuppiesgiants.com
@@ -35351,6 +35406,7 @@
 0.0.0.0 www.smxrt.de
 0.0.0.0 www.snapadultere.com
 0.0.0.0 www.snapadultere-jacquieetmichelcontact.com
+0.0.0.0 www.snapsaler.com
 0.0.0.0 www.snapshot-x.com
 0.0.0.0 www.sneaker2020z.com
 0.0.0.0 www.sneakers4you.eu
@@ -35434,6 +35490,7 @@
 0.0.0.0 www.sonygamestore.com
 0.0.0.0 www.sonylink.net
 0.0.0.0 www.soonerstatenews.com
+0.0.0.0 www.soortysive.com
 0.0.0.0 www.sopashop5.com
 0.0.0.0 www.soqghiarf.com
 0.0.0.0 www.sorelidachshund.com
@@ -36068,6 +36125,7 @@
 0.0.0.0 www.superterra.net
 0.0.0.0 www.supertigers.de
 0.0.0.0 www.superzoomtech.com
+0.0.0.0 www.suplsan.com
 0.0.0.0 www.suppercurrencystore.com
 0.0.0.0 www.supperelectronicstore.com
 0.0.0.0 www.supperpembrokecorgipuppies.com
@@ -36780,6 +36838,7 @@
 0.0.0.0 www.tinnitus-losung.com
 0.0.0.0 www.tinybellbernedoodle.com
 0.0.0.0 www.tinydachshundhome.com
+0.0.0.0 www.tinyjabber.com
 0.0.0.0 www.tinypaws4home.com
 0.0.0.0 www.tinypawszuhause.de
 0.0.0.0 www.tinypomeranianpups.com
@@ -37225,6 +37284,7 @@
 0.0.0.0 www.twovillas.com
 0.0.0.0 www.twpfactory.com
 0.0.0.0 www.txbusinessdaily.com
+0.0.0.0 www.txsxj.com
 0.0.0.0 www.tyfirearmstore.com
 0.0.0.0 www.tylerbelgianmalinoispups.com
 0.0.0.0 www.tylermaltipoopups.com
@@ -37675,6 +37735,7 @@
 0.0.0.0 www.versandpharma.de
 0.0.0.0 www.versemedicals.com
 0.0.0.0 www.versicherungprivat.com
+0.0.0.0 www.verstorefront.com
 0.0.0.0 www.vertow.com
 0.0.0.0 www.veryvoga.at
 0.0.0.0 www.veryvoga.ch
@@ -38050,6 +38111,7 @@
 0.0.0.0 www.weedsupermarket.net
 0.0.0.0 www.weedvapeshop.com
 0.0.0.0 www.weedxpressuk.com
+0.0.0.0 www.weeedition.com
 0.0.0.0 www.weekendteacuppomeranians.com
 0.0.0.0 www.weekendtoypoodle.com
 0.0.0.0 www.weeklyworldnews.com
@@ -38081,6 +38143,7 @@
 0.0.0.0 www.wellindal.com
 0.0.0.0 www.wellindal.de
 0.0.0.0 www.wellpieces.com
+0.0.0.0 www.wellsell.store
 0.0.0.0 www.wellsfrenchiehome.com
 0.0.0.0 www.wellzdravs.com
 0.0.0.0 www.welmacu.com
@@ -38286,6 +38349,7 @@
 0.0.0.0 www.willsgoldendoodle.com
 0.0.0.0 www.willsmaltese.com
 0.0.0.0 www.willysbernesepups.com
+0.0.0.0 www.wilmshop.com
 0.0.0.0 www.wilsonguide.com
 0.0.0.0 www.wilsonscanecorsopuppieshome.com
 0.0.0.0 www.wilsonsdachshundpuppies.com
@@ -38315,6 +38379,8 @@
 0.0.0.0 www.winrbx.site
 0.0.0.0 www.win-shoppingvouchers-de.com
 0.0.0.0 www.winstonsalemtimes.com
+0.0.0.0 www.winstorefront.com
+0.0.0.0 www.wintehere.com
 0.0.0.0 www.wintercomfy.com
 0.0.0.0 www.wintergardentoday.com
 0.0.0.0 www.winterstiefelsale.at
@@ -38445,6 +38511,7 @@
 0.0.0.0 www.wyatttoyfoxterrier.com
 0.0.0.0 www.wybusinessdaily.com
 0.0.0.0 www.wynnbernesemountainpups.com
+0.0.0.0 www.wzcjbd.com
 0.0.0.0 www.wzlooo.com
 0.0.0.0 www.xarmidanews.com
 0.0.0.0 www.xaviershibainupuppies.com
@@ -38700,6 +38767,7 @@
 0.0.0.0 www.zmabc.com
 0.0.0.0 www.zmazmitech.com
 0.0.0.0 www.znamazco.com
+0.0.0.0 www.zoeorashop.com
 0.0.0.0 www.zoesle.com
 0.0.0.0 www.zokastore.com
 0.0.0.0 www.zokgoc.com
@@ -38740,6 +38808,7 @@
 0.0.0.0 wyatttoyfoxterrier.com
 0.0.0.0 wybusinessdaily.com
 0.0.0.0 wynnbernesemountainpups.com
+0.0.0.0 wzcjbd.com
 0.0.0.0 wzlooo.com
 0.0.0.0 xaden-container-sales.business.site
 0.0.0.0 xarmidanews.com
@@ -39007,6 +39076,7 @@
 0.0.0.0 zmabc.com
 0.0.0.0 zmazmitech.com
 0.0.0.0 znamazco.com
+0.0.0.0 zoeorashop.com
 0.0.0.0 zoesle.com
 0.0.0.0 zokastore.com
 0.0.0.0 zokgoc.com

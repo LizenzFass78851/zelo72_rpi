@@ -34,11 +34,11 @@
 #    3 |   14234 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-#    6 |    6902 | domains | local  | online  | unchanged | black.list.fake
-#    7 |    1607 | domains | local  | online  | unchanged | fake.ts.black.list
+#    6 |    6938 | domains | local  | online  | changed   | black.list.fake
+#    7 |    1608 | domains | local  | online  | changed   | fake.ts.black.list
 #    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 39004 unique Domains - Version 2022.0126.102907
+# 39074 unique Domains - Version 2022.0127.041205
 #
 000relationships.com
 007cryptooption.com
@@ -362,6 +362,7 @@ absponsorcl.com
 abspoultry.com
 absurd.news
 abxtv.cam
+abylul.com
 abyridee.com
 academyonlinesavings.com
 acargoshippers.com
@@ -655,6 +656,7 @@ afterdown.com
 aftershipcourierexpress.com
 agentur-bang.de
 ag-europe.com
+agileney.com
 agiletechbusiness.com
 agitrustfund.com
 agnesmaltesepuppies.com
@@ -1572,6 +1574,7 @@ autostyles.co
 autostyles.store
 autumwind.com
 avabien.com
+avagang.com
 availablebernedoodlesforsale.store
 availablenovascotiaducktollingretrieverforsale.com
 availableshibas.com
@@ -1622,6 +1625,7 @@ azcatholictribune.com
 azfancy.com
 azikishihtzupuppies.com
 aziur.de
+azuremodule.com
 azztimes.com
 azzunto.de
 b-123-hp.com
@@ -1837,6 +1841,7 @@ beggsguide.com
 beisimple.de
 bekleidungsoutlet.com
 belairinv.com
+beleshoping.com
 belfastdrivinglicence.com
 belgian-malinoisbreeders.com
 belgianmalinoiscenter.com
@@ -2387,6 +2392,7 @@ bolt-courier.com
 bombayonlinepharma.com
 bombrainbow.com
 bonance.top
+bonasl.com
 bondstee.com
 bondstreetgeneraltrading.com
 bonficegermany.myshopify.com
@@ -2544,6 +2550,7 @@ brendmsk.ru
 brennamunchkinhome.com
 brettlabradoodles.com
 brevardsun.com
+breville.vip
 breviory.top
 brfglobalsa-br.com
 brfsa-global.com
@@ -5909,6 +5916,7 @@ estrellainvestors.ltd
 eternalcandle.net
 ethanbluefrenchies.com
 ethansgoldenretriever.com
+ethashop.com
 ethicalkey.com
 etiklogistiks.com
 etsgaminggmbh.com
@@ -6404,6 +6412,7 @@ faztplay.com
 fbicorruption.news
 fbookisrael.com
 fbrestore.com
+fbuys.shop
 fcfood.in
 fcirlich.de
 fcp-herrenhaus.de
@@ -6720,6 +6729,7 @@ foodstorage.news
 foodsupply.news
 foodtruckbuildersofphoenix.com
 foolhouse.de
+foortyfive.com
 footballcamp.at
 footfetishdating.com
 foothillsreview.com
@@ -7168,6 +7178,7 @@ garminproductstore4us.com
 garminprostore.com
 garminworldmaps.com
 garnettli.com
+garshoping.com
 gartencenter-horstmann.de
 gartencenter-pursch.de
 garten-events.de
@@ -7864,6 +7875,7 @@ gothatoday.com
 gothspothome.co.za
 gotmedications.com
 gotnews.com
+gotrax.store
 government-grant-money-money-transfer-service.business.site
 govtslaves.com
 govtslaves.info
@@ -8279,6 +8291,7 @@ harmonypharm.com
 harmonyshihtzufarm.com
 harpictradings.com
 harrycavapoopuppies.com
+harshoping.com
 hartdobermanpuppies.store
 hartfordreporter.com
 hartmann-versand.de
@@ -8330,6 +8343,7 @@ hbb31.com
 h-birds.store
 hbnorton.com
 hbpsupport.com
+hbuys.store
 hclketamaxstore.com
 hdflix.de
 hdwelt.de
@@ -8502,6 +8516,7 @@ hetvoordeelvat.com
 hexrobox.site
 heyganja.com
 heykush.com
+hhaclothing.com
 hheexpot.com
 hhsdtrtts.cam
 hibote.de
@@ -9821,6 +9836,7 @@ khanelectrichome.com
 khantherapie.de
 khayanuts.com
 khaymall.top
+khbrz.com
 khogiaodien247.com
 khristinawelpenhaus.com
 khululivestockandpoultryfarm.co.za
@@ -10463,6 +10479,7 @@ lightofbaldr.com
 ligueteo.com
 likelymore.com
 likelymorely.com
+likesell.store
 likezstore.com
 likkoteddybears.com
 lilbellabella.com
@@ -11478,6 +11495,7 @@ miayapoodle.com
 mibusinessdaily.com
 micapitolnews.com
 micatholictribune.com
+micbriggift.com
 micgoldtradingstore.com
 michael-hoffmann-wuppertal.de
 michaelkorshandbagsonsale.com
@@ -12009,6 +12027,7 @@ murusidis.de
 muscascrapmetals.com
 muscleanabolics.net
 musculeroidpharmacy.com
+musemes.com
 mushroom-society.com
 music2ndhand.de
 musicalinstrumentsmall.com
@@ -13107,6 +13126,7 @@ oofficecomsetup.com
 opednews.com
 openborders.news
 opendownload.de
+openedijti.com
 openmagazines.com
 open-robux.online
 opentheism.info
@@ -15153,6 +15173,7 @@ richardsfix.net
 richardsfrenchies.com
 richardsonteacuppuppies.com
 richardtea.eu
+richashoping.com
 richchemstore.com
 richiefrenchies.com
 richmondleader.com
@@ -15631,6 +15652,7 @@ saplanetlivestockgroup.com
 sapopod.com
 sapotatee.com
 sapoultryfarmsupplies.co.za
+sapphirekeep.com
 sapphiresoftech.com
 sapphiretee.com
 sapuppiesgiants.com
@@ -16359,6 +16381,7 @@ smushgame.com
 smxrt.de
 snapadultere.com
 snapadultere-jacquieetmichelcontact.com
+snapsaler.com
 snapshot-x.com
 sneaker2020z.com
 sneakers4you.eu
@@ -16442,6 +16465,7 @@ sonygameshop.com
 sonygamestore.com
 sonylink.net
 soonerstatenews.com
+soortysive.com
 sopashop5.com
 sophiecuteshome.co.za
 soqghiarf.com
@@ -17093,6 +17117,7 @@ superstation95.com
 superterra.net
 supertigers.de
 superzoomtech.com
+suplsan.com
 supperbrand.company.site
 suppercurrencystore.com
 supperelectronicstore.com
@@ -17832,6 +17857,7 @@ tinhtujscv.com
 tinnitus-losung.com
 tinybellbernedoodle.com
 tinydachshundhome.com
+tinyjabber.com
 tinypaws4home.com
 tinypawszuhause.de
 tinypomeranianpups.com
@@ -18293,6 +18319,7 @@ twinstowers.com
 twovillas.com
 twpfactory.com
 txbusinessdaily.com
+txsxj.com
 tyfirearmstore.com
 tylerbelgianmalinoispups.com
 tylermaltipoopups.com
@@ -18768,6 +18795,7 @@ versandhaus-stremmer.de
 versandpharma.de
 versemedicals.com
 versicherungprivat.com
+verstorefront.com
 vertow.com
 veryvoga.at
 veryvoga.ch
@@ -19156,6 +19184,7 @@ weedstrainsuk.com
 weedsupermarket.net
 weedvapeshop.com
 weedxpressuk.com
+weeedition.com
 weekendlily.myshoplaza.com
 weekendteacuppomeranians.com
 weekendtoypoodle.com
@@ -19189,6 +19218,7 @@ wellensteynjacket.com
 wellindal.com
 wellindal.de
 wellpieces.com
+wellsell.store
 wellsfrenchiehome.com
 wellzdravs.com
 welmacu.com
@@ -19401,6 +19431,7 @@ willowlabradorpuppies.com
 willsgoldendoodle.com
 willsmaltese.com
 willysbernesepups.com
+wilmshop.com
 wilsonguide.com
 wilsonscanecorsopuppieshome.com
 wilsonsdachshundpuppies.com
@@ -19430,6 +19461,8 @@ winningdemocrats.com
 winrbx.site
 win-shoppingvouchers-de.com
 winstonsalemtimes.com
+winstorefront.com
+wintehere.com
 wintercomfy.com
 wintergardentoday.com
 winterstiefelsale.at
@@ -19870,6 +19903,7 @@ www.absponsorcl.com
 www.abspoultry.com
 www.absurd.news
 www.abxtv.cam
+www.abylul.com
 www.abyridee.com
 www.academyonlinesavings.com
 www.acargoshippers.com
@@ -20147,6 +20181,7 @@ www.afterdown.com
 www.aftershipcourierexpress.com
 www.agentur-bang.de
 www.ag-europe.com
+www.agileney.com
 www.agiletechbusiness.com
 www.agitrustfund.com
 www.agnesmaltesepuppies.com
@@ -21029,6 +21064,7 @@ www.autostyles.co
 www.autostyles.store
 www.autumwind.com
 www.avabien.com
+www.avagang.com
 www.availablebernedoodlesforsale.store
 www.availablenovascotiaducktollingretrieverforsale.com
 www.availableshibas.com
@@ -21075,6 +21111,7 @@ www.azcatholictribune.com
 www.azfancy.com
 www.azikishihtzupuppies.com
 www.aziur.de
+www.azuremodule.com
 www.azztimes.com
 www.azzunto.de
 www.b-123-hp.com
@@ -21280,6 +21317,7 @@ www.beggsguide.com
 www.beisimple.de
 www.bekleidungsoutlet.com
 www.belairinv.com
+www.beleshoping.com
 www.belfastdrivinglicence.com
 www.belgian-malinoisbreeders.com
 www.belgianmalinoiscenter.com
@@ -21808,6 +21846,7 @@ www.bolt-courier.com
 www.bombayonlinepharma.com
 www.bombrainbow.com
 www.bonance.top
+www.bonasl.com
 www.bondstee.com
 www.bondstreetgeneraltrading.com
 www.bonia-media.com
@@ -21961,6 +22000,7 @@ www.brendmsk.ru
 www.brennamunchkinhome.com
 www.brettlabradoodles.com
 www.brevardsun.com
+www.breville.vip
 www.breviory.top
 www.brfglobalsa-br.com
 www.brfsa-global.com
@@ -25217,6 +25257,7 @@ www.estrellainvestors.ltd
 www.eternalcandle.net
 www.ethanbluefrenchies.com
 www.ethansgoldenretriever.com
+www.ethashop.com
 www.ethicalkey.com
 www.etiklogistiks.com
 www.etsgaminggmbh.com
@@ -25698,6 +25739,7 @@ www.faztplay.com
 www.fbicorruption.news
 www.fbookisrael.com
 www.fbrestore.com
+www.fbuys.shop
 www.fcfood.in
 www.fcirlich.de
 www.fcp-herrenhaus.de
@@ -26006,6 +26048,7 @@ www.foodstorage.news
 www.foodsupply.news
 www.foodtruckbuildersofphoenix.com
 www.foolhouse.de
+www.foortyfive.com
 www.footballcamp.at
 www.footfetishdating.com
 www.foothillsreview.com
@@ -26439,6 +26482,7 @@ www.garminproductstore4us.com
 www.garminprostore.com
 www.garminworldmaps.com
 www.garnettli.com
+www.garshoping.com
 www.gartencenter-horstmann.de
 www.gartencenter-pursch.de
 www.garten-events.de
@@ -27107,6 +27151,7 @@ www.gothancos.com
 www.gothatoday.com
 www.gotmedications.com
 www.gotnews.com
+www.gotrax.store
 www.govtslaves.com
 www.govtslaves.info
 www.goxpresslogistics.com
@@ -27508,6 +27553,7 @@ www.harmonypharm.com
 www.harmonyshihtzufarm.com
 www.harpictradings.com
 www.harrycavapoopuppies.com
+www.harshoping.com
 www.hartdobermanpuppies.store
 www.hartfordreporter.com
 www.hartmann-versand.de
@@ -27557,6 +27603,7 @@ www.hbb31.com
 www.h-birds.store
 www.hbnorton.com
 www.hbpsupport.com
+www.hbuys.store
 www.hclketamaxstore.com
 www.hdflix.de
 www.hdwelt.de
@@ -27728,6 +27775,7 @@ www.hetvoordeelvat.com
 www.hexrobox.site
 www.heyganja.com
 www.heykush.com
+www.hhaclothing.com
 www.hheexpot.com
 www.hhsdtrtts.cam
 www.hibote.de
@@ -29006,6 +29054,7 @@ www.khanelectrichome.com
 www.khantherapie.de
 www.khayanuts.com
 www.khaymall.top
+www.khbrz.com
 www.khogiaodien247.com
 www.khristinawelpenhaus.com
 www.kiarapuppies.com
@@ -29627,6 +29676,7 @@ www.lightofbaldr.com
 www.ligueteo.com
 www.likelymore.com
 www.likelymorely.com
+www.likesell.store
 www.likezstore.com
 www.likkoteddybears.com
 www.lilbellabella.com
@@ -30614,6 +30664,7 @@ www.miayapoodle.com
 www.mibusinessdaily.com
 www.micapitolnews.com
 www.micatholictribune.com
+www.micbriggift.com
 www.micgoldtradingstore.com
 www.michael-hoffmann-wuppertal.de
 www.michaelkorshandbagsonsale.com
@@ -31121,6 +31172,7 @@ www.murusidis.de
 www.muscascrapmetals.com
 www.muscleanabolics.net
 www.musculeroidpharmacy.com
+www.musemes.com
 www.mushroom-society.com
 www.music2ndhand.de
 www.musicalinstrumentsmall.com
@@ -32195,6 +32247,7 @@ www.oofficecomsetup.com
 www.opednews.com
 www.openborders.news
 www.opendownload.de
+www.openedijti.com
 www.openmagazines.com
 www.open-robux.online
 www.opentheism.info
@@ -34195,6 +34248,7 @@ www.richardsfix.net
 www.richardsfrenchies.com
 www.richardsonteacuppuppies.com
 www.richardtea.eu
+www.richashoping.com
 www.richchemstore.com
 www.richiefrenchies.com
 www.richmondleader.com
@@ -34660,6 +34714,7 @@ www.saparrotsbreeders.com
 www.saplanetlivestockgroup.com
 www.sapopod.com
 www.sapotatee.com
+www.sapphirekeep.com
 www.sapphiresoftech.com
 www.sapphiretee.com
 www.sapuppiesgiants.com
@@ -35351,6 +35406,7 @@ www.smushgame.com
 www.smxrt.de
 www.snapadultere.com
 www.snapadultere-jacquieetmichelcontact.com
+www.snapsaler.com
 www.snapshot-x.com
 www.sneaker2020z.com
 www.sneakers4you.eu
@@ -35434,6 +35490,7 @@ www.sonygameshop.com
 www.sonygamestore.com
 www.sonylink.net
 www.soonerstatenews.com
+www.soortysive.com
 www.sopashop5.com
 www.soqghiarf.com
 www.sorelidachshund.com
@@ -36068,6 +36125,7 @@ www.superstation95.com
 www.superterra.net
 www.supertigers.de
 www.superzoomtech.com
+www.suplsan.com
 www.suppercurrencystore.com
 www.supperelectronicstore.com
 www.supperpembrokecorgipuppies.com
@@ -36780,6 +36838,7 @@ www.tinhtujscv.com
 www.tinnitus-losung.com
 www.tinybellbernedoodle.com
 www.tinydachshundhome.com
+www.tinyjabber.com
 www.tinypaws4home.com
 www.tinypawszuhause.de
 www.tinypomeranianpups.com
@@ -37225,6 +37284,7 @@ www.twinstowers.com
 www.twovillas.com
 www.twpfactory.com
 www.txbusinessdaily.com
+www.txsxj.com
 www.tyfirearmstore.com
 www.tylerbelgianmalinoispups.com
 www.tylermaltipoopups.com
@@ -37675,6 +37735,7 @@ www.versandhaus-stremmer.de
 www.versandpharma.de
 www.versemedicals.com
 www.versicherungprivat.com
+www.verstorefront.com
 www.vertow.com
 www.veryvoga.at
 www.veryvoga.ch
@@ -38050,6 +38111,7 @@ www.weedstrainsuk.com
 www.weedsupermarket.net
 www.weedvapeshop.com
 www.weedxpressuk.com
+www.weeedition.com
 www.weekendteacuppomeranians.com
 www.weekendtoypoodle.com
 www.weeklyworldnews.com
@@ -38081,6 +38143,7 @@ www.wellensteynjacket.com
 www.wellindal.com
 www.wellindal.de
 www.wellpieces.com
+www.wellsell.store
 www.wellsfrenchiehome.com
 www.wellzdravs.com
 www.welmacu.com
@@ -38286,6 +38349,7 @@ www.willowlabradorpuppies.com
 www.willsgoldendoodle.com
 www.willsmaltese.com
 www.willysbernesepups.com
+www.wilmshop.com
 www.wilsonguide.com
 www.wilsonscanecorsopuppieshome.com
 www.wilsonsdachshundpuppies.com
@@ -38315,6 +38379,8 @@ www.winningdemocrats.com
 www.winrbx.site
 www.win-shoppingvouchers-de.com
 www.winstonsalemtimes.com
+www.winstorefront.com
+www.wintehere.com
 www.wintercomfy.com
 www.wintergardentoday.com
 www.winterstiefelsale.at
@@ -38445,6 +38511,7 @@ www.wyandottetimes.com
 www.wyatttoyfoxterrier.com
 www.wybusinessdaily.com
 www.wynnbernesemountainpups.com
+www.wzcjbd.com
 www.wzlooo.com
 www.xarmidanews.com
 www.xaviershibainupuppies.com
@@ -38700,6 +38767,7 @@ www.zkwassmedia.com
 www.zmabc.com
 www.zmazmitech.com
 www.znamazco.com
+www.zoeorashop.com
 www.zoesle.com
 www.zokastore.com
 www.zokgoc.com
@@ -38740,6 +38808,7 @@ wyandottetimes.com
 wyatttoyfoxterrier.com
 wybusinessdaily.com
 wynnbernesemountainpups.com
+wzcjbd.com
 wzlooo.com
 xaden-container-sales.business.site
 xarmidanews.com
@@ -39007,6 +39076,7 @@ zkwassmedia.com
 zmabc.com
 zmazmitech.com
 znamazco.com
+zoeorashop.com
 zoesle.com
 zokastore.com
 zokgoc.com

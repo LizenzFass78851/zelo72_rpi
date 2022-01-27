@@ -37,24 +37,24 @@ Initialize ...
    3 |   14234 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-   6 |    6902 | domains | local  | online  | unchanged | black.list.fake
-   7 |    1607 | domains | local  | online  | unchanged | fake.ts.black.list
+   6 |    6938 | domains | local  | online  | changed   | black.list.fake
+   7 |    1608 | domains | local  | online  | changed   | fake.ts.black.list
    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 
 # Build fake Domainlist ...
 
 Stats fake:
 
-** Source (raw):    27294
-== Source (unique): 25189 (-2105)
--- White:           25094 (-95)
--- White(*):        25094 (-0)
--- Dead:            19865 (-5229)
-++ FLD:             19998 (+133)
-++ WWW:             39004 (+19006)
+** Source (raw):    27331
+== Source (unique): 25224 (-2107)
+-- White:           25129 (-95)
+-- White(*):        25129 (-0)
+-- Dead:            19900 (-5229)
+++ FLD:             20033 (+133)
+++ WWW:             39074 (+19041)
 
-39004 unique Domains - Version 2022.0126.102907
-MD5 Domains RAW: a9c34c426db0790dad4391f09b7c5671
+39074 unique Domains - Version 2022.0127.041205
+MD5 Domains RAW: e778df1488788ab3b997aeb32433813d
 
 # Convert fake to Hostlist ... 
 
@@ -77,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 19832
-ℹ Length after applying transformations is 19832
-ℹ The list was compressed from 19835 to 19815
-ℹ Final length of the list is 19821
+ℹ Original length is 19867
+ℹ Length after applying transformations is 19867
+ℹ The list was compressed from 19870 to 19850
+ℹ Final length of the list is 19856
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
