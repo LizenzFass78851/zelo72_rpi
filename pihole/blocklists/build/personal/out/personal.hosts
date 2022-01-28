@@ -35,10 +35,10 @@
 # ---------------------------------------------------
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |   13660 | domains | local  | online  | changed   | black.list
+#    1 |   13659 | domains | local  | online  | changed   | black.list
 #    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 #
-# 18631 unique Domains - Version 2022.0128.041030
+# 18630 unique Domains - Version 2022.0128.104651
 #
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
@@ -3436,7 +3436,6 @@
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.evolutionadv.it
 0.0.0.0 assets.growingio.com
-0.0.0.0 assets.mmsrg.com
 0.0.0.0 assets.netizen.co
 0.0.0.0 assets.ownpage.fr
 0.0.0.0 assets.pixlee.com
