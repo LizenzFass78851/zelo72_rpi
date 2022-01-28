@@ -31,14 +31,14 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-#    3 |   14235 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+#    3 |   14235 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-#    6 |    6938 | domains | local  | online  | unchanged | black.list.fake
-#    7 |    1608 | domains | local  | online  | unchanged | fake.ts.black.list
+#    6 |    6939 | domains | local  | online  | changed   | black.list.fake
+#    7 |    1609 | domains | local  | online  | changed   | fake.ts.black.list
 #    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 39076 unique Domains - Version 2022.0128.041121
+# 39078 unique Domains - Version 2022.0128.104748
 #
 0.0.0.0 000relationships.com
 0.0.0.0 007cryptooption.com
@@ -2115,7 +2115,6 @@
 0.0.0.0 bhavgroup.com
 0.0.0.0 bheasycargo.com
 0.0.0.0 bhgroupx.com
-0.0.0.0 bhslogistic.tk
 0.0.0.0 bhstransport.tk
 0.0.0.0 bhudjkkd.cam
 0.0.0.0 bhysduo.cam
@@ -8192,6 +8191,7 @@
 0.0.0.0 hailangyo.com
 0.0.0.0 haileygoldenretriverpuppshome.com
 0.0.0.0 haileypuppiesfarm.com
+0.0.0.0 hairmpress.com
 0.0.0.0 hairyfy.com
 0.0.0.0 haitec-computer.de
 0.0.0.0 haladavidl.com
@@ -18730,6 +18730,7 @@
 0.0.0.0 vatini.net
 0.0.0.0 vaultkennels.com
 0.0.0.0 vaxcontrolgroup.com
+0.0.0.0 vaxotechnik.com
 0.0.0.0 vazquezshibainupuppies.com
 0.0.0.0 vbffd.cam
 0.0.0.0 vbmaltesepups.com
@@ -21583,7 +21584,6 @@
 0.0.0.0 www.bhavgroup.com
 0.0.0.0 www.bheasycargo.com
 0.0.0.0 www.bhgroupx.com
-0.0.0.0 www.bhslogistic.tk
 0.0.0.0 www.bhstransport.tk
 0.0.0.0 www.bhudjkkd.cam
 0.0.0.0 www.bhysduo.cam
@@ -27459,6 +27459,7 @@
 0.0.0.0 www.hailangyo.com
 0.0.0.0 www.haileygoldenretriverpuppshome.com
 0.0.0.0 www.haileypuppiesfarm.com
+0.0.0.0 www.hairmpress.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 www.haitec-computer.de
 0.0.0.0 www.haladavidl.com
@@ -37672,6 +37673,7 @@
 0.0.0.0 www.vatini.net
 0.0.0.0 www.vaultkennels.com
 0.0.0.0 www.vaxcontrolgroup.com
+0.0.0.0 www.vaxotechnik.com
 0.0.0.0 www.vazquezshibainupuppies.com
 0.0.0.0 www.vbffd.cam
 0.0.0.0 www.vbmaltesepups.com

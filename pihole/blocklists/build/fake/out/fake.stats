@@ -34,27 +34,27 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   14235 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   14235 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-   6 |    6938 | domains | local  | online  | unchanged | black.list.fake
-   7 |    1608 | domains | local  | online  | unchanged | fake.ts.black.list
+   6 |    6939 | domains | local  | online  | changed   | black.list.fake
+   7 |    1609 | domains | local  | online  | changed   | fake.ts.black.list
    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 
 # Build fake Domainlist ...
 
 Stats fake:
 
-** Source (raw):    27332
-== Source (unique): 25225 (-2107)
--- White:           25130 (-95)
--- White(*):        25130 (-0)
--- Dead:            19901 (-5229)
-++ FLD:             20034 (+133)
-++ WWW:             39076 (+19042)
+** Source (raw):    27334
+== Source (unique): 25227 (-2107)
+-- White:           25132 (-95)
+-- White(*):        25132 (-0)
+-- Dead:            19902 (-5230)
+++ FLD:             20035 (+133)
+++ WWW:             39078 (+19043)
 
-39076 unique Domains - Version 2022.0128.041121
-MD5 Domains RAW: 6964e0446e8f557bc4a49cd5b2e73533
+39078 unique Domains - Version 2022.0128.104748
+MD5 Domains RAW: b899d7b19902e764c1274e43c54d832e
 
 # Convert fake to Hostlist ... 
 
@@ -77,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 19868
-ℹ Length after applying transformations is 19868
-ℹ The list was compressed from 19871 to 19851
-ℹ Final length of the list is 19857
+ℹ Original length is 19869
+ℹ Length after applying transformations is 19869
+ℹ The list was compressed from 19872 to 19852
+ℹ Final length of the list is 19858
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
