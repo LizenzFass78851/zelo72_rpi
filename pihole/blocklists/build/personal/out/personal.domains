@@ -35,10 +35,10 @@
 # ---------------------------------------------------
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |   13661 | domains | local  | online  | changed   | black.list
+#    1 |   13660 | domains | local  | online  | changed   | black.list
 #    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 #
-# 18633 unique Domains - Version 2022.0127.041109
+# 18631 unique Domains - Version 2022.0128.041030
 #
 000000000.fls.doubleclick.net
 000000.fls.doubleclick.net
@@ -2794,7 +2794,6 @@ adzrevads.com
 ad.ztylez.com
 ad.zurnal24.si
 aeae5284.de.ioam.de
-aebn.net
 aee342ad.de.ioam.de
 aegis.qq.com
 ae.mmstat.com
@@ -14768,7 +14767,6 @@ www.adzestocp.com
 www.adziff.com
 www.adzones.com
 www.adzrevads.com
-www.aebn.net
 www.aerserv.com
 www.af-110.com
 www.affec.tv
