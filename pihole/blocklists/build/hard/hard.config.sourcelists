@@ -6,5 +6,7 @@
 https://dbl.oisd.nl
 https://dbl.oisd.nl/extra
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+& https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ! https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt

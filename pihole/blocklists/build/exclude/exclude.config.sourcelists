@@ -1,9 +1,11 @@
 https://raw.githubusercontent.com/Beverdam/whitelist-Nederland/master/domains/whitelist.txt
+https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.FadeMind
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/RemovedDomains
 https://raw.githubusercontent.com/RPiList/specials/master/dev/corona%20whitelist
 https://raw.githubusercontent.com/RPiList/specials/master/dev/whitelist
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Filter
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/whitelisted.list
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
 https://raw.githubusercontent.com/anudeepND/blacklist/master/miscellaneous/false-positives.txt
 https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
@@ -22,8 +24,11 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hos
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/whitelist.txt
 https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/whitelist.txt
-https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.FadeMind
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/whitelisted.list
+
+https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
+https://raw.githubusercontent.com/CommsTech/Commsnet/main/Networking/pfSense/Firewall/pfBlockerNG/DNSBL/Whitelists/All_In_One_Whitelist.txt
+https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
+
 ../../data/white.list.common
 ../../data/white.list.referral
 ../../data/white.list.important

@@ -1,11 +1,7 @@
 ../../data/exclude.list
 ../../data/white.list.tif
 ../../data/white.list.egp
-../../data/white.list.t145
-../../data/white.list.hl2guide
 ../../data/white.list.apple
 ../../data/white.list.microsoft
 ../../data/white.list.tiktok
-../../data/white.list.ctech
-../../doh-vpn-proxy-bypass.txt
 ../../data/networks/google.list
