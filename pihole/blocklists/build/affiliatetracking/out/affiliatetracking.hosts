@@ -39,11 +39,11 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 #    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-#    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
+#    3 |    7045 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112751 unique Domains - Version 2022.0127.042053
+# 112761 unique Domains - Version 2022.0128.042016
 #
 0.0.0.0 0.0.0.0.beeglivesex.com
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
@@ -4985,6 +4985,7 @@
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.nexdra.com
+0.0.0.0 ads1.omdadget.com
 0.0.0.0 ads1.opensubtitles.org
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
@@ -8101,7 +8102,6 @@
 0.0.0.0 aktualizacja-platnosci.netafix-pl.me
 0.0.0.0 aktualizacja-platnosci.netafix-pl.net
 0.0.0.0 aktualizacja-platnosci.netafix-pl.store
-0.0.0.0 aktualizuj-program.kontotv.digital
 0.0.0.0 aktualna1.historiazycia.casa
 0.0.0.0 aktualna2.historiazycia.casa
 0.0.0.0 aktualna.historiazycia.casa
@@ -14631,6 +14631,7 @@
 0.0.0.0 buzzard.donotresearch.net
 0.0.0.0 buzzclick.com
 0.0.0.0 buzzclicks.com
+0.0.0.0 buzzcpm.com
 0.0.0.0 buzzfeed.amp.permutive.com
 0.0.0.0 buzzfeed.d1.sc.omtrdc.net
 0.0.0.0 buzzfoto.us.intellitxt.com
@@ -20295,6 +20296,7 @@
 0.0.0.0 ct2.harisen.jp
 0.0.0.0 ct2.momijioroshi.com
 0.0.0.0 ct2.wakatono.jp
+0.0.0.0 ct56889.tmweb.ru
 0.0.0.0 ct5m.citadium.com
 0.0.0.0 ct.5.p2l.info
 0.0.0.0 cta-capital.com
@@ -20367,7 +20369,6 @@
 0.0.0.0 ctxt.tribalfusion.com
 0.0.0.0 ctyjsf.cellphones.com.vn
 0.0.0.0 ctyojp.kibek.de
-0.0.0.0 cu91413.tmweb.ru
 0.0.0.0 c.uarating.com
 0.0.0.0 cuba7tilt.com
 0.0.0.0 cubarepresion.com
@@ -20524,6 +20525,7 @@
 0.0.0.0 cws-sjc2.conviva.com
 0.0.0.0 cws-us-east.conviva.com
 0.0.0.0 cws-usw2.conviva.com
+0.0.0.0 cx95416.tmweb.ru
 0.0.0.0 cxad.cxense.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 c.xbox.com.nsatc.net
@@ -24529,7 +24531,6 @@
 0.0.0.0 dpd-pl.74943.pw
 0.0.0.0 dpd-pl.cena-id9572.pl
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
-0.0.0.0 dpd-pl.dsajj-dajqti12.pro
 0.0.0.0 dpd-pl.id-3489.me
 0.0.0.0 dpdpl-info.informationabout-parcelpl.xyz
 0.0.0.0 dpdpl-info.myparcel-orderinfo.xyz
@@ -24546,7 +24547,6 @@
 0.0.0.0 dpd-polska.896401.space
 0.0.0.0 dpd-polska.pay-id7438.space
 0.0.0.0 dpd-polska.pay-id9341.space
-0.0.0.0 dpd-polska.pay-id956278.top
 0.0.0.0 dpd-s.id-9431.me
 0.0.0.0 dpd.transpay-67584.space
 0.0.0.0 dpd.transpay-85495.space
@@ -28321,6 +28321,7 @@
 0.0.0.0 farid-nono.blogspot.com
 0.0.0.0 farmafit.it
 0.0.0.0 farmergoldfish.com
+0.0.0.0 farmius.org
 0.0.0.0 farm.plista.com
 0.0.0.0 farnolu.com
 0.0.0.0 fartuchy-kuchenne.pl
@@ -35461,6 +35462,7 @@
 0.0.0.0 hesconet.actonservice.com
 0.0.0.0 heshoppolska.pl
 0.0.0.0 hesperguitars.com
+0.0.0.0 heti-naplo.com
 0.0.0.0 heto.krym-print.ru
 0.0.0.0 heumidsfoncowebkya.ml
 0.0.0.0 heusmarketing.nl
@@ -38682,7 +38684,6 @@
 0.0.0.0 inpostpl.posak-skup.com
 0.0.0.0 inpostpl.poxlkae.com
 0.0.0.0 inpost-pl.purchaseitem.pw
-0.0.0.0 inpost.plpuygt.xyz
 0.0.0.0 inpost-pl-px.id98325.me
 0.0.0.0 inpost.pl-receivepaid.work
 0.0.0.0 inpost.pl-receive.work
@@ -40107,6 +40108,7 @@
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.cocoad.jp
+0.0.0.0 js.coinisrsdelivery.com
 0.0.0.0 js.colo2.jp
 0.0.0.0 jscount.com
 0.0.0.0 js.cybermonitor.com
@@ -43962,6 +43964,7 @@
 0.0.0.0 mail.bswiftmail.com
 0.0.0.0 mail.cafonline.org.uk
 0.0.0.0 mail.calnexinfo.com
+0.0.0.0 mailcheckisp.biz
 0.0.0.0 mail.cnn.cm
 0.0.0.0 mail.cobweb.com
 0.0.0.0 mail.commondreams.net
@@ -54195,6 +54198,7 @@
 0.0.0.0 offers.amilia.com
 0.0.0.0 offers.bycontext.com
 0.0.0.0 offers.cdn.natpal.com
+0.0.0.0 offers.cloackp.com
 0.0.0.0 offers.egym.com
 0.0.0.0 offers.hddistributors.com
 0.0.0.0 offers.impower.com
@@ -54668,7 +54672,6 @@
 0.0.0.0 olx.pl-prezsylka.cc
 0.0.0.0 olx.pl-przesylka.live
 0.0.0.0 olx-pl.pukupka-05050.pl
-0.0.0.0 olx.plpuygt.xyz
 0.0.0.0 olx-pl-qfz.id-9431.me
 0.0.0.0 olx.pl-receive.cash
 0.0.0.0 olx.pl-receivepaid.icu
@@ -54714,7 +54717,6 @@
 0.0.0.0 olx.pl.transport-pr.pw
 0.0.0.0 olx-pltx.ownoffferta.cc
 0.0.0.0 olx-pl.vlnted.pl
-0.0.0.0 olx-pl.vxkj61-5125.com
 0.0.0.0 olx-plxkrs.ownoffferta.casa
 0.0.0.0 olx-plxkrs.ownoffferta.cc
 0.0.0.0 olx.pl.x-payment.win
@@ -65874,6 +65876,7 @@
 0.0.0.0 secure.rate8deny.com
 0.0.0.0 secure.rear9axis.com
 0.0.0.0 secure.redd7liod.com
+0.0.0.0 secureredirect101.com
 0.0.0.0 secure.refl3alea.com
 0.0.0.0 secure.rigi9bury.com
 0.0.0.0 secure.rime8lope.com
@@ -76345,6 +76348,7 @@
 0.0.0.0 todosiebiiepassuje.club
 0.0.0.0 toecircle.com
 0.0.0.0 toe-corrector-pl.com
+0.0.0.0 togakmandang.unaux.com
 0.0.0.0 togdynia.xyz
 0.0.0.0 toggletools.com
 0.0.0.0 tohvww.mathon.fr
@@ -76846,7 +76850,6 @@
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
-0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 trackers.voodoo-analytics.io
@@ -78004,6 +78007,7 @@
 0.0.0.0 trk.mddionline.com
 0.0.0.0 trk.mdeawards.com
 0.0.0.0 trk.mk.westernunion.com
+0.0.0.0 trkmydomain.com
 0.0.0.0 trk.networkcomputing.com
 0.0.0.0 trknsm-uaqs.one
 0.0.0.0 trknths.com
@@ -87567,6 +87571,7 @@
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.buzzclick.com
 0.0.0.0 www.buzzclicks.com
+0.0.0.0 www.buzzcpm.com
 0.0.0.0 www.buzzihome.com
 0.0.0.0 www.buzzimpress.jp
 0.0.0.0 www.buzzlace.cf
@@ -93003,6 +93008,7 @@
 0.0.0.0 www.farid-nono.blogspot.com
 0.0.0.0 www.farmafit.it
 0.0.0.0 www.farmergoldfish.com
+0.0.0.0 www.farmius.org
 0.0.0.0 www.farnolu.com
 0.0.0.0 www.fartuchy-kuchenne.pl
 0.0.0.0 www.faryzeusz.pl
@@ -94969,6 +94975,7 @@
 0.0.0.0 www.hertzsales.com
 0.0.0.0 www.heshoppolska.pl
 0.0.0.0 www.hesperguitars.com
+0.0.0.0 www.heti-naplo.com
 0.0.0.0 www.heto.krym-print.ru
 0.0.0.0 www.heumidsfoncowebkya.ml
 0.0.0.0 www.heusmarketing.nl
@@ -98487,6 +98494,7 @@
 0.0.0.0 www.mail.braun.de
 0.0.0.0 www.mail.braun.jp
 0.0.0.0 www.mail.bravardag.se
+0.0.0.0 www.mailcheckisp.biz
 0.0.0.0 www.mail-confirmation-process.glitch.me
 0.0.0.0 www.mail.everydaymearabia.com
 0.0.0.0 www.mail.everydayme.ru
@@ -105517,6 +105525,7 @@
 0.0.0.0 www.secure.platnosci-online.shop
 0.0.0.0 www.secure-pl.com
 0.0.0.0 www.secure-processingcenter.com
+0.0.0.0 www.secureredirect101.com
 0.0.0.0 www.securerr.com
 0.0.0.0 www.securerunner.com
 0.0.0.0 www.secure-safety.su
@@ -108383,6 +108392,7 @@
 0.0.0.0 www.trk42.net
 0.0.0.0 www.trk4.com
 0.0.0.0 www.trkingace.com
+0.0.0.0 www.trkmydomain.com
 0.0.0.0 www.trknsm-uaqs.one
 0.0.0.0 www.trknths.com
 0.0.0.0 www.trkn.us

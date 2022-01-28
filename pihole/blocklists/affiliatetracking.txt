@@ -39,11 +39,11 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 #    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-#    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
+#    3 |    7045 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112751 unique Domains - Version 2022.0127.042053
+# 112761 unique Domains - Version 2022.0128.042016
 #
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -4985,6 +4985,7 @@ ads1.mediacapital.pt
 ads1.msads.net
 ads1.msn.com
 ads1.nexdra.com
+ads1.omdadget.com
 ads1.opensubtitles.org
 ads1.performancingads.com
 ads1.realcities.com
@@ -8101,7 +8102,6 @@ aktualizacja-platnosci.netafix-pl.com
 aktualizacja-platnosci.netafix-pl.me
 aktualizacja-platnosci.netafix-pl.net
 aktualizacja-platnosci.netafix-pl.store
-aktualizuj-program.kontotv.digital
 aktualna1.historiazycia.casa
 aktualna2.historiazycia.casa
 aktualna.historiazycia.casa
@@ -14631,6 +14631,7 @@ buzzadnetwork.com
 buzzard.donotresearch.net
 buzzclick.com
 buzzclicks.com
+buzzcpm.com
 buzzfeed.amp.permutive.com
 buzzfeed.d1.sc.omtrdc.net
 buzzfoto.us.intellitxt.com
@@ -20295,6 +20296,7 @@ ct2.comclick.com
 ct2.harisen.jp
 ct2.momijioroshi.com
 ct2.wakatono.jp
+ct56889.tmweb.ru
 ct5m.citadium.com
 ct.5.p2l.info
 cta-capital.com
@@ -20367,7 +20369,6 @@ ctxtad.tribalfusion.com
 ctxt.tribalfusion.com
 ctyjsf.cellphones.com.vn
 ctyojp.kibek.de
-cu91413.tmweb.ru
 c.uarating.com
 cuba7tilt.com
 cubarepresion.com
@@ -20524,6 +20525,7 @@ cws-lgi-global.conviva.com
 cws-sjc2.conviva.com
 cws-us-east.conviva.com
 cws-usw2.conviva.com
+cx95416.tmweb.ru
 cxad.cxense.com
 cx.atdmt.com
 c.xbox.com.nsatc.net
@@ -24529,7 +24531,6 @@ dpd-pl.6743281-pieniadze-info.xyz
 dpd-pl.74943.pw
 dpd-pl.cena-id9572.pl
 dpdpl.dostawa-order-6744132.xyz
-dpd-pl.dsajj-dajqti12.pro
 dpd-pl.id-3489.me
 dpdpl-info.informationabout-parcelpl.xyz
 dpdpl-info.myparcel-orderinfo.xyz
@@ -24546,7 +24547,6 @@ dpdpoland.orderingdlvry-courierpoland.xyz
 dpd-polska.896401.space
 dpd-polska.pay-id7438.space
 dpd-polska.pay-id9341.space
-dpd-polska.pay-id956278.top
 dpd-s.id-9431.me
 dpd.transpay-67584.space
 dpd.transpay-85495.space
@@ -28321,6 +28321,7 @@ fargonpozyczki.pl
 farid-nono.blogspot.com
 farmafit.it
 farmergoldfish.com
+farmius.org
 farm.plista.com
 farnolu.com
 fartuchy-kuchenne.pl
@@ -35461,6 +35462,7 @@ hertzsales.com
 hesconet.actonservice.com
 heshoppolska.pl
 hesperguitars.com
+heti-naplo.com
 heto.krym-print.ru
 heumidsfoncowebkya.ml
 heusmarketing.nl
@@ -38682,7 +38684,6 @@ inpost-pl.poczta-id874572.xyz
 inpostpl.posak-skup.com
 inpostpl.poxlkae.com
 inpost-pl.purchaseitem.pw
-inpost.plpuygt.xyz
 inpost-pl-px.id98325.me
 inpost.pl-receivepaid.work
 inpost.pl-receive.work
@@ -40107,6 +40108,7 @@ js-cloud.com
 jsc.marketgid.com
 jsc.mgid.com
 js.cocoad.jp
+js.coinisrsdelivery.com
 js.colo2.jp
 jscount.com
 js.cybermonitor.com
@@ -43962,6 +43964,7 @@ mail.bridgetowermedia.press
 mail.bswiftmail.com
 mail.cafonline.org.uk
 mail.calnexinfo.com
+mailcheckisp.biz
 mail.cnn.cm
 mail.cobweb.com
 mail.commondreams.net
@@ -54195,6 +54198,7 @@ offers.affiliatetraction.com
 offers.amilia.com
 offers.bycontext.com
 offers.cdn.natpal.com
+offers.cloackp.com
 offers.egym.com
 offers.hddistributors.com
 offers.impower.com
@@ -54668,7 +54672,6 @@ olx-pl.posak-skup.com
 olx.pl-prezsylka.cc
 olx.pl-przesylka.live
 olx-pl.pukupka-05050.pl
-olx.plpuygt.xyz
 olx-pl-qfz.id-9431.me
 olx.pl-receive.cash
 olx.pl-receivepaid.icu
@@ -54714,7 +54717,6 @@ olx.pl.transbuyingite.pw
 olx.pl.transport-pr.pw
 olx-pltx.ownoffferta.cc
 olx-pl.vlnted.pl
-olx-pl.vxkj61-5125.com
 olx-plxkrs.ownoffferta.casa
 olx-plxkrs.ownoffferta.cc
 olx.pl.x-payment.win
@@ -65874,6 +65876,7 @@ secure.rate2self.com
 secure.rate8deny.com
 secure.rear9axis.com
 secure.redd7liod.com
+secureredirect101.com
 secure.refl3alea.com
 secure.rigi9bury.com
 secure.rime8lope.com
@@ -76345,6 +76348,7 @@ todolize.com
 todosiebiiepassuje.club
 toecircle.com
 toe-corrector-pl.com
+togakmandang.unaux.com
 togdynia.xyz
 toggletools.com
 tohvww.mathon.fr
@@ -76846,7 +76850,6 @@ tracker.phunuvagiadinh.vn
 tracker-pm2.spilleren.com
 tracker.providence.org
 tracker.publico.pt
-tracker.remp.impresa.pt
 tracker.samplicio.us
 tracker.squidanalytics.com
 trackers.voodoo-analytics.io
@@ -78004,6 +78007,7 @@ trk.m1.stadiumgoods.com
 trk.mddionline.com
 trk.mdeawards.com
 trk.mk.westernunion.com
+trkmydomain.com
 trk.networkcomputing.com
 trknsm-uaqs.one
 trknths.com
@@ -87567,6 +87571,7 @@ www.buz2mobile.com
 www.buzzadnetwork.com
 www.buzzclick.com
 www.buzzclicks.com
+www.buzzcpm.com
 www.buzzihome.com
 www.buzzimpress.jp
 www.buzzlace.cf
@@ -93003,6 +93008,7 @@ www.fargonpozyczki.pl
 www.farid-nono.blogspot.com
 www.farmafit.it
 www.farmergoldfish.com
+www.farmius.org
 www.farnolu.com
 www.fartuchy-kuchenne.pl
 www.faryzeusz.pl
@@ -94969,6 +94975,7 @@ www.hers-system.website
 www.hertzsales.com
 www.heshoppolska.pl
 www.hesperguitars.com
+www.heti-naplo.com
 www.heto.krym-print.ru
 www.heumidsfoncowebkya.ml
 www.heusmarketing.nl
@@ -98487,6 +98494,7 @@ www.mail.braun.com
 www.mail.braun.de
 www.mail.braun.jp
 www.mail.bravardag.se
+www.mailcheckisp.biz
 www.mail-confirmation-process.glitch.me
 www.mail.everydaymearabia.com
 www.mail.everydayme.ru
@@ -105517,6 +105525,7 @@ www.secureplainplatform.000webhostapp.com
 www.secure.platnosci-online.shop
 www.secure-pl.com
 www.secure-processingcenter.com
+www.secureredirect101.com
 www.securerr.com
 www.securerunner.com
 www.secure-safety.su
@@ -108383,6 +108392,7 @@ www.triunesknavish.com
 www.trk42.net
 www.trk4.com
 www.trkingace.com
+www.trkmydomain.com
 www.trknsm-uaqs.one
 www.trknths.com
 www.trkn.us

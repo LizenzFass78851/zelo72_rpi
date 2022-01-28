@@ -39,11 +39,11 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-!    3 |    7045 | hosts   | http   | online  | changed   | https://adaway.org/hosts.txt
+!    3 |    7045 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
 !    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 !    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !
-! 71334 unique Domains - Version 2022.0127.042053
+! 71338 unique Domains - Version 2022.0128.042016
 !
 ||0.0.0.0.beeglivesex.com^
 ||000free.us^
@@ -3656,6 +3656,7 @@
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
 ||ads1.nexdra.com^
+||ads1.omdadget.com^
 ||ads1.opensubtitles.org^
 ||ads1.performancingads.com^
 ||ads1.realcities.com^
@@ -6339,7 +6340,6 @@
 ||aktualizacja-platnosci.netafix-pl.me^
 ||aktualizacja-platnosci.netafix-pl.net^
 ||aktualizacja-platnosci.netafix-pl.store^
-||aktualizuj-program.kontotv.digital^
 ||aktywadlaludzi.online^
 ||aktywadlaludzi.space^
 ||aktywnezycie.com.pl^
@@ -11533,6 +11533,7 @@
 ||buzzard.donotresearch.net^
 ||buzzclick.com^
 ||buzzclicks.com^
+||buzzcpm.com^
 ||buzzfeed.d1.sc.omtrdc.net^
 ||buzzihome.com^
 ||buzzimpress.jp^
@@ -15707,6 +15708,7 @@
 ||ct2.harisen.jp^
 ||ct2.momijioroshi.com^
 ||ct2.wakatono.jp^
+||ct56889.tmweb.ru^
 ||ct5m.citadium.com^
 ||ct.5.p2l.info^
 ||cta-capital.com^
@@ -15766,7 +15768,6 @@
 ||ct.xn--0et88ccz6awh1a.biz^
 ||ctyjsf.cellphones.com.vn^
 ||ctyojp.kibek.de^
-||cu91413.tmweb.ru^
 ||c.uarating.com^
 ||cuba7tilt.com^
 ||cubarepresion.com^
@@ -15900,6 +15901,7 @@
 ||cws-sjc2.conviva.com^
 ||cws-us-east.conviva.com^
 ||cws-usw2.conviva.com^
+||cx95416.tmweb.ru^
 ||c.xbox.com.nsatc.net^
 ||cxense.com^
 ||cxense.com.edgekey.net^
@@ -19306,7 +19308,6 @@
 ||dpd-pl.74943.pw^
 ||dpd-pl.cena-id9572.pl^
 ||dpdpl.dostawa-order-6744132.xyz^
-||dpd-pl.dsajj-dajqti12.pro^
 ||dpd-pl.id-3489.me^
 ||dpdpl-info.informationabout-parcelpl.xyz^
 ||dpdpl-info.myparcel-orderinfo.xyz^
@@ -19323,7 +19324,6 @@
 ||dpd-polska.896401.space^
 ||dpd-polska.pay-id7438.space^
 ||dpd-polska.pay-id9341.space^
-||dpd-polska.pay-id956278.top^
 ||dpd-s.id-9431.me^
 ||dpd.transpay-67584.space^
 ||dpd.transpay-85495.space^
@@ -22190,6 +22190,7 @@
 ||farid-nono.blogspot.com^
 ||farmafit.it^
 ||farmergoldfish.com^
+||farmius.org^
 ||farnolu.com^
 ||fartuchy-kuchenne.pl^
 ||faryzeusz.pl^
@@ -28474,6 +28475,7 @@
 ||hesconet.actonservice.com^
 ||heshoppolska.pl^
 ||hesperguitars.com^
+||heti-naplo.com^
 ||heto.krym-print.ru^
 ||heumidsfoncowebkya.ml^
 ||heusmarketing.nl^
@@ -31202,7 +31204,6 @@
 ||inpostpl.posak-skup.com^
 ||inpostpl.poxlkae.com^
 ||inpost-pl.purchaseitem.pw^
-||inpost.plpuygt.xyz^
 ||inpost-pl-px.id98325.me^
 ||inpost.pl-receivepaid.work^
 ||inpost.pl-receive.work^
@@ -32364,6 +32365,7 @@
 ||js.center.io^
 ||js.clickequations.net^
 ||js-cloud.com^
+||js.coinisrsdelivery.com^
 ||js.colo2.jp^
 ||jscount.com^
 ||js.cybermonitor.com^
@@ -35608,6 +35610,7 @@
 ||mail.bridgetowermedia.press^
 ||mail.cafonline.org.uk^
 ||mail.calnexinfo.com^
+||mailcheckisp.biz^
 ||mail.cobweb.com^
 ||mail.commondreams.net^
 ||mail.compmgtemail.com^
@@ -45072,6 +45075,7 @@
 ||offers.affiliatetraction.com^
 ||offers.amilia.com^
 ||offers.bycontext.com^
+||offers.cloackp.com^
 ||offers.egym.com^
 ||offers.hddistributors.com^
 ||offers.impower.com^
@@ -45525,7 +45529,6 @@
 ||olx.pl-prezsylka.cc^
 ||olx.pl-przesylka.live^
 ||olx-pl.pukupka-05050.pl^
-||olx.plpuygt.xyz^
 ||olx-pl-qfz.id-9431.me^
 ||olx.pl-receive.cash^
 ||olx.pl-receivepaid.icu^
@@ -45564,7 +45567,6 @@
 ||olx.pl.transport-pr.pw^
 ||olx-pltx.ownoffferta.cc^
 ||olx-pl.vlnted.pl^
-||olx-pl.vxkj61-5125.com^
 ||olx-plxkrs.ownoffferta.casa^
 ||olx-plxkrs.ownoffferta.cc^
 ||olx.pl.x-payment.win^
@@ -55012,6 +55014,7 @@
 ||secure-proxy.imrworldwide.com^
 ||secure.rate2self.com^
 ||secure.rate8deny.com^
+||secureredirect101.com^
 ||secure.rigi9bury.com^
 ||secure.risk8belt.com^
 ||securerr.com^
@@ -64242,6 +64245,7 @@
 ||todosiebiiepassuje.club^
 ||toecircle.com^
 ||toe-corrector-pl.com^
+||togakmandang.unaux.com^
 ||togdynia.xyz^
 ||toggletools.com^
 ||tohvww.mathon.fr^
@@ -64666,7 +64670,6 @@
 ||tracker-pm2.spilleren.com^
 ||tracker.providence.org^
 ||tracker.publico.pt^
-||tracker.remp.impresa.pt^
 ||tracker.samplicio.us^
 ||tracker.squidanalytics.com^
 ||trackers.voodoo-analytics.io^
@@ -65708,6 +65711,7 @@
 ||trk.mddionline.com^
 ||trk.mdeawards.com^
 ||trk.mk.westernunion.com^
+||trkmydomain.com^
 ||trk.networkcomputing.com^
 ||trknsm-uaqs.one^
 ||trknths.com^
