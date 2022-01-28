@@ -629,6 +629,7 @@ aceteam.cl
 aceticket.com
 achievements.gameservices.ea.com
 achievements.xboxlive.com
+ac-illust.com
 ac-image.s3.amazonaws.com
 ackermann.ch
 aclj.org
@@ -1478,6 +1479,7 @@ api.dropbox.com
 api.duckduckgo.com
 api.dvdempire.com
 api.ebay.com
+api.epicgames.dev
 api.epix.com
 api.ewscloud.com
 api.experianaperture.io
@@ -2914,6 +2916,7 @@ bigkeys.com
 bigleaguepolitics.com
 biglots.com
 bigmir.net
+bignewsbdu.com
 bignox.com
 bigo.sg
 bigo.tv
@@ -7141,6 +7144,7 @@ dhwwtar19mmjy.apowersoft.info
 di7d-server.dilive.flbackend.fishlegion.net
 dialteg.com
 diamondbackcovers.com
+diamondbackfirearms.com
 diamondlakeberners.com
 diary.ru
 dic7ltk48khu.cloudfront.net
@@ -12642,6 +12646,7 @@ images.worldnow.com
 images.worldofrarebooks.co.uk
 images.wsj.net
 images.yaoota.com
+image.taiwannews.com.tw
 image.tmdb.org
 imagetot.com
 imagetwist.com
@@ -17593,6 +17598,7 @@ nutsvolts.com
 nuvelon.com
 nuvoton.com
 nuwber.com
+nvd.nist.gov
 nvidia.com
 nvidia.co.uk
 nvidia.custhelp.com
@@ -23679,6 +23685,7 @@ tacticball.co.il
 tafensw.edu.au
 taganime.co
 tahoeyukonforum.com
+taiwannews.com.tw
 take16beer.com
 takelessons.com
 takeofflive.com
@@ -24519,6 +24526,7 @@ tmv.infomaxnet.de
 tmz.com
 tn.gov
 tngunowners.com
+tnimage.s3.hicloud.net.tw
 tnt.com
 tntdrama.com
 tn.tv.nate.com

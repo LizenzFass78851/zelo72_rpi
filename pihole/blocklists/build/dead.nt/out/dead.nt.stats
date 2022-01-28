@@ -13,17 +13,18 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  106567 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
-   2 |   28586 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
+   1 |  104843 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
+   2 |   28568 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
 
 # Build dead.nt Domainlist ...
 
 Stats dead.nt:
 
-** Source (raw):    135153
-== Source (unique): 135153 (-0)
+** Source (raw):    133411
+== Source (unique): 133411 (-0)
 
-*****************************************************
-* No changes to the previous repo version detected! *
-*****************************************************
+133411 unique Domains - Version 2022.0128.040224
+MD5 Domains RAW: 5d6d6d583777031d8ec6b1de24dc7d84
+
+# Push dead.nt to local Repositories ...
 

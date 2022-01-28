@@ -849,6 +849,7 @@ disq.us
 *.disquscdn.com
 disquscdn.com
 disqus.com
+disqus-timeline.disqus.com
 distrowatch.com
 dlassets-ssl.xboxlive.com
 dl.bitsum.com
@@ -1061,6 +1062,7 @@ extensions-loader.azurewebsites.net
 extensionupdater.brave.com
 external-content.duckduckgo.com
 external-offer-mapping-service.juno.ea.com
+extract.services.disqus.com
 eztv.re
 f1techcomputers.com.au
 fanboy.co.nz
@@ -1156,6 +1158,7 @@ fping.org
 fp.msedge.net
 fp-*-nocache.azureedge.net
 fp.profiles.us.playstation.com
+fpt2.microsoft.com
 fpt.microsoft.com
 fpt.xbox.com
 fp-vp.azureedge.net
@@ -1481,6 +1484,7 @@ ipv4only.arpa
 ipv4.tracker.harry.lu
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
+ipv6.login.live.com
 irc.chat.twitch.tv
 irc.twitch.tv
 irc-ws.chat.twitch.tv
@@ -2822,6 +2826,7 @@ vscodium.vercel.app
 vsmarketplacebadge.apphb.com
 vssps.dev.azure.com
 vsstartpagenewsfeed.azureedge.net
+v.tampermonkey.net
 vtvkm5urpx-1.algolianet.com
 vtvkm5urpx-2.algolianet.com
 vtvkm5urpx-3.algolianet.com
@@ -2869,6 +2874,7 @@ ws1-n1syd.isp.foxtel.net.au
 ws75.aptoide.com
 wsappcontrol.com
 wsp.teamviewer.com
+w.tampermonkey.net
 wtfismyip.com
 wt.soundcloud.com
 wus2.gssv-play-prodxhome.xboxlive.com

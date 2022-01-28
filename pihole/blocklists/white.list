@@ -489,4 +489,6 @@ tools.pinpoll.com
 sportsbet.com.au
 # https://github.com/AdAway/adaway.github.io/issues/312
 *.sentry.io
+# https://github.com/Zelo72/adguard/issues/8
+netdirector.co.uk
 #
