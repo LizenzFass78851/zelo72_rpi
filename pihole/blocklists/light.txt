@@ -16244,7 +16244,6 @@ assets.logrocket.com
 assets.logrocket.io
 assets-main.trafficfactory.biz
 assets.mediarithmics.com
-assets.mmsrg.com
 assets.netizen.co
 assets.net.shop.com.mm
 assets.net.zooplus.com
