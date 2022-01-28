@@ -33,15 +33,15 @@ Config:
    ../../data/white.list.apple
    ../../data/white.list.microsoft
    ../../data/white.list.tiktok
-   ../../doh-vpn-proxy-bypass.txt
+   ../../data/networks/google.list
 
 Initialize ...
 
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   69303 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-   2 |   16043 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+   1 |   69303 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+   2 |   16044 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
    3 |   12195 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
    4 |    1116 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
    5 |    5421 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
@@ -53,17 +53,17 @@ Initialize ...
 
 Stats extra:
 
-** Source (raw):    105285
-== Source (unique): 99965 (-5320)
--- Exclude:         69799 (-30166)
--- White:           68547 (-1252)
--- White(*):        67143 (-1404)
--- Dead:            66788 (-355)
-++ FLD:             66788 (+0)
-++ WWW:             78554 (+11766)
+** Source (raw):    105286
+== Source (unique): 99966 (-5320)
+-- Exclude:         69769 (-30197)
+-- White:           68522 (-1247)
+-- White(*):        67090 (-1432)
+-- Dead:            66739 (-351)
+++ FLD:             66739 (+0)
+++ WWW:             78505 (+11766)
 
-78554 unique Domains - Version 2022.0128.044459
-MD5 Domains RAW: eb0d9bcded7f6310e3380d53f8d23c70
+78505 unique Domains - Version 2022.0128.111808
+MD5 Domains RAW: e71b0e29b95fde40181715087f8df891
 
 # Convert extra to Hostlist ... 
 
@@ -86,10 +86,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling extra.adblock.raw
-ℹ Original length is 66786
-ℹ Length after applying transformations is 66786
-ℹ The list was compressed from 66789 to 66697
-ℹ Final length of the list is 66703
+ℹ Original length is 66737
+ℹ Length after applying transformations is 66737
+ℹ The list was compressed from 66740 to 66648
+ℹ Final length of the list is 66654
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
 ℹ Finished compiling
 
