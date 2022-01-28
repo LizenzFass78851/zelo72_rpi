@@ -43,7 +43,7 @@
 !    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 !    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !
-! 71338 unique Domains - Version 2022.0128.042016
+! 71324 unique Domains - Version 2022.0128.105638
 !
 ||0.0.0.0.beeglivesex.com^
 ||000free.us^
@@ -4298,7 +4298,6 @@
 ||adserver.news.com.au^
 ||adserver.ngz-network.de^
 ||adserver.nydailynews.com^
-||adserver.nzoom.com^
 ||adserver.o2.pl^
 ||adserver.oddschecker.com^
 ||adserver.omroepzeeland.nl^
@@ -4932,6 +4931,7 @@
 ||ads.mindsetnetwork.com^
 ||ads.mindviz.com^
 ||ads.mircx.com^
+||ads.mixbg.net^
 ||ads.mlive.com^
 ||ads.mmania.com^
 ||ads.mm.ap.org^
@@ -5171,7 +5171,6 @@
 ||ads.rootzoo.com^
 ||ads-router-noneu.truecaller.com^
 ||ads.rttnews.com^
-||ads.rude.com^
 ||ads.ruralpress.com^
 ||adsrv2.ihlassondakika.com^
 ||adsrv2.swidnica24.pl^
@@ -9549,7 +9548,6 @@
 ||banners.celebritybling.com^
 ||banners.clips4sale.com^
 ||banners.clubseventeen.com^
-||banners.content.rude.com^
 ||banners.copyscape.com^
 ||banners.crakcash.com^
 ||banners.czi.cz^
@@ -9598,7 +9596,6 @@
 ||banners.realitycash.com^
 ||banners.resultonline.com^
 ||banners.rexmag.com^
-||banners.rude.com^
 ||banners.rushcommerce.com^
 ||banners.securedataimages.com^
 ||banners.seniorfriendfinder.com^
@@ -10643,7 +10640,6 @@
 ||blogherads.com^
 ||blog-hits.com^
 ||blog-in.biz^
-||blog.jacekpaciorek.pl^
 ||bloglily.com^
 ||blog.livedooor.info^
 ||blog-livedorr.com^
@@ -13299,7 +13295,6 @@
 ||ckygge.mohd.it^
 ||c.kyoceradocumentsolutions.eu^
 ||cl0udh0st1ng.com^
-||cl81100.tmweb.ru^
 ||cl90234.tmweb.ru^
 ||clade.de^
 ||clad.perfectcorp.com^
@@ -17555,7 +17550,6 @@
 ||darmowe-ebooki.net^
 ||darmowefilmyhd.blogspot.com^
 ||darmowekino.pl^
-||darmowe-lego.pro-linuxpl.com^
 ||darmowe-liczniki.info^
 ||darmoweogladanie.pl^
 ||darmowepiwo.000webhostapp.com^
@@ -22190,7 +22184,6 @@
 ||farid-nono.blogspot.com^
 ||farmafit.it^
 ||farmergoldfish.com^
-||farmius.org^
 ||farnolu.com^
 ||fartuchy-kuchenne.pl^
 ||faryzeusz.pl^
@@ -26538,7 +26531,6 @@
 ||googlinform.coocoldini.xyz^
 ||googlpl.coocoldini.xyz^
 ||googlus.com^
-||googlwe.com^
 ||goognews.coocoldini.xyz^
 ||go.ohi.com^
 ||gooinw.web.app^
@@ -31116,7 +31108,6 @@
 ||inpost-pl-3dssl.id-95161.xyz^
 ||inpostpl.44112-online.sbs^
 ||inpost-pl.4876134-pieniadze-info.xyz^
-||inpost-pl.534886.space^
 ||inpost-pl.5476128-order.xyz^
 ||inpost-pl.601133.space^
 ||inpost-pl.6235482-bill-order.xyz^
@@ -31124,7 +31115,6 @@
 ||inpost-pl.785463-money-order.xyz^
 ||inpost-pl.794513-money-info.xyz^
 ||inpost-pl.9473873-info-mycash.xyz^
-||inpost-pl.968985.space^
 ||inpost.pl.aus-payforitto.pw^
 ||inpost.pl-basederecom.pw^
 ||inpost-pl.britembuy.pw^
@@ -31136,7 +31126,6 @@
 ||inpost-pl.dostawa-id87543.xyz^
 ||inpost-pl.dostawa-safe.today^
 ||inpost-pl-fbr.id-3489.me^
-||inpostpl.fund-odbor.com^
 ||inpost.pl-get.cash^
 ||inpost.pl-getmoney.life^
 ||inpost.pl-getpaid.work^
@@ -31144,7 +31133,6 @@
 ||inpost-pl.goodspurchase.pw^
 ||inpost.pl-gotpaid.work^
 ||inpost.pl-gotpay.work^
-||inpostpl.hhsdw-yt2qwt.pro^
 ||inpost-pl.id-43031.xyz^
 ||inpost-pl.id-safety.eu^
 ||inpost-pl.id-safety.me^
@@ -31201,7 +31189,6 @@
 ||inpost-pl.poczta-id2865413.xyz^
 ||inpost-pl.poczta-id585319.xyz^
 ||inpost-pl.poczta-id874572.xyz^
-||inpostpl.posak-skup.com^
 ||inpostpl.poxlkae.com^
 ||inpost-pl.purchaseitem.pw^
 ||inpost-pl-px.id98325.me^
@@ -35610,7 +35597,6 @@
 ||mail.bridgetowermedia.press^
 ||mail.cafonline.org.uk^
 ||mail.calnexinfo.com^
-||mailcheckisp.biz^
 ||mail.cobweb.com^
 ||mail.commondreams.net^
 ||mail.compmgtemail.com^
@@ -44076,6 +44062,7 @@
 ||o.auspost.com.au^
 ||oauth.datorama.com^
 ||oav4trk.com^
+||oawyr.com^
 ||ob0.aoscufe.com^
 ||ob100.aoscufe.com^
 ||ob101.aoscufe.com^
@@ -45397,7 +45384,6 @@
 ||olx-pl.6743281-pieniadze-info.xyz^
 ||olx-pl.734627.space^
 ||olx-pl.742853.space^
-||olx-pl.968985.space^
 ||olx-plazyj.ownoffferta.cc^
 ||olx-pl.baserteniti.site^
 ||olx-pl.beitarprenn.cf^
@@ -45525,7 +45511,6 @@
 ||olx.pl-pay.surf^
 ||olx-pl.pazka-125.pl^
 ||olx-plpc.ownoffferta.cc^
-||olx-pl.posak-skup.com^
 ||olx.pl-prezsylka.cc^
 ||olx.pl-przesylka.live^
 ||olx-pl.pukupka-05050.pl^
@@ -50913,6 +50898,7 @@
 ||pool.distilled.ie^
 ||poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com^
 ||pool-inv.web.app^
+||poonstwifterspick.work^
 ||poor5zero.com^
 ||popadscdn.net^
 ||popads.net^
@@ -63325,6 +63311,7 @@
 ||tdn.r42tag.com^
 ||tdradi-xyz.preview-domain.com^
 ||tdreg.icu^
+||tdreg.top^
 ||tds-01.atas.io^
 ||tds.trafflow.com^
 ||tds.tuberl.com^
@@ -66675,7 +66662,6 @@
 ||update-paymentnow.ntftvcentre.website^
 ||update-paymentnow.tvonlinenow.co.pl^
 ||update-paymentnow.tvshowapp.cam^
-||update-paymentnow.tvshowkonto.life^
 ||updatepolishwebmail.weebly.com^
 ||updater.lionmobi.com^
 ||updates.aem.org^

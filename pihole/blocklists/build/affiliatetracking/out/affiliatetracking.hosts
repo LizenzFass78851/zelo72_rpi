@@ -43,7 +43,7 @@
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112761 unique Domains - Version 2022.0128.042016
+# 112747 unique Domains - Version 2022.0128.105638
 #
 0.0.0.0 0.0.0.0.beeglivesex.com
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
@@ -5740,7 +5740,6 @@
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
-0.0.0.0 adserver.nzoom.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
@@ -6427,6 +6426,7 @@
 0.0.0.0 ads.mindsetnetwork.com
 0.0.0.0 ads.mindviz.com
 0.0.0.0 ads.mircx.com
+0.0.0.0 ads.mixbg.net
 0.0.0.0 ads.mlive.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mm.ap.org
@@ -6705,7 +6705,6 @@
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads.rttnews.com
 0.0.0.0 ads.rubiconproject.com
-0.0.0.0 ads.rude.com
 0.0.0.0 ads.ruralpress.com
 0.0.0.0 adsrv2.ihlassondakika.com
 0.0.0.0 adsrv2.swidnica24.pl
@@ -12208,7 +12207,6 @@
 0.0.0.0 banners.celebritybling.com
 0.0.0.0 banners.clips4sale.com
 0.0.0.0 banners.clubseventeen.com
-0.0.0.0 banners.content.rude.com
 0.0.0.0 banners.copyscape.com
 0.0.0.0 banners.crakcash.com
 0.0.0.0 banners.czi.cz
@@ -12263,7 +12261,6 @@
 0.0.0.0 banners.realitycash.com
 0.0.0.0 banners.resultonline.com
 0.0.0.0 banners.rexmag.com
-0.0.0.0 banners.rude.com
 0.0.0.0 banners.rushcommerce.com
 0.0.0.0 banners.securedataimages.com
 0.0.0.0 banners.seniorfriendfinder.com
@@ -13579,7 +13576,6 @@
 0.0.0.0 blog-hits.com
 0.0.0.0 blog-in.biz
 0.0.0.0 blog.intext.ero-advertising.com
-0.0.0.0 blog.jacekpaciorek.pl
 0.0.0.0 bloglily.com
 0.0.0.0 blog.livedooor.info
 0.0.0.0 blog-livedorr.com
@@ -17187,7 +17183,6 @@
 0.0.0.0 ckygge.mohd.it
 0.0.0.0 c.kyoceradocumentsolutions.eu
 0.0.0.0 cl0udh0st1ng.com
-0.0.0.0 cl81100.tmweb.ru
 0.0.0.0 cl90234.tmweb.ru
 0.0.0.0 clade.de
 0.0.0.0 clad.perfectcorp.com
@@ -22303,7 +22298,6 @@
 0.0.0.0 darmowe-ebooki.net
 0.0.0.0 darmowefilmyhd.blogspot.com
 0.0.0.0 darmowekino.pl
-0.0.0.0 darmowe-lego.pro-linuxpl.com
 0.0.0.0 darmowe-liczniki.info
 0.0.0.0 darmoweogladanie.pl
 0.0.0.0 darmowepiwo.000webhostapp.com
@@ -28321,7 +28315,6 @@
 0.0.0.0 farid-nono.blogspot.com
 0.0.0.0 farmafit.it
 0.0.0.0 farmergoldfish.com
-0.0.0.0 farmius.org
 0.0.0.0 farm.plista.com
 0.0.0.0 farnolu.com
 0.0.0.0 fartuchy-kuchenne.pl
@@ -33282,7 +33275,6 @@
 0.0.0.0 googlinform.coocoldini.xyz
 0.0.0.0 googlpl.coocoldini.xyz
 0.0.0.0 googlus.com
-0.0.0.0 googlwe.com
 0.0.0.0 goognews.coocoldini.xyz
 0.0.0.0 go.ohi.com
 0.0.0.0 gooinw.web.app
@@ -38596,7 +38588,6 @@
 0.0.0.0 inpost-pl-3dssl.id-95161.xyz
 0.0.0.0 inpostpl.44112-online.sbs
 0.0.0.0 inpost-pl.4876134-pieniadze-info.xyz
-0.0.0.0 inpost-pl.534886.space
 0.0.0.0 inpost-pl.5476128-order.xyz
 0.0.0.0 inpost-pl.601133.space
 0.0.0.0 inpost-pl.6235482-bill-order.xyz
@@ -38604,7 +38595,6 @@
 0.0.0.0 inpost-pl.785463-money-order.xyz
 0.0.0.0 inpost-pl.794513-money-info.xyz
 0.0.0.0 inpost-pl.9473873-info-mycash.xyz
-0.0.0.0 inpost-pl.968985.space
 0.0.0.0 inpost.pl.aus-payforitto.pw
 0.0.0.0 inpost.pl-basederecom.pw
 0.0.0.0 inpost-pl.britembuy.pw
@@ -38616,7 +38606,6 @@
 0.0.0.0 inpost-pl.dostawa-id87543.xyz
 0.0.0.0 inpost-pl.dostawa-safe.today
 0.0.0.0 inpost-pl-fbr.id-3489.me
-0.0.0.0 inpostpl.fund-odbor.com
 0.0.0.0 inpost.pl-get.cash
 0.0.0.0 inpost.pl-getmoney.life
 0.0.0.0 inpost.pl-getpaid.work
@@ -38624,7 +38613,6 @@
 0.0.0.0 inpost-pl.goodspurchase.pw
 0.0.0.0 inpost.pl-gotpaid.work
 0.0.0.0 inpost.pl-gotpay.work
-0.0.0.0 inpostpl.hhsdw-yt2qwt.pro
 0.0.0.0 inpost-pl.id-43031.xyz
 0.0.0.0 inpost-pl.id-safety.eu
 0.0.0.0 inpost-pl.id-safety.me
@@ -38681,7 +38669,6 @@
 0.0.0.0 inpost-pl.poczta-id2865413.xyz
 0.0.0.0 inpost-pl.poczta-id585319.xyz
 0.0.0.0 inpost-pl.poczta-id874572.xyz
-0.0.0.0 inpostpl.posak-skup.com
 0.0.0.0 inpostpl.poxlkae.com
 0.0.0.0 inpost-pl.purchaseitem.pw
 0.0.0.0 inpost-pl-px.id98325.me
@@ -43964,7 +43951,6 @@
 0.0.0.0 mail.bswiftmail.com
 0.0.0.0 mail.cafonline.org.uk
 0.0.0.0 mail.calnexinfo.com
-0.0.0.0 mailcheckisp.biz
 0.0.0.0 mail.cnn.cm
 0.0.0.0 mail.cobweb.com
 0.0.0.0 mail.commondreams.net
@@ -53169,6 +53155,7 @@
 0.0.0.0 o.auspost.com.au
 0.0.0.0 oauth.datorama.com
 0.0.0.0 oav4trk.com
+0.0.0.0 oawyr.com
 0.0.0.0 ob0.aoscufe.com
 0.0.0.0 ob100.aoscufe.com
 0.0.0.0 ob101.aoscufe.com
@@ -54534,7 +54521,6 @@
 0.0.0.0 olx-pl.6743281-pieniadze-info.xyz
 0.0.0.0 olx-pl.734627.space
 0.0.0.0 olx-pl.742853.space
-0.0.0.0 olx-pl.968985.space
 0.0.0.0 olx-plazyj.ownoffferta.cc
 0.0.0.0 olx-pl.baserteniti.site
 0.0.0.0 olx-pl.beitarprenn.cf
@@ -54668,7 +54654,6 @@
 0.0.0.0 olx-pl.pazka-125.pl
 0.0.0.0 olx-plpc.ownoffferta.cc
 0.0.0.0 olx.pl-poland.oferta-pay.net
-0.0.0.0 olx-pl.posak-skup.com
 0.0.0.0 olx.pl-prezsylka.cc
 0.0.0.0 olx.pl-przesylka.live
 0.0.0.0 olx-pl.pukupka-05050.pl
@@ -60604,6 +60589,7 @@
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pool.roularta.adhese.com
 0.0.0.0 pool.sanoma.adhese.com
+0.0.0.0 poonstwifterspick.work
 0.0.0.0 poor5zero.com
 0.0.0.0 pop6.adultfriendfinder.com
 0.0.0.0 popacs.ero-advertising.com
@@ -75239,6 +75225,7 @@
 0.0.0.0 t.domdex.com
 0.0.0.0 tdradi-xyz.preview-domain.com
 0.0.0.0 tdreg.icu
+0.0.0.0 tdreg.top
 0.0.0.0 tds-01.atas.io
 0.0.0.0 tds.trafflow.com
 0.0.0.0 tds.tuberl.com
@@ -79141,7 +79128,6 @@
 0.0.0.0 update-paymentnow.ntftvcentre.website
 0.0.0.0 update-paymentnow.tvonlinenow.co.pl
 0.0.0.0 update-paymentnow.tvshowapp.cam
-0.0.0.0 update-paymentnow.tvshowkonto.life
 0.0.0.0 updatepolishwebmail.weebly.com
 0.0.0.0 update.postimp-ofw.fyber.com
 0.0.0.0 update.privdog.com
@@ -93008,7 +92994,6 @@
 0.0.0.0 www.farid-nono.blogspot.com
 0.0.0.0 www.farmafit.it
 0.0.0.0 www.farmergoldfish.com
-0.0.0.0 www.farmius.org
 0.0.0.0 www.farnolu.com
 0.0.0.0 www.fartuchy-kuchenne.pl
 0.0.0.0 www.faryzeusz.pl
@@ -94476,7 +94461,6 @@
 0.0.0.0 www.googlinform.coocoldini.xyz
 0.0.0.0 www.googlpl.coocoldini.xyz
 0.0.0.0 www.googlus.com
-0.0.0.0 www.googlwe.com
 0.0.0.0 www.goognews.coocoldini.xyz
 0.0.0.0 www.gooinw.web.app
 0.0.0.0 www.goolegames.com
@@ -98494,7 +98478,6 @@
 0.0.0.0 www.mail.braun.de
 0.0.0.0 www.mail.braun.jp
 0.0.0.0 www.mail.bravardag.se
-0.0.0.0 www.mailcheckisp.biz
 0.0.0.0 www.mail-confirmation-process.glitch.me
 0.0.0.0 www.mail.everydaymearabia.com
 0.0.0.0 www.mail.everydayme.ru
@@ -100816,6 +100799,7 @@
 0.0.0.0 www.oamtrk.com
 0.0.0.0 www.oata.ero-advertising.com
 0.0.0.0 www.oav4trk.com
+0.0.0.0 www.oawyr.com
 0.0.0.0 www.obadatrendy.com
 0.0.0.0 www.obalic-kilka.site
 0.0.0.0 www.obciazenie.solushow.com
@@ -103496,6 +103480,7 @@
 0.0.0.0 www.pontoonrentalz.com
 0.0.0.0 www.ponurydiabelski.site
 0.0.0.0 www.pool-inv.web.app
+0.0.0.0 www.poonstwifterspick.work
 0.0.0.0 www.poor5zero.com
 0.0.0.0 www.popacs.ero-advertising.com
 0.0.0.0 www.popadscdn.net
@@ -107467,6 +107452,7 @@
 0.0.0.0 www.td583.com
 0.0.0.0 www.tdradi-xyz.preview-domain.com
 0.0.0.0 www.tdreg.icu
+0.0.0.0 www.tdreg.top
 0.0.0.0 www.teads.tv
 0.0.0.0 www.tealeaf.com
 0.0.0.0 www.tealium.com

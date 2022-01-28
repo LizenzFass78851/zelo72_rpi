@@ -43,7 +43,7 @@
 #    4 |  101306 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 112761 unique Domains - Version 2022.0128.042016
+# 112747 unique Domains - Version 2022.0128.105638
 #
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -5740,7 +5740,6 @@ adserver.netcreators.nl
 adserver.news.com.au
 adserver.ngz-network.de
 adserver.nydailynews.com
-adserver.nzoom.com
 adserver.o2.pl
 adserver.oddschecker.com
 adserver.omroepzeeland.nl
@@ -6427,6 +6426,7 @@ ads.milliyet.cubecdn.net
 ads.mindsetnetwork.com
 ads.mindviz.com
 ads.mircx.com
+ads.mixbg.net
 ads.mlive.com
 ads.mmania.com
 ads.mm.ap.org
@@ -6705,7 +6705,6 @@ ads.roularta.adhese.com
 ads-router-noneu.truecaller.com
 ads.rttnews.com
 ads.rubiconproject.com
-ads.rude.com
 ads.ruralpress.com
 adsrv2.ihlassondakika.com
 adsrv2.swidnica24.pl
@@ -12208,7 +12207,6 @@ banner.scasino.com
 banners.celebritybling.com
 banners.clips4sale.com
 banners.clubseventeen.com
-banners.content.rude.com
 banners.copyscape.com
 banners.crakcash.com
 banners.czi.cz
@@ -12263,7 +12261,6 @@ banners.popads.net
 banners.realitycash.com
 banners.resultonline.com
 banners.rexmag.com
-banners.rude.com
 banners.rushcommerce.com
 banners.securedataimages.com
 banners.seniorfriendfinder.com
@@ -13579,7 +13576,6 @@ blogherads.com
 blog-hits.com
 blog-in.biz
 blog.intext.ero-advertising.com
-blog.jacekpaciorek.pl
 bloglily.com
 blog.livedooor.info
 blog-livedorr.com
@@ -17187,7 +17183,6 @@ ck.storematch.jp
 ckygge.mohd.it
 c.kyoceradocumentsolutions.eu
 cl0udh0st1ng.com
-cl81100.tmweb.ru
 cl90234.tmweb.ru
 clade.de
 clad.perfectcorp.com
@@ -22303,7 +22298,6 @@ darmowe-ebooki.com.pl
 darmowe-ebooki.net
 darmowefilmyhd.blogspot.com
 darmowekino.pl
-darmowe-lego.pro-linuxpl.com
 darmowe-liczniki.info
 darmoweogladanie.pl
 darmowepiwo.000webhostapp.com
@@ -28321,7 +28315,6 @@ fargonpozyczki.pl
 farid-nono.blogspot.com
 farmafit.it
 farmergoldfish.com
-farmius.org
 farm.plista.com
 farnolu.com
 fartuchy-kuchenne.pl
@@ -33282,7 +33275,6 @@ googlinfo.coocoldini.xyz
 googlinform.coocoldini.xyz
 googlpl.coocoldini.xyz
 googlus.com
-googlwe.com
 goognews.coocoldini.xyz
 go.ohi.com
 gooinw.web.app
@@ -38596,7 +38588,6 @@ inpost-pl-3ds.id-95161.xyz
 inpost-pl-3dssl.id-95161.xyz
 inpostpl.44112-online.sbs
 inpost-pl.4876134-pieniadze-info.xyz
-inpost-pl.534886.space
 inpost-pl.5476128-order.xyz
 inpost-pl.601133.space
 inpost-pl.6235482-bill-order.xyz
@@ -38604,7 +38595,6 @@ inpost-pl.6352915-offerts.xyz
 inpost-pl.785463-money-order.xyz
 inpost-pl.794513-money-info.xyz
 inpost-pl.9473873-info-mycash.xyz
-inpost-pl.968985.space
 inpost.pl.aus-payforitto.pw
 inpost.pl-basederecom.pw
 inpost-pl.britembuy.pw
@@ -38616,7 +38606,6 @@ inpost-pl.deliverorder.pw
 inpost-pl.dostawa-id87543.xyz
 inpost-pl.dostawa-safe.today
 inpost-pl-fbr.id-3489.me
-inpostpl.fund-odbor.com
 inpost.pl-get.cash
 inpost.pl-getmoney.life
 inpost.pl-getpaid.work
@@ -38624,7 +38613,6 @@ inpost.pl-getpay.life
 inpost-pl.goodspurchase.pw
 inpost.pl-gotpaid.work
 inpost.pl-gotpay.work
-inpostpl.hhsdw-yt2qwt.pro
 inpost-pl.id-43031.xyz
 inpost-pl.id-safety.eu
 inpost-pl.id-safety.me
@@ -38681,7 +38669,6 @@ inpost.pl-pays.icu
 inpost-pl.poczta-id2865413.xyz
 inpost-pl.poczta-id585319.xyz
 inpost-pl.poczta-id874572.xyz
-inpostpl.posak-skup.com
 inpostpl.poxlkae.com
 inpost-pl.purchaseitem.pw
 inpost-pl-px.id98325.me
@@ -43964,7 +43951,6 @@ mail.bridgetowermedia.press
 mail.bswiftmail.com
 mail.cafonline.org.uk
 mail.calnexinfo.com
-mailcheckisp.biz
 mail.cnn.cm
 mail.cobweb.com
 mail.commondreams.net
@@ -53169,6 +53155,7 @@ oata.ero-advertising.com
 o.auspost.com.au
 oauth.datorama.com
 oav4trk.com
+oawyr.com
 ob0.aoscufe.com
 ob100.aoscufe.com
 ob101.aoscufe.com
@@ -54534,7 +54521,6 @@ olx-pl.581851.space
 olx-pl.6743281-pieniadze-info.xyz
 olx-pl.734627.space
 olx-pl.742853.space
-olx-pl.968985.space
 olx-plazyj.ownoffferta.cc
 olx-pl.baserteniti.site
 olx-pl.beitarprenn.cf
@@ -54668,7 +54654,6 @@ olx.pl-pay.surf
 olx-pl.pazka-125.pl
 olx-plpc.ownoffferta.cc
 olx.pl-poland.oferta-pay.net
-olx-pl.posak-skup.com
 olx.pl-prezsylka.cc
 olx.pl-przesylka.live
 olx-pl.pukupka-05050.pl
@@ -60604,6 +60589,7 @@ pool.persgroep.adhese.com
 pool-roularta.adhese.com
 pool.roularta.adhese.com
 pool.sanoma.adhese.com
+poonstwifterspick.work
 poor5zero.com
 pop6.adultfriendfinder.com
 popacs.ero-advertising.com
@@ -75239,6 +75225,7 @@ tdn.r42tag.com
 t.domdex.com
 tdradi-xyz.preview-domain.com
 tdreg.icu
+tdreg.top
 tds-01.atas.io
 tds.trafflow.com
 tds.tuberl.com
@@ -79141,7 +79128,6 @@ update.openx.com
 update-paymentnow.ntftvcentre.website
 update-paymentnow.tvonlinenow.co.pl
 update-paymentnow.tvshowapp.cam
-update-paymentnow.tvshowkonto.life
 updatepolishwebmail.weebly.com
 update.postimp-ofw.fyber.com
 update.privdog.com
@@ -93008,7 +92994,6 @@ www.fargonpozyczki.pl
 www.farid-nono.blogspot.com
 www.farmafit.it
 www.farmergoldfish.com
-www.farmius.org
 www.farnolu.com
 www.fartuchy-kuchenne.pl
 www.faryzeusz.pl
@@ -94476,7 +94461,6 @@ www.googlinfo.coocoldini.xyz
 www.googlinform.coocoldini.xyz
 www.googlpl.coocoldini.xyz
 www.googlus.com
-www.googlwe.com
 www.goognews.coocoldini.xyz
 www.gooinw.web.app
 www.goolegames.com
@@ -98494,7 +98478,6 @@ www.mail.braun.com
 www.mail.braun.de
 www.mail.braun.jp
 www.mail.bravardag.se
-www.mailcheckisp.biz
 www.mail-confirmation-process.glitch.me
 www.mail.everydaymearabia.com
 www.mail.everydayme.ru
@@ -100816,6 +100799,7 @@ www.oaktreeventuresllc.com
 www.oamtrk.com
 www.oata.ero-advertising.com
 www.oav4trk.com
+www.oawyr.com
 www.obadatrendy.com
 www.obalic-kilka.site
 www.obciazenie.solushow.com
@@ -103496,6 +103480,7 @@ www.pon.titleinvest.site
 www.pontoonrentalz.com
 www.ponurydiabelski.site
 www.pool-inv.web.app
+www.poonstwifterspick.work
 www.poor5zero.com
 www.popacs.ero-advertising.com
 www.popadscdn.net
@@ -107467,6 +107452,7 @@ www.tcs-asp.net
 www.td583.com
 www.tdradi-xyz.preview-domain.com
 www.tdreg.icu
+www.tdreg.top
 www.teads.tv
 www.tealeaf.com
 www.tealium.com
