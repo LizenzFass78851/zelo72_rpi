@@ -21,26 +21,26 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 | 1419033 | domains | local  | online  | changed   | big.txt
-   2 |  112747 | domains | local  | online  | changed   | affiliatetracking.txt
-   3 |  363979 | domains | local  | online  | changed   | threat-intelligence.txt
+   1 | 1385193 | domains | local  | online  | changed   | big.txt
+   2 |  111552 | domains | local  | online  | changed   | affiliatetracking.txt
+   3 |  364258 | domains | local  | online  | changed   | threat-intelligence.txt
    4 |     863 | domains | http   | online  | unchanged | https://dbl.oisd.nl/extra
    5 |  262996 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
    6 |  160414 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-   7 |   44370 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   7 |   44381 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 # Build experimental Domainlist ...
 
 Stats experimental:
 
-** Source (raw):    2364402
-== Source (unique): 1585544 (-778858)
--- Dead:            1542216 (-43328)
--- Unblock:         1542215 (-1)
--- Unblock(*):      1542215 (-0)
+** Source (raw):    2329657
+== Source (unique): 1558257 (-771400)
+-- Dead:            1514990 (-43267)
+-- Unblock:         1514989 (-1)
+-- Unblock(*):      1514989 (-0)
 
-1542215 unique Domains - Version 2022.0128.112032
-MD5 Domains RAW: 6d44c0becc4676b31d69ed9b8b66841e
+1514989 unique Domains - Version 2022.0128.140435
+MD5 Domains RAW: 34b0835d0c75c8b9a211354a0bb9dde5
 
 # Convert experimental to Hostlist ... 
 
@@ -63,10 +63,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling experimental.adblock.raw
-ℹ Original length is 1178960
-ℹ Length after applying transformations is 1178960
-ℹ The list was compressed from 1178963 to 590126
-ℹ Final length of the list is 590132
+ℹ Original length is 1162491
+ℹ Length after applying transformations is 1162491
+ℹ The list was compressed from 1162494 to 583553
+ℹ Final length of the list is 583559
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/experimental/out/experimental.adblock
 ℹ Finished compiling
 
