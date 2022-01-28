@@ -53,6 +53,7 @@ https://phishing.army/download/phishing_army_blocklist.txt
 
 # Multi
 # ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 
 # Phishing & Malware & Spam
 ! https://urlhaus.abuse.ch/downloads/hostfile/
