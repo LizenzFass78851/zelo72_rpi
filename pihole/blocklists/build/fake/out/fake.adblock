@@ -31,14 +31,14 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   14234 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   14235 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-!    6 |    6938 | domains | local  | online  | changed   | black.list.fake
-!    7 |    1608 | domains | local  | online  | changed   | fake.ts.black.list
+!    6 |    6938 | domains | local  | online  | unchanged | black.list.fake
+!    7 |    1608 | domains | local  | online  | unchanged | fake.ts.black.list
 !    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 19846 unique Domains - Version 2022.0127.041205
+! 19847 unique Domains - Version 2022.0128.041121
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -15947,6 +15947,7 @@
 ||sexsearchcom.com^
 ||sexy-datings.com^
 ||sexy-face.com^
+||sexylingeriemart.com^
 ||sfi4.com^
 ||sfimg.com^
 ||sfvtoday.com^
