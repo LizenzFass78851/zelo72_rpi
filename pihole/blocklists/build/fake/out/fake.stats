@@ -14,18 +14,13 @@ Config:
 
    ../../data/dead.list
 
--- Whitelists - 10:
+-- Whitelists - 5:
 
    ../../data/exclude.list
-   ../../data/white.list.egp
-   ../../data/white.list.t145
-   ../../data/white.list.hl2guide
    ../../data/white.list.apple
    ../../data/white.list.microsoft
-   ../../data/networks/google.list
    ../../data/white.list.tiktok
-   ../../data/white.list.ctech
-   ../../doh-vpn-proxy-bypass.txt
+   ../../data/networks/google.list
 
 Initialize ...
 
@@ -37,8 +32,8 @@ Initialize ...
    3 |   14235 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-   6 |    6939 | domains | local  | online  | changed   | black.list.fake
-   7 |    1609 | domains | local  | online  | changed   | fake.ts.black.list
+   6 |    6939 | domains | local  | online  | unchanged | black.list.fake
+   7 |    1609 | domains | local  | online  | unchanged | fake.ts.black.list
    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 
 # Build fake Domainlist ...
@@ -53,38 +48,7 @@ Stats fake:
 ++ FLD:             20035 (+133)
 ++ WWW:             39078 (+19043)
 
-39078 unique Domains - Version 2022.0128.104748
-MD5 Domains RAW: b899d7b19902e764c1274e43c54d832e
-
-# Convert fake to Hostlist ... 
-
-# Convert fake to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "fake",
-    "sources": [
-        {
-            "source": "fake.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling fake.adblock.raw
-ℹ Original length is 19869
-ℹ Length after applying transformations is 19869
-ℹ The list was compressed from 19872 to 19852
-ℹ Final length of the list is 19858
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
-ℹ Finished compiling
-
-# Attach header to fake Domainlist ...
-
-# Push fake to local Repositories ...
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
