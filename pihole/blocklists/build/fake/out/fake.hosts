@@ -31,14 +31,14 @@
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-#    3 |   14235 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+#    3 |   14267 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-#    6 |    6939 | domains | local  | online  | changed   | black.list.fake
-#    7 |    1609 | domains | local  | online  | changed   | fake.ts.black.list
+#    6 |    6939 | domains | local  | online  | unchanged | black.list.fake
+#    7 |    1609 | domains | local  | online  | unchanged | fake.ts.black.list
 #    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 39078 unique Domains - Version 2022.0128.104748
+# 39141 unique Domains - Version 2022.0129.041125
 #
 0.0.0.0 000relationships.com
 0.0.0.0 007cryptooption.com
@@ -498,6 +498,7 @@
 0.0.0.0 adoptgreatdanes.com
 0.0.0.0 adoptionchiotdefrance.com
 0.0.0.0 adoptionpaths.com
+0.0.0.0 adoptme.cool
 0.0.0.0 adoptmypuppy.net
 0.0.0.0 adoptprettyfrenchies.com
 0.0.0.0 adoptpugpups.com
@@ -515,6 +516,7 @@
 0.0.0.0 adorablecatahoulapuppies.com
 0.0.0.0 adorablecavachonhome.com
 0.0.0.0 adorablecavalierkingcharles.com
+0.0.0.0 adorablecavoodlepuppies.com
 0.0.0.0 adorablechihuahuapuppies.com
 0.0.0.0 adorablechihuahuapupps.com
 0.0.0.0 adorablechipoopuppies.com
@@ -2553,6 +2555,7 @@
 0.0.0.0 breviory.top
 0.0.0.0 brfglobalsa-br.com
 0.0.0.0 brfsa-global.com
+0.0.0.0 brianapugcutepuppies.com
 0.0.0.0 brianfrenchies.com
 0.0.0.0 brianmillerr.us
 0.0.0.0 briannasuttonbeagleshomes.com
@@ -3145,6 +3148,7 @@
 0.0.0.0 canonprintersdrivers.net
 0.0.0.0 canonprintersupportpro.net
 0.0.0.0 canon-scannerdrivers.com
+0.0.0.0 canonsupportdownloads.com
 0.0.0.0 canon-supportdrivers.com
 0.0.0.0 canonusadrivers.com
 0.0.0.0 cantonreporter.com
@@ -4165,6 +4169,7 @@
 0.0.0.0 crownstartrusts.com
 0.0.0.0 crownvinyl.com
 0.0.0.0 crudepalmoilglobal.com
+0.0.0.0 crushdate.me
 0.0.0.0 crypto24bit.info
 0.0.0.0 cryptoapexinvestment.com
 0.0.0.0 cryptodarknetshop.com
@@ -6692,6 +6697,7 @@
 0.0.0.0 flowerjoints.com
 0.0.0.0 fluff-tasticfrenchies.com
 0.0.0.0 fluffybostonterrierpups.com
+0.0.0.0 fluffycutechowchowbears.net
 0.0.0.0 fluffymainecooncatsandkittens.com
 0.0.0.0 fluffynewfoundlandpuppies.com
 0.0.0.0 fluffyshihtzupuppies.com
@@ -6881,6 +6887,7 @@
 0.0.0.0 freesteamwalletcodes.com
 0.0.0.0 freeswitchcodes.com
 0.0.0.0 freetitties.de
+0.0.0.0 freetopay.pw
 0.0.0.0 freeunusedeshop.codes
 0.0.0.0 freewaylogisticscourier.com
 0.0.0.0 freewiipoints.cc
@@ -7918,6 +7925,7 @@
 0.0.0.0 grasslandpuppies.com
 0.0.0.0 gratekittenshome.co.za
 0.0.0.0 gratend.com
+0.0.0.0 gratisrobux.co
 0.0.0.0 gravelmac.com
 0.0.0.0 gravenfun.com
 0.0.0.0 gravityspot.de
@@ -9144,6 +9152,7 @@
 0.0.0.0 info-drivers.ru
 0.0.0.0 info.kopp-verlag.de
 0.0.0.0 info-milfme.com
+0.0.0.0 info-mydates.com
 0.0.0.0 informationclearinghouse.info
 0.0.0.0 infostormer.com
 0.0.0.0 infox24.de
@@ -9293,6 +9302,7 @@
 0.0.0.0 itaglive.com
 0.0.0.0 italiadesigns.com
 0.0.0.0 italiandriverslicense.com
+0.0.0.0 italian-milfs.com
 0.0.0.0 itcloth.net
 0.0.0.0 itcon-engineering.de
 0.0.0.0 itc-schwarz.de
@@ -11178,6 +11188,7 @@
 0.0.0.0 mauireporter.com
 0.0.0.0 mauritius-koeln.de
 0.0.0.0 mavailablecorgis.com
+0.0.0.0 maveriklabradorshome.com
 0.0.0.0 mavisexpress.com
 0.0.0.0 mavpinballmachines.com
 0.0.0.0 mavropharma.com
@@ -11584,10 +11595,14 @@
 0.0.0.0 milfs24.com
 0.0.0.0 milfschnitte.net
 0.0.0.0 milfsconnection.com
+0.0.0.0 milfscontact.com
+0.0.0.0 milfsdefrance.com
 0.0.0.0 milfsexdates.com
 0.0.0.0 milf-sextreffen.com
 0.0.0.0 milfsficktreff.com
+0.0.0.0 milfsfrancaises.com
 0.0.0.0 milfsmexicanas.com
+0.0.0.0 milfs-online.com
 0.0.0.0 milfssearch.com
 0.0.0.0 milfsucher.com
 0.0.0.0 milf-treff24.com
@@ -11878,6 +11893,7 @@
 0.0.0.0 moonsoy.com
 0.0.0.0 moonycozy.com
 0.0.0.0 mooplay.de
+0.0.0.0 mooreschowchowpuppies.com
 0.0.0.0 moorningitalia.com
 0.0.0.0 mooxy.de
 0.0.0.0 moozin.de
@@ -14237,8 +14253,11 @@
 0.0.0.0 printersupportnumber.com
 0.0.0.0 printersupportnumber.co.nz
 0.0.0.0 printersupportplus.com
+0.0.0.0 printer-support-pro.com
+0.0.0.0 printer-supportpro.com
 0.0.0.0 printersupportpro.us
 0.0.0.0 printersupport-usa.com
+0.0.0.0 printersupportusa.tech
 0.0.0.0 printer-techsupport.com
 0.0.0.0 printertechsupportnumbers.com
 0.0.0.0 printertollfreenumber.com
@@ -14690,6 +14709,7 @@
 0.0.0.0 quickbooksupport.net
 0.0.0.0 quickbooksupports.co
 0.0.0.0 quickcash4teststrips.com
+0.0.0.0 quickcodegenerators.com
 0.0.0.0 quickcustomerservices.com
 0.0.0.0 quickdiplomaticdelivery.com
 0.0.0.0 quick-ebuyer.com
@@ -14832,8 +14852,12 @@
 0.0.0.0 rbxgifts.me
 0.0.0.0 rbxgods.com
 0.0.0.0 rbx.gratis
+0.0.0.0 rbxmon.xyz
 0.0.0.0 rbxnow.net
+0.0.0.0 rbxoon.xyz
 0.0.0.0 rbxrobux.online
+0.0.0.0 rbxson.xyz
+0.0.0.0 rbxton.xyz
 0.0.0.0 rcchemicallabs.com
 0.0.0.0 rc-chems.org
 0.0.0.0 rcforsaleonline.com
@@ -14872,6 +14896,7 @@
 0.0.0.0 realflix.de
 0.0.0.0 realgenuinedocuments.com
 0.0.0.0 realglobmax.com
+0.0.0.0 realgooddogs.com
 0.0.0.0 realgunshop.com
 0.0.0.0 realielts.com
 0.0.0.0 realieltsforall.com
@@ -15238,12 +15263,14 @@
 0.0.0.0 robertsaintbernardpuppies.com
 0.0.0.0 robetsbernesemountaindogs.com
 0.0.0.0 robinsonnewfoundlandpuppies.com
+0.0.0.0 roblogg.com
 0.0.0.0 roblominer.com
 0.0.0.0 robloxcardcodes.com
 0.0.0.0 robloxcodes.live
 0.0.0.0 robloxeasy.live
 0.0.0.0 robloxfreerobuxgenerator.com
 0.0.0.0 robloxgiftcardcodes.org
+0.0.0.0 robloxgiftcardcodess.com
 0.0.0.0 robloxgiftcard.com
 0.0.0.0 robloxsource.com
 0.0.0.0 robloxs.vip
@@ -15296,6 +15323,7 @@
 0.0.0.0 rohrreinigung--24.at
 0.0.0.0 rohrreinigung-24h.at
 0.0.0.0 rohrsanierungen24.de
+0.0.0.0 roibinslife.co
 0.0.0.0 roidfactory.org
 0.0.0.0 roids4european.com
 0.0.0.0 roidsusa.com
@@ -15542,6 +15570,7 @@
 0.0.0.0 sadoplay.de
 0.0.0.0 sadowskygermanrottweilerpuppies.com
 0.0.0.0 sadplay.de
+0.0.0.0 sadsf.com
 0.0.0.0 saengthongfoodsupply.com
 0.0.0.0 safaraonline.com
 0.0.0.0 safari-katzchen.com
@@ -16057,6 +16086,7 @@
 0.0.0.0 shihtzupuppiess.com
 0.0.0.0 shihtzupupshome.com
 0.0.0.0 shihtzuraw.com
+0.0.0.0 shihtzuspuppiesforsale.com
 0.0.0.0 shihtzuteacuppupss.com
 0.0.0.0 shilohchihuahuas.com
 0.0.0.0 shine-bright-vision.de
@@ -20034,6 +20064,7 @@
 0.0.0.0 www.adoptgreatdanes.com
 0.0.0.0 www.adoptionchiotdefrance.com
 0.0.0.0 www.adoptionpaths.com
+0.0.0.0 www.adoptme.cool
 0.0.0.0 www.adoptmypuppy.net
 0.0.0.0 www.adoptprettyfrenchies.com
 0.0.0.0 www.adoptpugpups.com
@@ -20051,6 +20082,7 @@
 0.0.0.0 www.adorablecatahoulapuppies.com
 0.0.0.0 www.adorablecavachonhome.com
 0.0.0.0 www.adorablecavalierkingcharles.com
+0.0.0.0 www.adorablecavoodlepuppies.com
 0.0.0.0 www.adorablechihuahuapuppies.com
 0.0.0.0 www.adorablechihuahuapupps.com
 0.0.0.0 www.adorablechipoopuppies.com
@@ -22005,6 +22037,7 @@
 0.0.0.0 www.breviory.top
 0.0.0.0 www.brfglobalsa-br.com
 0.0.0.0 www.brfsa-global.com
+0.0.0.0 www.brianapugcutepuppies.com
 0.0.0.0 www.brianfrenchies.com
 0.0.0.0 www.brianmillerr.us
 0.0.0.0 www.briannasuttonbeagleshomes.com
@@ -22586,6 +22619,7 @@
 0.0.0.0 www.canonprintersdrivers.net
 0.0.0.0 www.canonprintersupportpro.net
 0.0.0.0 www.canon-scannerdrivers.com
+0.0.0.0 www.canonsupportdownloads.com
 0.0.0.0 www.canon-supportdrivers.com
 0.0.0.0 www.canonusadrivers.com
 0.0.0.0 www.cantonreporter.com
@@ -23567,6 +23601,7 @@
 0.0.0.0 www.crownstartrusts.com
 0.0.0.0 www.crownvinyl.com
 0.0.0.0 www.crudepalmoilglobal.com
+0.0.0.0 www.crushdate.me
 0.0.0.0 www.crypto24bit.info
 0.0.0.0 www.cryptoapexinvestment.com
 0.0.0.0 www.cryptodarknetshop.com
@@ -26015,6 +26050,7 @@
 0.0.0.0 www.flowerjoints.com
 0.0.0.0 www.fluff-tasticfrenchies.com
 0.0.0.0 www.fluffybostonterrierpups.com
+0.0.0.0 www.fluffycutechowchowbears.net
 0.0.0.0 www.fluffymainecooncatsandkittens.com
 0.0.0.0 www.fluffynewfoundlandpuppies.com
 0.0.0.0 www.fluffyshihtzupuppies.com
@@ -26195,6 +26231,7 @@
 0.0.0.0 www.freesteamwalletcodes.com
 0.0.0.0 www.freeswitchcodes.com
 0.0.0.0 www.freetitties.de
+0.0.0.0 www.freetopay.pw
 0.0.0.0 www.freeunusedeshop.codes
 0.0.0.0 www.freewaylogisticscourier.com
 0.0.0.0 www.freewiipoints.cc
@@ -27193,6 +27230,7 @@
 0.0.0.0 www.granpashirts.com
 0.0.0.0 www.grasslandpuppies.com
 0.0.0.0 www.gratend.com
+0.0.0.0 www.gratisrobux.co
 0.0.0.0 www.gravelmac.com
 0.0.0.0 www.gravenfun.com
 0.0.0.0 www.gravityspot.de
@@ -28384,6 +28422,7 @@
 0.0.0.0 www.infodir.net
 0.0.0.0 www.info-drivers.ru
 0.0.0.0 www.info-milfme.com
+0.0.0.0 www.info-mydates.com
 0.0.0.0 www.informationclearinghouse.info
 0.0.0.0 www.infostormer.com
 0.0.0.0 www.infox24.de
@@ -28532,6 +28571,7 @@
 0.0.0.0 www.itaglive.com
 0.0.0.0 www.italiadesigns.com
 0.0.0.0 www.italiandriverslicense.com
+0.0.0.0 www.italian-milfs.com
 0.0.0.0 www.itcloth.net
 0.0.0.0 www.itcon-engineering.de
 0.0.0.0 www.itc-schwarz.de
@@ -30355,6 +30395,7 @@
 0.0.0.0 www.mauireporter.com
 0.0.0.0 www.mauritius-koeln.de
 0.0.0.0 www.mavailablecorgis.com
+0.0.0.0 www.maveriklabradorshome.com
 0.0.0.0 www.mavisexpress.com
 0.0.0.0 www.mavpinballmachines.com
 0.0.0.0 www.mavropharma.com
@@ -30744,10 +30785,14 @@
 0.0.0.0 www.milfs24.com
 0.0.0.0 www.milfschnitte.net
 0.0.0.0 www.milfsconnection.com
+0.0.0.0 www.milfscontact.com
+0.0.0.0 www.milfsdefrance.com
 0.0.0.0 www.milfsexdates.com
 0.0.0.0 www.milf-sextreffen.com
 0.0.0.0 www.milfsficktreff.com
+0.0.0.0 www.milfsfrancaises.com
 0.0.0.0 www.milfsmexicanas.com
+0.0.0.0 www.milfs-online.com
 0.0.0.0 www.milfssearch.com
 0.0.0.0 www.milfsucher.com
 0.0.0.0 www.milf-treff24.com
@@ -31030,6 +31075,7 @@
 0.0.0.0 www.moonsoy.com
 0.0.0.0 www.moonycozy.com
 0.0.0.0 www.mooplay.de
+0.0.0.0 www.mooreschowchowpuppies.com
 0.0.0.0 www.moorningitalia.com
 0.0.0.0 www.mooxy.de
 0.0.0.0 www.moozin.de
@@ -33335,8 +33381,11 @@
 0.0.0.0 www.printersupportnumber.co
 0.0.0.0 www.printersupportnumber.com
 0.0.0.0 www.printersupportplus.com
+0.0.0.0 www.printer-support-pro.com
+0.0.0.0 www.printer-supportpro.com
 0.0.0.0 www.printersupportpro.us
 0.0.0.0 www.printersupport-usa.com
+0.0.0.0 www.printersupportusa.tech
 0.0.0.0 www.printer-techsupport.com
 0.0.0.0 www.printertechsupportnumbers.com
 0.0.0.0 www.printertollfreenumber.com
@@ -33771,6 +33820,7 @@
 0.0.0.0 www.quickbooksupport.net
 0.0.0.0 www.quickbooksupports.co
 0.0.0.0 www.quickcash4teststrips.com
+0.0.0.0 www.quickcodegenerators.com
 0.0.0.0 www.quickcustomerservices.com
 0.0.0.0 www.quickdiplomaticdelivery.com
 0.0.0.0 www.quick-ebuyer.com
@@ -33911,8 +33961,12 @@
 0.0.0.0 www.rbxgifts.me
 0.0.0.0 www.rbxgods.com
 0.0.0.0 www.rbx.gratis
+0.0.0.0 www.rbxmon.xyz
 0.0.0.0 www.rbxnow.net
+0.0.0.0 www.rbxoon.xyz
 0.0.0.0 www.rbxrobux.online
+0.0.0.0 www.rbxson.xyz
+0.0.0.0 www.rbxton.xyz
 0.0.0.0 www.rcchemicallabs.com
 0.0.0.0 www.rc-chems.org
 0.0.0.0 www.rcforsaleonline.com
@@ -33951,6 +34005,7 @@
 0.0.0.0 www.realflix.de
 0.0.0.0 www.realgenuinedocuments.com
 0.0.0.0 www.realglobmax.com
+0.0.0.0 www.realgooddogs.com
 0.0.0.0 www.realgunshop.com
 0.0.0.0 www.realielts.com
 0.0.0.0 www.realieltsforall.com
@@ -34314,12 +34369,14 @@
 0.0.0.0 www.robertsaintbernardpuppies.com
 0.0.0.0 www.robetsbernesemountaindogs.com
 0.0.0.0 www.robinsonnewfoundlandpuppies.com
+0.0.0.0 www.roblogg.com
 0.0.0.0 www.roblominer.com
 0.0.0.0 www.robloxcardcodes.com
 0.0.0.0 www.robloxcodes.live
 0.0.0.0 www.robloxeasy.live
 0.0.0.0 www.robloxfreerobuxgenerator.com
 0.0.0.0 www.robloxgiftcardcodes.org
+0.0.0.0 www.robloxgiftcardcodess.com
 0.0.0.0 www.robloxgiftcard.com
 0.0.0.0 www.robloxsource.com
 0.0.0.0 www.robloxs.vip
@@ -34372,6 +34429,7 @@
 0.0.0.0 www.rohrreinigung--24.at
 0.0.0.0 www.rohrreinigung-24h.at
 0.0.0.0 www.rohrsanierungen24.de
+0.0.0.0 www.roibinslife.co
 0.0.0.0 www.roidfactory.org
 0.0.0.0 www.roids4european.com
 0.0.0.0 www.roidsusa.com
@@ -34612,6 +34670,7 @@
 0.0.0.0 www.sadoplay.de
 0.0.0.0 www.sadowskygermanrottweilerpuppies.com
 0.0.0.0 www.sadplay.de
+0.0.0.0 www.sadsf.com
 0.0.0.0 www.saengthongfoodsupply.com
 0.0.0.0 www.safaraonline.com
 0.0.0.0 www.safari-katzchen.com
@@ -35111,6 +35170,7 @@
 0.0.0.0 www.shihtzupuppiess.com
 0.0.0.0 www.shihtzupupshome.com
 0.0.0.0 www.shihtzuraw.com
+0.0.0.0 www.shihtzuspuppiesforsale.com
 0.0.0.0 www.shihtzuteacuppupss.com
 0.0.0.0 www.shilohchihuahuas.com
 0.0.0.0 www.shine-bright-vision.de
@@ -38643,6 +38703,7 @@
 0.0.0.0 www.yorkies.online
 0.0.0.0 www.yorkiespuppieshome.com
 0.0.0.0 www.yorkiespuppiessale.com
+0.0.0.0 www.yorkpup.com
 0.0.0.0 www.yorkshirecutiesbreeder.com
 0.0.0.0 www.yorkshireparadise.com
 0.0.0.0 www.yorkshirepuppieshomes.com
@@ -38946,6 +39007,7 @@
 0.0.0.0 yorkies.online
 0.0.0.0 yorkiespuppieshome.com
 0.0.0.0 yorkiespuppiessale.com
+0.0.0.0 yorkpup.com
 0.0.0.0 yorkshirecutiesbreeder.com
 0.0.0.0 yorkshireparadise.com
 0.0.0.0 yorkshirepuppieshomes.com
@@ -38957,6 +39019,7 @@
 0.0.0.0 youbestchoice.com
 0.0.0.0 youbue.com
 0.0.0.0 youfold.top
+0.0.0.0 youhac.dreamhosters.com
 0.0.0.0 youkiepuppiesbreeder.com
 0.0.0.0 youlikehits.com
 0.0.0.0 youngcons.com

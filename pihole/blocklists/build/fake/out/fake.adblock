@@ -31,14 +31,14 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   14235 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   14267 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-!    6 |    6939 | domains | local  | online  | changed   | black.list.fake
-!    7 |    1609 | domains | local  | online  | changed   | fake.ts.black.list
+!    6 |    6939 | domains | local  | online  | unchanged | black.list.fake
+!    7 |    1609 | domains | local  | online  | unchanged | fake.ts.black.list
 !    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 19848 unique Domains - Version 2022.0128.104748
+! 19880 unique Domains - Version 2022.0129.041125
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -498,6 +498,7 @@
 ||adoptgreatdanes.com^
 ||adoptionchiotdefrance.com^
 ||adoptionpaths.com^
+||adoptme.cool^
 ||adoptmypuppy.net^
 ||adoptprettyfrenchies.com^
 ||adoptpugpups.com^
@@ -515,6 +516,7 @@
 ||adorablecatahoulapuppies.com^
 ||adorablecavachonhome.com^
 ||adorablecavalierkingcharles.com^
+||adorablecavoodlepuppies.com^
 ||adorablechihuahuapuppies.com^
 ||adorablechihuahuapupps.com^
 ||adorablechipoopuppies.com^
@@ -2550,6 +2552,7 @@
 ||breviory.top^
 ||brfglobalsa-br.com^
 ||brfsa-global.com^
+||brianapugcutepuppies.com^
 ||brianfrenchies.com^
 ||brianmillerr.us^
 ||briannasuttonbeagleshomes.com^
@@ -3142,6 +3145,7 @@
 ||canonprintersdrivers.net^
 ||canonprintersupportpro.net^
 ||canon-scannerdrivers.com^
+||canonsupportdownloads.com^
 ||canon-supportdrivers.com^
 ||canonusadrivers.com^
 ||cantonreporter.com^
@@ -4160,6 +4164,7 @@
 ||crownstartrusts.com^
 ||crownvinyl.com^
 ||crudepalmoilglobal.com^
+||crushdate.me^
 ||crypto24bit.info^
 ||cryptoapexinvestment.com^
 ||cryptodarknetshop.com^
@@ -6680,6 +6685,7 @@
 ||flowerjoints.com^
 ||fluff-tasticfrenchies.com^
 ||fluffybostonterrierpups.com^
+||fluffycutechowchowbears.net^
 ||fluffymainecooncatsandkittens.com^
 ||fluffynewfoundlandpuppies.com^
 ||fluffyshihtzupuppies.com^
@@ -6868,6 +6874,7 @@
 ||freesteamwalletcodes.com^
 ||freeswitchcodes.com^
 ||freetitties.de^
+||freetopay.pw^
 ||freeunusedeshop.codes^
 ||freewaylogisticscourier.com^
 ||freewiipoints.cc^
@@ -7904,6 +7911,7 @@
 ||grasslandpuppies.com^
 ||gratekittenshome.co.za^
 ||gratend.com^
+||gratisrobux.co^
 ||gravelmac.com^
 ||gravenfun.com^
 ||gravityspot.de^
@@ -9130,6 +9138,7 @@
 ||info-drivers.ru^
 ||info.kopp-verlag.de^
 ||info-milfme.com^
+||info-mydates.com^
 ||informationclearinghouse.info^
 ||infostormer.com^
 ||infox24.de^
@@ -9279,6 +9288,7 @@
 ||itaglive.com^
 ||italiadesigns.com^
 ||italiandriverslicense.com^
+||italian-milfs.com^
 ||itcloth.net^
 ||itcon-engineering.de^
 ||itc-schwarz.de^
@@ -11163,6 +11173,7 @@
 ||mauireporter.com^
 ||mauritius-koeln.de^
 ||mavailablecorgis.com^
+||maveriklabradorshome.com^
 ||mavisexpress.com^
 ||mavpinballmachines.com^
 ||mavropharma.com^
@@ -11569,10 +11580,14 @@
 ||milfs24.com^
 ||milfschnitte.net^
 ||milfsconnection.com^
+||milfscontact.com^
+||milfsdefrance.com^
 ||milfsexdates.com^
 ||milf-sextreffen.com^
 ||milfsficktreff.com^
+||milfsfrancaises.com^
 ||milfsmexicanas.com^
+||milfs-online.com^
 ||milfssearch.com^
 ||milfsucher.com^
 ||milf-treff24.com^
@@ -11863,6 +11878,7 @@
 ||moonsoy.com^
 ||moonycozy.com^
 ||mooplay.de^
+||mooreschowchowpuppies.com^
 ||moorningitalia.com^
 ||mooxy.de^
 ||moozin.de^
@@ -14222,8 +14238,11 @@
 ||printersupportnumber.com^
 ||printersupportnumber.co.nz^
 ||printersupportplus.com^
+||printer-support-pro.com^
+||printer-supportpro.com^
 ||printersupportpro.us^
 ||printersupport-usa.com^
+||printersupportusa.tech^
 ||printer-techsupport.com^
 ||printertechsupportnumbers.com^
 ||printertollfreenumber.com^
@@ -14675,6 +14694,7 @@
 ||quickbooksupport.net^
 ||quickbooksupports.co^
 ||quickcash4teststrips.com^
+||quickcodegenerators.com^
 ||quickcustomerservices.com^
 ||quickdiplomaticdelivery.com^
 ||quick-ebuyer.com^
@@ -14817,8 +14837,12 @@
 ||rbxgifts.me^
 ||rbxgods.com^
 ||rbx.gratis^
+||rbxmon.xyz^
 ||rbxnow.net^
+||rbxoon.xyz^
 ||rbxrobux.online^
+||rbxson.xyz^
+||rbxton.xyz^
 ||rcchemicallabs.com^
 ||rc-chems.org^
 ||rcforsaleonline.com^
@@ -14857,6 +14881,7 @@
 ||realflix.de^
 ||realgenuinedocuments.com^
 ||realglobmax.com^
+||realgooddogs.com^
 ||realgunshop.com^
 ||realielts.com^
 ||realieltsforall.com^
@@ -15223,12 +15248,14 @@
 ||robertsaintbernardpuppies.com^
 ||robetsbernesemountaindogs.com^
 ||robinsonnewfoundlandpuppies.com^
+||roblogg.com^
 ||roblominer.com^
 ||robloxcardcodes.com^
 ||robloxcodes.live^
 ||robloxeasy.live^
 ||robloxfreerobuxgenerator.com^
 ||robloxgiftcardcodes.org^
+||robloxgiftcardcodess.com^
 ||robloxgiftcard.com^
 ||robloxsource.com^
 ||robloxs.vip^
@@ -15281,6 +15308,7 @@
 ||rohrreinigung--24.at^
 ||rohrreinigung-24h.at^
 ||rohrsanierungen24.de^
+||roibinslife.co^
 ||roidfactory.org^
 ||roids4european.com^
 ||roidsusa.com^
@@ -15527,6 +15555,7 @@
 ||sadoplay.de^
 ||sadowskygermanrottweilerpuppies.com^
 ||sadplay.de^
+||sadsf.com^
 ||saengthongfoodsupply.com^
 ||safaraonline.com^
 ||safari-katzchen.com^
@@ -16042,6 +16071,7 @@
 ||shihtzupuppiess.com^
 ||shihtzupupshome.com^
 ||shihtzuraw.com^
+||shihtzuspuppiesforsale.com^
 ||shihtzuteacuppupss.com^
 ||shilohchihuahuas.com^
 ||shine-bright-vision.de^
@@ -19716,6 +19746,7 @@
 ||yorkies.online^
 ||yorkiespuppieshome.com^
 ||yorkiespuppiessale.com^
+||yorkpup.com^
 ||yorkshirecutiesbreeder.com^
 ||yorkshireparadise.com^
 ||yorkshirepuppieshomes.com^
@@ -19727,6 +19758,7 @@
 ||youbestchoice.com^
 ||youbue.com^
 ||youfold.top^
+||youhac.dreamhosters.com^
 ||youkiepuppiesbreeder.com^
 ||youlikehits.com^
 ||youngcons.com^

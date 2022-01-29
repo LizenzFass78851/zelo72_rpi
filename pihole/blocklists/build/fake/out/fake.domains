@@ -1,3 +1,45 @@
+# --------------------------------------------
+# Zelo*s "Fake" Blocklist
+# --------------------------------------------
+#
+# Title: Zelo72 - Fake
+#
+# Extension list to the multi list: 
+#   Blocks fake stores, -news, -science,
+#   -streaming, rip-offs, cost traps and co.
+#
+# It was compiled from numerous sources, 
+# my own blacklist and various whitelists.
+# To keep the list as small as possible, 
+# dead domains are removed regularly.
+#
+# It is updated daily and is available in
+# the following formats:
+#   domains, hosts and adblock.
+#   See: https://github.com/Zelo72
+#
+# Created for purely personal, private use.
+# Keep the internet clean!
+#
+# --------------------------------------------
+# Support/Report false positive:
+#   GitHub:  https://github.com/Zelo72
+#   Discord: Zelo72#7513
+#   Mail:    zelo72@dismail.de
+# --------------------------------------------
+#
+#   Nr |   Count | Format  | Source | Status  | File      | URL/File
+#    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+#    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
+#    3 |   14267 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+#    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+#    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
+#    6 |    6939 | domains | local  | online  | unchanged | black.list.fake
+#    7 |    1609 | domains | local  | online  | unchanged | fake.ts.black.list
+#    8 |     568 | domains | local  | online  | unchanged | fake.vzni.black.list
+#
+# 39141 unique Domains - Version 2022.0129.041125
+#
 000relationships.com
 007cryptooption.com
 007-dvd.com
@@ -456,6 +498,7 @@ adoptfrenchiehome.com
 adoptgreatdanes.com
 adoptionchiotdefrance.com
 adoptionpaths.com
+adoptme.cool
 adoptmypuppy.net
 adoptprettyfrenchies.com
 adoptpugpups.com
@@ -473,6 +516,7 @@ adorablecanecorsohome.com
 adorablecatahoulapuppies.com
 adorablecavachonhome.com
 adorablecavalierkingcharles.com
+adorablecavoodlepuppies.com
 adorablechihuahuapuppies.com
 adorablechihuahuapupps.com
 adorablechipoopuppies.com
@@ -2511,6 +2555,7 @@ breville.vip
 breviory.top
 brfglobalsa-br.com
 brfsa-global.com
+brianapugcutepuppies.com
 brianfrenchies.com
 brianmillerr.us
 briannasuttonbeagleshomes.com
@@ -3103,6 +3148,7 @@ canonprintersdrivers.com
 canonprintersdrivers.net
 canonprintersupportpro.net
 canon-scannerdrivers.com
+canonsupportdownloads.com
 canon-supportdrivers.com
 canonusadrivers.com
 cantonreporter.com
@@ -4123,6 +4169,7 @@ crownstartrust.com
 crownstartrusts.com
 crownvinyl.com
 crudepalmoilglobal.com
+crushdate.me
 crypto24bit.info
 cryptoapexinvestment.com
 cryptodarknetshop.com
@@ -6650,6 +6697,7 @@ flowerfun.net
 flowerjoints.com
 fluff-tasticfrenchies.com
 fluffybostonterrierpups.com
+fluffycutechowchowbears.net
 fluffymainecooncatsandkittens.com
 fluffynewfoundlandpuppies.com
 fluffyshihtzupuppies.com
@@ -6839,6 +6887,7 @@ freespotify.ga
 freesteamwalletcodes.com
 freeswitchcodes.com
 freetitties.de
+freetopay.pw
 freeunusedeshop.codes
 freewaylogisticscourier.com
 freewiipoints.cc
@@ -7876,6 +7925,7 @@ granpashirts.com
 grasslandpuppies.com
 gratekittenshome.co.za
 gratend.com
+gratisrobux.co
 gravelmac.com
 gravenfun.com
 gravityspot.de
@@ -9102,6 +9152,7 @@ infodir.net
 info-drivers.ru
 info.kopp-verlag.de
 info-milfme.com
+info-mydates.com
 informationclearinghouse.info
 infostormer.com
 infox24.de
@@ -9251,6 +9302,7 @@ isurepace-express.com
 itaglive.com
 italiadesigns.com
 italiandriverslicense.com
+italian-milfs.com
 itcloth.net
 itcon-engineering.de
 itc-schwarz.de
@@ -11136,6 +11188,7 @@ maturesexdates.com
 mauireporter.com
 mauritius-koeln.de
 mavailablecorgis.com
+maveriklabradorshome.com
 mavisexpress.com
 mavpinballmachines.com
 mavropharma.com
@@ -11542,10 +11595,14 @@ milfrencontres.com
 milfs24.com
 milfschnitte.net
 milfsconnection.com
+milfscontact.com
+milfsdefrance.com
 milfsexdates.com
 milf-sextreffen.com
 milfsficktreff.com
+milfsfrancaises.com
 milfsmexicanas.com
+milfs-online.com
 milfssearch.com
 milfsucher.com
 milf-treff24.com
@@ -11836,6 +11893,7 @@ moonplay.de
 moonsoy.com
 moonycozy.com
 mooplay.de
+mooreschowchowpuppies.com
 moorningitalia.com
 mooxy.de
 moozin.de
@@ -14195,8 +14253,11 @@ printersupportnumber.co
 printersupportnumber.com
 printersupportnumber.co.nz
 printersupportplus.com
+printer-support-pro.com
+printer-supportpro.com
 printersupportpro.us
 printersupport-usa.com
+printersupportusa.tech
 printer-techsupport.com
 printertechsupportnumbers.com
 printertollfreenumber.com
@@ -14648,6 +14709,7 @@ quickbookstoolhub.com
 quickbooksupport.net
 quickbooksupports.co
 quickcash4teststrips.com
+quickcodegenerators.com
 quickcustomerservices.com
 quickdiplomaticdelivery.com
 quick-ebuyer.com
@@ -14790,8 +14852,12 @@ rbxgenerator.club
 rbxgifts.me
 rbxgods.com
 rbx.gratis
+rbxmon.xyz
 rbxnow.net
+rbxoon.xyz
 rbxrobux.online
+rbxson.xyz
+rbxton.xyz
 rcchemicallabs.com
 rc-chems.org
 rcforsaleonline.com
@@ -14830,6 +14896,7 @@ realfakenotes.com
 realflix.de
 realgenuinedocuments.com
 realglobmax.com
+realgooddogs.com
 realgunshop.com
 realielts.com
 realieltsforall.com
@@ -15196,12 +15263,14 @@ robertogoldendoodle.com
 robertsaintbernardpuppies.com
 robetsbernesemountaindogs.com
 robinsonnewfoundlandpuppies.com
+roblogg.com
 roblominer.com
 robloxcardcodes.com
 robloxcodes.live
 robloxeasy.live
 robloxfreerobuxgenerator.com
 robloxgiftcardcodes.org
+robloxgiftcardcodess.com
 robloxgiftcard.com
 robloxsource.com
 robloxs.vip
@@ -15254,6 +15323,7 @@ rogue-nation3.com
 rohrreinigung--24.at
 rohrreinigung-24h.at
 rohrsanierungen24.de
+roibinslife.co
 roidfactory.org
 roids4european.com
 roidsusa.com
@@ -15500,6 +15570,7 @@ sadiefrenchbulldoghome.com
 sadoplay.de
 sadowskygermanrottweilerpuppies.com
 sadplay.de
+sadsf.com
 saengthongfoodsupply.com
 safaraonline.com
 safari-katzchen.com
@@ -16015,6 +16086,7 @@ shihtzupuppiesonline.com
 shihtzupuppiess.com
 shihtzupupshome.com
 shihtzuraw.com
+shihtzuspuppiesforsale.com
 shihtzuteacuppupss.com
 shilohchihuahuas.com
 shine-bright-vision.de
@@ -19992,6 +20064,7 @@ www.adoptfrenchiehome.com
 www.adoptgreatdanes.com
 www.adoptionchiotdefrance.com
 www.adoptionpaths.com
+www.adoptme.cool
 www.adoptmypuppy.net
 www.adoptprettyfrenchies.com
 www.adoptpugpups.com
@@ -20009,6 +20082,7 @@ www.adorablecanecorsohome.com
 www.adorablecatahoulapuppies.com
 www.adorablecavachonhome.com
 www.adorablecavalierkingcharles.com
+www.adorablecavoodlepuppies.com
 www.adorablechihuahuapuppies.com
 www.adorablechihuahuapupps.com
 www.adorablechipoopuppies.com
@@ -21963,6 +22037,7 @@ www.breville.vip
 www.breviory.top
 www.brfglobalsa-br.com
 www.brfsa-global.com
+www.brianapugcutepuppies.com
 www.brianfrenchies.com
 www.brianmillerr.us
 www.briannasuttonbeagleshomes.com
@@ -22544,6 +22619,7 @@ www.canonprintersdrivers.com
 www.canonprintersdrivers.net
 www.canonprintersupportpro.net
 www.canon-scannerdrivers.com
+www.canonsupportdownloads.com
 www.canon-supportdrivers.com
 www.canonusadrivers.com
 www.cantonreporter.com
@@ -23525,6 +23601,7 @@ www.crownstartrust.com
 www.crownstartrusts.com
 www.crownvinyl.com
 www.crudepalmoilglobal.com
+www.crushdate.me
 www.crypto24bit.info
 www.cryptoapexinvestment.com
 www.cryptodarknetshop.com
@@ -25973,6 +26050,7 @@ www.flowerfun.net
 www.flowerjoints.com
 www.fluff-tasticfrenchies.com
 www.fluffybostonterrierpups.com
+www.fluffycutechowchowbears.net
 www.fluffymainecooncatsandkittens.com
 www.fluffynewfoundlandpuppies.com
 www.fluffyshihtzupuppies.com
@@ -26153,6 +26231,7 @@ www.freespotify.ga
 www.freesteamwalletcodes.com
 www.freeswitchcodes.com
 www.freetitties.de
+www.freetopay.pw
 www.freeunusedeshop.codes
 www.freewaylogisticscourier.com
 www.freewiipoints.cc
@@ -27151,6 +27230,7 @@ www.granitestatetimes.com
 www.granpashirts.com
 www.grasslandpuppies.com
 www.gratend.com
+www.gratisrobux.co
 www.gravelmac.com
 www.gravenfun.com
 www.gravityspot.de
@@ -28342,6 +28422,7 @@ www.inflix.de
 www.infodir.net
 www.info-drivers.ru
 www.info-milfme.com
+www.info-mydates.com
 www.informationclearinghouse.info
 www.infostormer.com
 www.infox24.de
@@ -28490,6 +28571,7 @@ www.isurepace-express.com
 www.itaglive.com
 www.italiadesigns.com
 www.italiandriverslicense.com
+www.italian-milfs.com
 www.itcloth.net
 www.itcon-engineering.de
 www.itc-schwarz.de
@@ -30313,6 +30395,7 @@ www.maturesexdates.com
 www.mauireporter.com
 www.mauritius-koeln.de
 www.mavailablecorgis.com
+www.maveriklabradorshome.com
 www.mavisexpress.com
 www.mavpinballmachines.com
 www.mavropharma.com
@@ -30702,10 +30785,14 @@ www.milfrencontres.com
 www.milfs24.com
 www.milfschnitte.net
 www.milfsconnection.com
+www.milfscontact.com
+www.milfsdefrance.com
 www.milfsexdates.com
 www.milf-sextreffen.com
 www.milfsficktreff.com
+www.milfsfrancaises.com
 www.milfsmexicanas.com
+www.milfs-online.com
 www.milfssearch.com
 www.milfsucher.com
 www.milf-treff24.com
@@ -30988,6 +31075,7 @@ www.moonplay.de
 www.moonsoy.com
 www.moonycozy.com
 www.mooplay.de
+www.mooreschowchowpuppies.com
 www.moorningitalia.com
 www.mooxy.de
 www.moozin.de
@@ -33293,8 +33381,11 @@ www.printersupportnumbercanada.ca
 www.printersupportnumber.co
 www.printersupportnumber.com
 www.printersupportplus.com
+www.printer-support-pro.com
+www.printer-supportpro.com
 www.printersupportpro.us
 www.printersupport-usa.com
+www.printersupportusa.tech
 www.printer-techsupport.com
 www.printertechsupportnumbers.com
 www.printertollfreenumber.com
@@ -33729,6 +33820,7 @@ www.quickbookstoolhub.com
 www.quickbooksupport.net
 www.quickbooksupports.co
 www.quickcash4teststrips.com
+www.quickcodegenerators.com
 www.quickcustomerservices.com
 www.quickdiplomaticdelivery.com
 www.quick-ebuyer.com
@@ -33869,8 +33961,12 @@ www.rbxgenerator.club
 www.rbxgifts.me
 www.rbxgods.com
 www.rbx.gratis
+www.rbxmon.xyz
 www.rbxnow.net
+www.rbxoon.xyz
 www.rbxrobux.online
+www.rbxson.xyz
+www.rbxton.xyz
 www.rcchemicallabs.com
 www.rc-chems.org
 www.rcforsaleonline.com
@@ -33909,6 +34005,7 @@ www.realfakenotes.com
 www.realflix.de
 www.realgenuinedocuments.com
 www.realglobmax.com
+www.realgooddogs.com
 www.realgunshop.com
 www.realielts.com
 www.realieltsforall.com
@@ -34272,12 +34369,14 @@ www.robertogoldendoodle.com
 www.robertsaintbernardpuppies.com
 www.robetsbernesemountaindogs.com
 www.robinsonnewfoundlandpuppies.com
+www.roblogg.com
 www.roblominer.com
 www.robloxcardcodes.com
 www.robloxcodes.live
 www.robloxeasy.live
 www.robloxfreerobuxgenerator.com
 www.robloxgiftcardcodes.org
+www.robloxgiftcardcodess.com
 www.robloxgiftcard.com
 www.robloxsource.com
 www.robloxs.vip
@@ -34330,6 +34429,7 @@ www.rogue-nation3.com
 www.rohrreinigung--24.at
 www.rohrreinigung-24h.at
 www.rohrsanierungen24.de
+www.roibinslife.co
 www.roidfactory.org
 www.roids4european.com
 www.roidsusa.com
@@ -34570,6 +34670,7 @@ www.sadiefrenchbulldoghome.com
 www.sadoplay.de
 www.sadowskygermanrottweilerpuppies.com
 www.sadplay.de
+www.sadsf.com
 www.saengthongfoodsupply.com
 www.safaraonline.com
 www.safari-katzchen.com
@@ -35069,6 +35170,7 @@ www.shihtzupuppiesonline.com
 www.shihtzupuppiess.com
 www.shihtzupupshome.com
 www.shihtzuraw.com
+www.shihtzuspuppiesforsale.com
 www.shihtzuteacuppupss.com
 www.shilohchihuahuas.com
 www.shine-bright-vision.de
@@ -38601,6 +38703,7 @@ www.yorkiesandmaltese.com
 www.yorkies.online
 www.yorkiespuppieshome.com
 www.yorkiespuppiessale.com
+www.yorkpup.com
 www.yorkshirecutiesbreeder.com
 www.yorkshireparadise.com
 www.yorkshirepuppieshomes.com
@@ -38904,6 +39007,7 @@ yorkiesandmaltese.com
 yorkies.online
 yorkiespuppieshome.com
 yorkiespuppiessale.com
+yorkpup.com
 yorkshirecutiesbreeder.com
 yorkshireparadise.com
 yorkshirepuppieshomes.com
@@ -38915,6 +39019,7 @@ yostlawoffice.com
 youbestchoice.com
 youbue.com
 youfold.top
+youhac.dreamhosters.com
 youkiepuppiesbreeder.com
 youlikehits.com
 youngcons.com
