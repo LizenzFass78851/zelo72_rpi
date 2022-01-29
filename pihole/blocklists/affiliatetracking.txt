@@ -18002,7 +18002,6 @@ coinhive.com
 coinhiveproxy.com
 coinimp.com
 coinince.com
-coininsider.com
 coin-inspect.space
 coin-ith.space
 coinjoin.io
@@ -88487,7 +88486,6 @@ www.coinhive.com
 www.coinhiveproxy.com
 www.coinimp.com
 www.coinince.com
-www.coininsider.com
 www.coin-inspect.space
 www.coin-ith.space
 www.coinjoin.io
