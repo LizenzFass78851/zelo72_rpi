@@ -40,10 +40,10 @@
 #    1 |   15664 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 #    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 #    3 |    7045 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
-#    4 |  103101 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#    4 |  103101 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #    5 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
-# 113382 unique Domains - Version 2022.0129.042037
+# 113344 unique Domains - Version 2022.0129.150545
 #
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -1224,7 +1224,6 @@
 3gupload.112.2o7.net
 3guys1hammer.ws
 3henterprise.com
-3l9444idfxwt.app.cadena.dev
 3-letter-domains.net
 3lift.com
 3lift.org
@@ -8209,15 +8208,12 @@ allegro.lokalnie.me
 allegrolokalnie.net
 allegrolokalnie.order7secure.site
 allegrolokalnie.ordering-parcelinfo.xyz
-allegrolokalnie-pl.114569.space
 allegrolokalnie-pl-3dsec.clear-dostawa.xyz
 allegrolokalnie-pl-3dsecure.id-safety.eu
 allegrolokalnie-pl-3ds.id-95161.xyz
 allegrolokalnie-pl.742853.space
 allegrolokalnie-pl-cybersec.clear-dostawa.xyz
 allegrolokalnie-pl.dostawa-safe.today
-allegrolokalnie-pl.id-43031.xyz
-allegrolokalnie-pl.pay-id4382.space
 allegrolokalnie-pl.payregisway.pw
 allegrolokalnie-pl-safe.dostawa-safe.today
 allegrolokalnie-pl-safe.id-safety.eu
@@ -10197,7 +10193,6 @@ apple.fmi-iphone.support
 apple.id-care-cloud.co
 appleid.com-local-id.com
 appleid-map.com
-apple.imap-location.us
 appleking.pl
 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 appleleaveit.co
@@ -20136,7 +20131,6 @@ ct2.comclick.com
 ct2.harisen.jp
 ct2.momijioroshi.com
 ct2.wakatono.jp
-ct56889.tmweb.ru
 ct5m.citadium.com
 ct.5.p2l.info
 cta-capital.com
@@ -24380,12 +24374,9 @@ dpd-pl.safe-pay.site
 dpd-pl.s-pay.xyz
 dpd-pl.srodkido-odebraniatu.xyz
 dpdpoland.orderingdlvry-courierpoland.xyz
-dpd-polska.896401.space
 dpd-polska-dq.10582992.me
 dpd-polska.order-id21788.space
 dpd-polska.pay-id35484.space
-dpd-polska.pay-id7438.space
-dpd-polska.pay-id9341.space
 dpd-polska-wro.10581085.me
 dpd-polska-wsn.40583929.me
 dpd-s.id-9431.me
@@ -26106,7 +26097,6 @@ elvox.pl
 elyoungkingthetour.com
 elzaservis.cz
 em1.yoursantander.co.uk
-em2gcdpqx4g2.www.earthclassmail.com
 em.acehelpfulemails.com
 em.acelocalemails.com
 emadesign.net
@@ -29473,7 +29463,6 @@ fp.disney.go.com
 fp.eulerian.net
 fp-int.fraudmetrix.cn
 fpjs.io
-fpm1.profitguru.online
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fptad.com
@@ -36583,7 +36572,6 @@ i.interia.pl
 i.ipromote.com
 i.isnssdk.com
 iiuctower.com
-ij3t6y10f3cf.www.chandlerorchards.com
 ijaabm.accessonline.com
 ijaabm.bravotv.com
 ijaabm.eonline.com
@@ -38380,7 +38368,6 @@ in-pl.natalrst.xyz
 in.plsystem5.xyz
 inpost.47464.pw
 inpost.642649.top
-inpost.743043.space
 inpost.74594759.site
 inposta-getcash.pw
 inpost-a.id-43980.me
@@ -38416,7 +38403,6 @@ inpost-g.id-43980.me
 inpost-g.id-59877.me
 inpost.goldcashpl-inforrtg.xyz
 inpost-hhke.id-4365.me
-inpost-hit-polska.pay-id64783.space
 inpost.id4756483.me
 inpost.id-track-pl32157819.xyz
 inpost.id-track-pl43582364.xyz
@@ -38462,7 +38448,6 @@ inpost-pl-3dssl.id-95161.xyz
 inpostpl.44112-online.sbs
 inpost-pl.4876134-pieniadze-info.xyz
 inpost-pl.5476128-order.xyz
-inpost-pl.601133.space
 inpost-pl.6235482-bill-order.xyz
 inpost-pl.6352915-offerts.xyz
 inpost-pl.637737.me
@@ -38491,7 +38476,6 @@ inpostpl.golinica12ok.com
 inpost-pl.goodspurchase.pw
 inpost.pl-gotpaid.work
 inpost.pl-gotpay.work
-inpost-pl.id-43031.xyz
 inpost-pl.id-safety.eu
 inpost-pl.id-safety.me
 inpost.pl-info-trackcode-id734564.xyz
@@ -38502,7 +38486,6 @@ inpost-pl-ka.id-3842.me
 inpost.pl.kaitemsbuying.pw
 inpostpl.konto24-serwis.space
 inpostpl.konto-klasyczne.sbs
-inpostpl.kslityu51.com
 inpost-pl.kurier-id897564.xyz
 inpost.pl.mebuyit.pw
 inpost.pl-money.life
@@ -38539,7 +38522,6 @@ inpost.pl-paycash.club
 inpost.pl-paycash.shop
 inpost.pl-paycash.work
 inpost-pl.paying4sobuy.site
-inpost-pl.paylink-8314.xyz
 inpost-pl.paymyorder.site
 inpost-pl.pay-offering.icu
 inpost-pl.payoffering.icu
@@ -38558,7 +38540,6 @@ inpost.pl-safecash.link
 inpost-pl-safe.clear-dostawa.xyz
 inpost-pl.safe-delivery.one
 inpost-pl-safe.dostawa-safe.today
-inpost-pl-safe.id-43031.xyz
 inpost-pl-safe.id4331.xyz
 inpost-pl-safe.id-51261.xyz
 inpost-pl.safeorder.co
@@ -38599,13 +38580,10 @@ inpost.polska-oferdo.work
 inpost-polska.order-id23562.xyz
 inpost.polska-oterfa.live
 inpost-polska-owd.502994.me
-inpost-polska.pay-id25454.space
 inpost-polska.pay-id275638.xyz
 inpost-polska.pay-id285639.xyz
 inpost-polska.pay-id34723.space
-inpost-polska.pay-id48604.space
 inpost-polska.pay-id584629.xyz
-inpost-polska.pay-id64783.space
 inpost-polska.pay-id698536.xyz
 inpost-polska.pay-id76666.top
 inpost.post-derive.com
@@ -38626,7 +38604,6 @@ in-post.su
 inpost.su
 inpost.surf
 inpost.transcom.site
-inpost.transpay-85495.space
 inpost.ua-dostawka.xyz
 inpost-u.id-3828883.me
 inpost.us
@@ -40416,7 +40393,6 @@ keds-buty.com
 kedsbuty.com
 kedspolska.com
 kedstrampki.com
-kedzierzyn-kozle.tonasze-miasto.co.pl
 kedzpl.jysk.ch
 keele-nnw-leis-mc-leis.latin.net.daraz.com
 keele-nnw-leis-mc-leis.training.net.daraz.com
@@ -45753,8 +45729,6 @@ mb.5.p2l.info
 mb9eo-7w62j.ads.tremorhub.com
 mb9eo-nkrlx.ads.tremorhub.com
 mbainfo.ust.hk
-mbank-banking.sk.swtest.ru
-mbankczech.cz.swtest.ru
 mbankpl.pw
 mbank-podpera.cz.swtest.ru
 mbankprognozy2022.pl
@@ -45867,7 +45841,6 @@ md.5.p2l.info
 mdamarillo.112.2o7.net
 m.data.mob.com
 m.delivery.olx.pl.oferta.accountant
-m.delivery.olx-pl.page
 m.delltechnologies.com
 mdg9.olailhascanarias.com
 mdh-ui-domain-and-hosting-myloc-03.net
@@ -46871,7 +46844,6 @@ metrics.dertour-reisebuero.de
 metrics.deutschlandcard.de
 metrics.dhc.co.jp
 metrics.dhl.de
-metrics.dickblick.com
 metrics.dickssportinggoods.com
 metrics.digicert.com
 metrics.digitaleditions.com.au
@@ -48086,7 +48058,6 @@ mobilnarecepta.pl
 mobiluj.sk
 mobimagic.com
 mobio.vn
-mobisex.pieprz.pl
 mobisla.com
 mobistos.com
 mobivity.com
@@ -54015,7 +53986,6 @@ oessbi.yves-rocher.ru
 oetgrace.com
 oewa.at
 o.fandango.com
-oferta-32.243454.me
 oferta-75.10581085.me
 ofertalokalnie.com
 oferta-miesiaca.link
@@ -54302,7 +54272,6 @@ olx-express-delivery.pl
 olx.get-pl.shop
 olx-g.id-43980.me
 olx-ginza.com
-olx-gyod.243454.me
 olx-informacja.pl
 olx.ink
 olx-j.id-43980.me
@@ -54428,7 +54397,6 @@ olx.pl-id423678123.net
 olx-pl.id-43031.xyz
 olx.pl-id444333.icu
 olx.pl-id519249.icu
-olx.pl-id6379662.info
 olx.pl-id741566512.net
 olx.pl-id777654.icu
 olx.pl-id789654.xyz
@@ -59507,7 +59475,6 @@ platform.atdnetwork.com
 platform.bidgear.com
 platform-cdn.sharethis.com
 platform.communicatorcorp.com
-platform.fenixsecurities.online
 platformie-lotos.pl
 platformie-lotos.site
 platform.iteratehq.com
@@ -60360,7 +60327,6 @@ polska-olx.pay-id398563.xyz
 polska-olx.pay-id63524.top
 polska-olx.pay-id659826.xyz
 polska-olx.pay-id698536.xyz
-polska-olx.pay-id9341.space
 polska-olx.pl
 polskaorlen.tilda.ws
 polska-pay-allegrolokalnie.pay-id34035.xyz
@@ -77260,7 +77226,6 @@ track.postkodlotteriet.se
 track.pricespider.com
 track.prizeglobal.net
 track.promptfile.com
-track.publeadmedia.com
 track.pubmatic.com
 track.raisingapps.com
 track.realitykings.com
@@ -112823,7 +112788,6 @@ zajac.gy-ve.com
 zajazdbanderoza.pl
 zajazduzenka.pl
 zajonc.de
-zakaznlka-mbank.sk.swtest.ru
 zakladac.site
 zakleciepowies.site
 zakres-poszuikiwiawczy.eu
