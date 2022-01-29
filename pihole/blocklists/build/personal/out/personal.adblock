@@ -35,10 +35,10 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13394 | domains | local  | online  | changed   | black.list
+!    1 |   13419 | domains | local  | online  | changed   | black.list
 !    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 9494 unique Domains - Version 2022.0128.133126
+! 9519 unique Domains - Version 2022.0129.041032
 !
 ||07c0aec6173f.cdn4.forter.com^
 ||08811fe312b34d79a529147893a6c3f8-3624ab25de3b.cdn.forter.com^
@@ -125,6 +125,7 @@
 ||518ad.com^
 ||53e1270541f5.cdn4.forter.com^
 ||55b41bef46.com^
+||58c036d100.com^
 ||5baf1288cf.dl8.me^
 ||5f651e70.akstat.io^
 ||5ijo.01net.com^
@@ -133,6 +134,7 @@
 ||63e8ff84cd06.cdn4.forter.com^
 ||65twenty.com^
 ||6.at.atwola.com^
+||6ff2f7bf3d.com^
 ||6ldu6qa.com^
 ||6sc.co^
 ||6sense.com^
@@ -165,6 +167,7 @@
 ||a.1gr.cz^
 ||a.20minutes.fr^
 ||a28461c74b70.cdn4.forter.com^
+||a2tw6yoodsag.com^
 ||a3cloud.net^
 ||a4.overclockers.ua^
 ||a5a0976123.com^
@@ -2053,6 +2056,7 @@
 ||beam.giraffe360.com^
 ||beamincrease.com^
 ||beam-ws.giraffe360.com^
+||beantemote.com^
 ||beastintruder.com^
 ||bebi.com^
 ||beddinginset.com^
@@ -2064,6 +2068,7 @@
 ||begun.ru^
 ||begun-sync.rutarget.ru^
 ||behavioralengine.com^
+||behootpokeys.com^
 ||bell.inq.com^
 ||bellmedia.sc.omtrdc.net^
 ||belstat.com^
@@ -2203,6 +2208,7 @@
 ||bpu.samsungelectronics.com^
 ||braincash.com^
 ||brainian.club^
+||brall31.com^
 ||brand-display.com^
 ||brandlock.io^
 ||brandmetrics.com^
@@ -2961,6 +2967,7 @@
 ||cityadstrack.com^
 ||citydsp.com^
 ||cjbmanagement.com^
+||cjkeiekf.com^
 ||cjlog.com^
 ||ck.jp.ap.valuecommerce.com^
 ||cl0udh0st1ng.com^
@@ -4035,6 +4042,7 @@
 ||edioca.com^
 ||editor-assets.abtasty.com^
 ||e.dlx.addthis.com^
+||eecd.xyz^
 ||eezegrip.net^
 ||effectivedisplaycontent.com^
 ||effectivemeasure.com^
@@ -4248,6 +4256,7 @@
 ||express-submit.de^
 ||extmaps-api.yandex.net^
 ||ext.nonstoppartner.net^
+||extoso.com^
 ||extreme-dm.com^
 ||extremetracking.com^
 ||exwotics6heomrthaoi4r.com^
@@ -4386,6 +4395,7 @@
 ||flvto.biz^
 ||fly-analytics.com^
 ||fm.nakanohito.jp^
+||focusde.info^
 ||folawn.com^
 ||fontsctaticx.com^
 ||fonts.mopinion.com^
@@ -4773,6 +4783,7 @@
 ||hentaigold.net^
 ||herbalaffiliateprogram.com^
 ||hermes.hupu.com^
+||hewmjifrn4gway.com^
 ||hexcan.com^
 ||hexusads.fluent.ltd.uk^
 ||heyos.com^
@@ -4886,6 +4897,7 @@
 ||hyattcorporation.tt.omtrdc.net^
 ||hybrid.ai^
 ||hydramedia.com^
+||hyloistmithan.com^
 ||hyperbanner.net^
 ||hypertracker.com^
 ||hyprmx.com^
@@ -5157,6 +5169,7 @@
 ||jcount.com^
 ||jcrewmwcom.112.2o7.net^
 ||jcrew.sc.omtrdc.net^
+||jessieemys.com^
 ||jiashule.com^
 ||jinkads.de^
 ||jiu.bgt666.com^
@@ -5164,6 +5177,7 @@
 ||jixie.io^
 ||jlisting.jp^
 ||jmrnews.pro^
+||jmtomcgqnsczl.com^
 ||joetec.net^
 ||jomtingi.net^
 ||journey.wired.com^
@@ -5351,6 +5365,7 @@
 ||libs.de.coremetrics.com^
 ||libs.outbrain.com^
 ||licensing.bitmovin.com^
+||lickingdestroyedheating.com^
 ||lifeimpressions.net^
 ||lifestreet.com^
 ||lifetech.tt.omtrdc.net^
@@ -5597,6 +5612,7 @@
 ||manageadv.cblogs.eu^
 ||mangguo.info^
 ||mango.seloger.com^
+||manilaslurrier.com^
 ||mannerstiring.com^
 ||mantisadnetwork.com^
 ||manulifefinancial.sc.omtrdc.net^
@@ -5824,6 +5840,7 @@
 ||mfadsrvr.com^
 ||mg2connext.com^
 ||mgid.com^
+||mgzupozfeltrv.com^
 ||miamiluxuryvacationrentals.com^
 ||miaozhen.com^
 ||miciudadreal.es^
@@ -6015,6 +6032,7 @@
 ||naborutmyrq.top^
 ||naj.sk^
 ||najva.com^
+||nakedfulfilhairy.com^
 ||nanointeractive.com^
 ||nappyattack.com^
 ||naradxb.com^
@@ -6304,6 +6322,7 @@
 ||orangeads.fr^
 ||orbidder.otto.de^
 ||ordinarywinsprizedaily.rest^
+||oridst.com^
 ||oriel.io^
 ||origin.extole.io^
 ||orquideassp.com^
@@ -6423,6 +6442,7 @@
 ||pepperjam.com^
 ||perceivequarter.com^
 ||percentmobile.com^
+||perduepredefy.com^
 ||perfectaudience.com^
 ||perfectgirls.net^
 ||perfectmarket.com^
@@ -7759,6 +7779,7 @@
 ||spanids.reference.com^
 ||spanids.thesaurus.com^
 ||spanishdict-d.openx.net^
+||spankerpuked.com^
 ||spannersalesman.com^
 ||sp.app.com^
 ||sp.argusleader.com^
@@ -8226,6 +8247,7 @@
 ||summerhamster.com^
 ||summerobject.com^
 ||sumome.com^
+||sumshaggy.com^
 ||sunmedia.tv^
 ||sunnycategoryopening.com^
 ||sunsetencyclopaedia.com^
@@ -8943,6 +8965,7 @@
 ||upapi.net^
 ||upc.d2.sc.omtrdc.net^
 ||update.aut5.com^
+||uphovelodha.com^
 ||upload.luckyorange.net^
 ||upscore.com^
 ||upsellit.com^
@@ -9163,6 +9186,7 @@
 ||wa.gmx.fr^
 ||walgreenco.tt.omtrdc.net^
 ||wanfukang.cc^
+||waninusty.com^
 ||waqool.com^
 ||wa.quarks.de^
 ||warlog.ru^
@@ -9465,6 +9489,7 @@
 ||yoggrt.com^
 ||yogyn.com^
 ||youborafds01.com^
+||yougotacheck.com^
 ||youngestsow.com^
 ||youradexchange.com^
 ||your-notice.com^

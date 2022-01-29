@@ -35,10 +35,10 @@
 # ---------------------------------------------------
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |   13394 | domains | local  | online  | changed   | black.list
+#    1 |   13419 | domains | local  | online  | changed   | black.list
 #    2 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 #
-# 18060 unique Domains - Version 2022.0128.133126
+# 18110 unique Domains - Version 2022.0129.041032
 #
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
@@ -859,6 +859,7 @@
 0.0.0.0 583adfb5.de.ioam.de
 0.0.0.0 5846014.fls.doubleclick.net
 0.0.0.0 58.46.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 58c036d100.com
 0.0.0.0 58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 58pic.cn-qingdao.log.aliyuncs.com
 0.0.0.0 5901000.fls.doubleclick.net
@@ -1016,6 +1017,7 @@
 0.0.0.0 6fd1246d.de.ioam.de
 0.0.0.0 6fddgkioi2.kameleoon.eu
 0.0.0.0 6fea71f8.de.ioam.de
+0.0.0.0 6ff2f7bf3d.com
 0.0.0.0 6fyka5ip8e.kameleoon.eu
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6ly59yiq7h.kameleoon.eu
@@ -1331,6 +1333,7 @@
 0.0.0.0 a2c0ca29.de.ioam.de
 0.0.0.0 a2d4c421.de.ioam.de
 0.0.0.0 a2d8cbc90f0a49b78a78f4312bd71987.js.ubembed.com
+0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 a3153.casalemedia.com
 0.0.0.0 a3165.casalemedia.com
 0.0.0.0 a3192c6e.de.ioam.de
@@ -3726,6 +3729,7 @@
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beantemote.com
 0.0.0.0 beastintruder.com
 0.0.0.0 bebi.com
 0.0.0.0 beddinginset.com
@@ -3737,6 +3741,7 @@
 0.0.0.0 begun.ru
 0.0.0.0 begun-sync.rutarget.ru
 0.0.0.0 behavioralengine.com
+0.0.0.0 behootpokeys.com
 0.0.0.0 bell.inq.com
 0.0.0.0 bellmedia-ash.gscontxt.net
 0.0.0.0 bellmedia.sc.omtrdc.net
@@ -3904,6 +3909,7 @@
 0.0.0.0 bpzlbyjbo0.kameleoon.eu
 0.0.0.0 braincash.com
 0.0.0.0 brainian.club
+0.0.0.0 brall31.com
 0.0.0.0 brand-display.com
 0.0.0.0 brandlock.io
 0.0.0.0 brandmetrics.com
@@ -5036,6 +5042,7 @@
 0.0.0.0 cityadstrack.com
 0.0.0.0 citydsp.com
 0.0.0.0 cjbmanagement.com
+0.0.0.0 cjkeiekf.com
 0.0.0.0 cjlog.com
 0.0.0.0 ck.jp.ap.valuecommerce.com
 0.0.0.0 cl0udh0st1ng.com
@@ -6617,6 +6624,7 @@
 0.0.0.0 edx-de.sophus3.com
 0.0.0.0 ee1fabd3.de.ioam.de
 0.0.0.0 eea12ef2.de.ioam.de
+0.0.0.0 eecd.xyz
 0.0.0.0 eekcf6r1k6.kameleoon.eu
 0.0.0.0 eesoihkiwa.kameleoon.eu
 0.0.0.0 eezegrip.net
@@ -6920,6 +6928,7 @@
 0.0.0.0 express-submit.de
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 ext.nonstoppartner.net
+0.0.0.0 extoso.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 exwotics6heomrthaoi4r.com
@@ -7132,6 +7141,7 @@
 0.0.0.0 fm.nakanohito.jp
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 focusde.info
 0.0.0.0 folawn.com
 0.0.0.0 fonts.65twenty.com
 0.0.0.0 fontsctaticx.com
@@ -7688,6 +7698,7 @@
 0.0.0.0 hepsiburada01.webtrekk.net
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 hermes.hupu.com
+0.0.0.0 hewmjifrn4gway.com
 0.0.0.0 hexcan.com
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyos.com
@@ -7835,6 +7846,7 @@
 0.0.0.0 hyattcorporation.tt.omtrdc.net
 0.0.0.0 hybrid.ai
 0.0.0.0 hydramedia.com
+0.0.0.0 hyloistmithan.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 hyprmx.com
@@ -8215,6 +8227,7 @@
 0.0.0.0 jcrew.sc.omtrdc.net
 0.0.0.0 je2fb1vywh.kameleoon.eu
 0.0.0.0 jelly.mdhv.io
+0.0.0.0 jessieemys.com
 0.0.0.0 jgok394s5b.kameleoon.eu
 0.0.0.0 jiashule.com
 0.0.0.0 jimajc05d0.kameleoon.eu
@@ -8228,6 +8241,7 @@
 0.0.0.0 jlisting.jp
 0.0.0.0 j.microad.net
 0.0.0.0 jmrnews.pro
+0.0.0.0 jmtomcgqnsczl.com
 0.0.0.0 j.newssuite.sony.net
 0.0.0.0 joetec.net
 0.0.0.0 johnston.grapeshot.co.uk
@@ -8535,6 +8549,7 @@
 0.0.0.0 lib-us-2.brilliantcollector.com
 0.0.0.0 lib.wtg-ads.com
 0.0.0.0 licensing.bitmovin.com
+0.0.0.0 lickingdestroyedheating.com
 0.0.0.0 lifeimpressions.net
 0.0.0.0 lifestreet.com
 0.0.0.0 lifetech.tt.omtrdc.net
@@ -8842,6 +8857,7 @@
 0.0.0.0 manageadv.cblogs.eu
 0.0.0.0 mangguo.info
 0.0.0.0 mango.seloger.com
+0.0.0.0 manilaslurrier.com
 0.0.0.0 mannenmedia.mainroll.com
 0.0.0.0 mannerstiring.com
 0.0.0.0 mantisadnetwork.com
@@ -9112,6 +9128,7 @@
 0.0.0.0 mgid.com
 0.0.0.0 mg.marketgid.com
 0.0.0.0 mg-p.alcmpn.com
+0.0.0.0 mgzupozfeltrv.com
 0.0.0.0 mh8syz3vk8.kameleoon.eu
 0.0.0.0 miamiluxuryvacationrentals.com
 0.0.0.0 miaozhen.com
@@ -9360,6 +9377,7 @@
 0.0.0.0 naborutmyrq.top
 0.0.0.0 naj.sk
 0.0.0.0 najva.com
+0.0.0.0 nakedfulfilhairy.com
 0.0.0.0 nalg8mtul3.kameleoon.eu
 0.0.0.0 nanointeractive.com
 0.0.0.0 nappyattack.com
@@ -9712,6 +9730,7 @@
 0.0.0.0 orange.contentsfeed.com
 0.0.0.0 orbidder.otto.de
 0.0.0.0 ordinarywinsprizedaily.rest
+0.0.0.0 oridst.com
 0.0.0.0 oriel.io
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 origin.extole.io
@@ -9878,6 +9897,7 @@
 0.0.0.0 pepperjam.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 percentmobile.com
+0.0.0.0 perduepredefy.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfectgirls.net
 0.0.0.0 perfectmarket.com
@@ -11617,6 +11637,7 @@
 0.0.0.0 spanids.reference.com
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spanishdict-d.openx.net
+0.0.0.0 spankerpuked.com
 0.0.0.0 spannersalesman.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -12242,6 +12263,7 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
 0.0.0.0 sumome.com
+0.0.0.0 sumshaggy.com
 0.0.0.0 sun.advividnetwork.com
 0.0.0.0 sunmedia.tv
 0.0.0.0 sunnycategoryopening.com
@@ -13187,6 +13209,7 @@
 0.0.0.0 upapi.net
 0.0.0.0 upc.d2.sc.omtrdc.net
 0.0.0.0 update.aut5.com
+0.0.0.0 uphovelodha.com
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 up.pixel.ad
 0.0.0.0 ups.analytics.yahoo.com
@@ -13501,6 +13524,7 @@
 0.0.0.0 wa.gmx.fr
 0.0.0.0 walgreenco.tt.omtrdc.net
 0.0.0.0 wanfukang.cc
+0.0.0.0 waninusty.com
 0.0.0.0 wapo-analytics.zeustechnology.com
 0.0.0.0 waqool.com
 0.0.0.0 wa.quarks.de
@@ -13832,8 +13856,10 @@
 0.0.0.0 www.50websads.com
 0.0.0.0 www.518ad.com
 0.0.0.0 www.55b41bef46.com
+0.0.0.0 www.58c036d100.com
 0.0.0.0 www.5mcwl.pw
 0.0.0.0 www.65twenty.com
+0.0.0.0 www.6ff2f7bf3d.com
 0.0.0.0 www.6ldu6qa.com
 0.0.0.0 www.6sc.co
 0.0.0.0 www.6sense.com
@@ -13855,6 +13881,7 @@
 0.0.0.0 www.9377os.com
 0.0.0.0 www.9f3b5a24d5.com
 0.0.0.0 www.9v58v.com
+0.0.0.0 www.a2tw6yoodsag.com
 0.0.0.0 www.a3cloud.net
 0.0.0.0 www.a5a0976123.com
 0.0.0.0 www.a8a8altrk.com
@@ -14488,6 +14515,7 @@
 0.0.0.0 www.beachfront.com
 0.0.0.0 www.beachlinkz.com
 0.0.0.0 www.beamincrease.com
+0.0.0.0 www.beantemote.com
 0.0.0.0 www.beastintruder.com
 0.0.0.0 www.bebi.com
 0.0.0.0 www.beddinginset.com
@@ -14498,6 +14526,7 @@
 0.0.0.0 www.beewakiy.com
 0.0.0.0 www.begun.ru
 0.0.0.0 www.behavioralengine.com
+0.0.0.0 www.behootpokeys.com
 0.0.0.0 www.belstat.com
 0.0.0.0 www.belstat.nl
 0.0.0.0 www.benfly.net
@@ -14600,6 +14629,7 @@
 0.0.0.0 www.bpath.com
 0.0.0.0 www.braincash.com
 0.0.0.0 www.brainian.club
+0.0.0.0 www.brall31.com
 0.0.0.0 www.brand-display.com
 0.0.0.0 www.brandlock.io
 0.0.0.0 www.brandmetrics.com
@@ -14737,6 +14767,7 @@
 0.0.0.0 www.cityadstrack.com
 0.0.0.0 www.citydsp.com
 0.0.0.0 www.cjbmanagement.com
+0.0.0.0 www.cjkeiekf.com
 0.0.0.0 www.cjlog.com
 0.0.0.0 www.cl0udh0st1ng.com
 0.0.0.0 www.claria.com
@@ -15124,6 +15155,7 @@
 0.0.0.0 www.ecoupons.com
 0.0.0.0 www.edaa.eu
 0.0.0.0 www.edioca.com
+0.0.0.0 www.eecd.xyz
 0.0.0.0 www.eezegrip.net
 0.0.0.0 www.effectivedisplaycontent.com
 0.0.0.0 www.effectivemeasure.com
@@ -15233,6 +15265,7 @@
 0.0.0.0 www.exponea.com
 0.0.0.0 www.exponential.com
 0.0.0.0 www.express-submit.de
+0.0.0.0 www.extoso.com
 0.0.0.0 www.extreme-dm.com
 0.0.0.0 www.extremetracking.com
 0.0.0.0 www.exwotics6heomrthaoi4r.com
@@ -15328,6 +15361,7 @@
 0.0.0.0 www.flux-cdn.com
 0.0.0.0 www.flvto.biz
 0.0.0.0 www.fly-analytics.com
+0.0.0.0 www.focusde.info
 0.0.0.0 www.folawn.com
 0.0.0.0 www.fontsctaticx.com
 0.0.0.0 www.forads.pro
@@ -15547,6 +15581,7 @@
 0.0.0.0 www.hentaicounter.com
 0.0.0.0 www.hentaigold.net
 0.0.0.0 www.herbalaffiliateprogram.com
+0.0.0.0 www.hewmjifrn4gway.com
 0.0.0.0 www.hexcan.com
 0.0.0.0 www.heyos.com
 0.0.0.0 www.hf5rbejvpwds.com
@@ -15619,6 +15654,7 @@
 0.0.0.0 www.hxnfgzotzkhbpw.com
 0.0.0.0 www.hybrid.ai
 0.0.0.0 www.hydramedia.com
+0.0.0.0 www.hyloistmithan.com
 0.0.0.0 www.hyperbanner.net
 0.0.0.0 www.hypertracker.com
 0.0.0.0 www.hyprmx.com
@@ -15773,12 +15809,14 @@
 0.0.0.0 www.j-a-net.jp
 0.0.0.0 www.jauchuwa.net
 0.0.0.0 www.jcount.com
+0.0.0.0 www.jessieemys.com
 0.0.0.0 www.jiashule.com
 0.0.0.0 www.jinkads.de
 0.0.0.0 www.jivosite.com
 0.0.0.0 www.jixie.io
 0.0.0.0 www.jlisting.jp
 0.0.0.0 www.jmrnews.pro
+0.0.0.0 www.jmtomcgqnsczl.com
 0.0.0.0 www.joetec.net
 0.0.0.0 www.jomtingi.net
 0.0.0.0 www.jpqiiqgydipb.com
@@ -15881,6 +15919,7 @@
 0.0.0.0 www.lfstmedia.com
 0.0.0.0 www.liadm.com
 0.0.0.0 www.libertycdn.com
+0.0.0.0 www.lickingdestroyedheating.com
 0.0.0.0 www.lifeimpressions.net
 0.0.0.0 www.lifestreet.com
 0.0.0.0 www.liftdna.com
@@ -15978,6 +16017,7 @@
 0.0.0.0 www.mainroll.com
 0.0.0.0 www.make6pain.com
 0.0.0.0 www.mangguo.info
+0.0.0.0 www.manilaslurrier.com
 0.0.0.0 www.mannerstiring.com
 0.0.0.0 www.mantisadnetwork.com
 0.0.0.0 www.mapmywayfree.com
@@ -16060,6 +16100,7 @@
 0.0.0.0 www.mfadsrvr.com
 0.0.0.0 www.mg2connext.com
 0.0.0.0 www.mgid.com
+0.0.0.0 www.mgzupozfeltrv.com
 0.0.0.0 www.miamiluxuryvacationrentals.com
 0.0.0.0 www.miaozhen.com
 0.0.0.0 www.miciudadreal.es
@@ -16183,6 +16224,7 @@
 0.0.0.0 www.naborutmyrq.top
 0.0.0.0 www.naj.sk
 0.0.0.0 www.najva.com
+0.0.0.0 www.nakedfulfilhairy.com
 0.0.0.0 www.nanointeractive.com
 0.0.0.0 www.nappyattack.com
 0.0.0.0 www.naradxb.com
@@ -16367,6 +16409,7 @@
 0.0.0.0 www.oranegfodnd.com
 0.0.0.0 www.orangeads.fr
 0.0.0.0 www.ordinarywinsprizedaily.rest
+0.0.0.0 www.oridst.com
 0.0.0.0 www.oriel.io
 0.0.0.0 www.orquideassp.com
 0.0.0.0 www.o-s.io
@@ -16439,6 +16482,7 @@
 0.0.0.0 www.pepperjam.com
 0.0.0.0 www.perceivequarter.com
 0.0.0.0 www.percentmobile.com
+0.0.0.0 www.perduepredefy.com
 0.0.0.0 www.perfectaudience.com
 0.0.0.0 www.perfectgirls.net
 0.0.0.0 www.perfectmarket.com
@@ -17086,6 +17130,7 @@
 0.0.0.0 www.spacash.com
 0.0.0.0 www.spaceleadster.com
 0.0.0.0 www.spamvariationswithin.com
+0.0.0.0 www.spankerpuked.com
 0.0.0.0 www.spannersalesman.com
 0.0.0.0 www.sparklingshelf.com
 0.0.0.0 www.sparkpeople.com
@@ -17194,6 +17239,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.summerobject.com
 0.0.0.0 www.sumome.com
+0.0.0.0 www.sumshaggy.com
 0.0.0.0 www.sunmedia.tv
 0.0.0.0 www.sunnycategoryopening.com
 0.0.0.0 www.sunsetencyclopaedia.com
@@ -17490,6 +17536,7 @@
 0.0.0.0 www.uobsoe.com
 0.0.0.0 www.uowbqce.surf
 0.0.0.0 www.upapi.net
+0.0.0.0 www.uphovelodha.com
 0.0.0.0 www.upscore.com
 0.0.0.0 www.upsellit.com
 0.0.0.0 www.upsettingcrescentwig.com
@@ -17622,6 +17669,7 @@
 0.0.0.0 www.w55c.net
 0.0.0.0 www.waardex.com
 0.0.0.0 www.wanfukang.cc
+0.0.0.0 www.waninusty.com
 0.0.0.0 www.waqool.com
 0.0.0.0 www.warlog.ru
 0.0.0.0 www.warmafterthought.com
@@ -17792,6 +17840,7 @@
 0.0.0.0 www.yoggrt.com
 0.0.0.0 www.yogyn.com
 0.0.0.0 www.youborafds01.com
+0.0.0.0 www.yougotacheck.com
 0.0.0.0 www.youngestsow.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.your-notice.com
@@ -17972,6 +18021,7 @@
 0.0.0.0 yogyn.com
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 youborafds01.com
+0.0.0.0 yougotacheck.com
 0.0.0.0 youngestsow.com
 0.0.0.0 youradexchange.com
 0.0.0.0 your-notice.com
