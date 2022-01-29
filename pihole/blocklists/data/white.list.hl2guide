@@ -172,6 +172,7 @@ api-mobi.soundcloud.com
 api-m.paypal.com
 api.msn.com
 api.netflix.com
+api.nexusmods.com
 api.nfl.com
 api.nordvpn.com
 api.nuget.org
@@ -2395,6 +2396,7 @@ ssbv2dlsv13.sonicseedbox.com
 ssl.gstatic.com
 ssl-lvlt.cdn.ea.com
 ssl.reddit.com
+sso.nexusmods.com
 s*.symcb.com
 stackauth.com
 stackexchange.com

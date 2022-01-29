@@ -18180,6 +18180,7 @@ api.news
 api.next.exchange
 api.nextgen.guardianapps.co.uk
 api.nextlot.com
+@@|api.nexusmods.com^$important
 api.nfl.com
 @@|api.nfl.com^$important
 api-nhbottest.hashing.com
@@ -30108,6 +30109,7 @@ coingeek.com
 coin-hive.com
 coinhive.com
 coinicles.tech
+coininsider.com
 coinking.io
 coinlab.biz
 coinmama.com
@@ -74204,6 +74206,7 @@ sso.accounts.dowjones.com
 sso.bluewin.ch
 sso.godaddy.com
 sso.internetat.tv
+@@|sso.nexusmods.com^$important
 sso.pokemon.com
 ssopt.net
 ssor.tribdss.com
@@ -94571,6 +94574,7 @@ www.coingeek.com
 www.coin-hive.com
 www.coinhive.com
 www.coinicles.tech
+www.coininsider.com
 www.coinking.io
 www.coinlab.biz
 www.coinmama.com
