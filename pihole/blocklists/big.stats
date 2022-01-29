@@ -14,7 +14,7 @@ Config:
    ../../data/dead.nt.list
    ../../data/dead.list.threat-intelligence
 
- - Unblock - 9:
+ - Unblock - 11:
 
    big.unblock
 
@@ -23,24 +23,24 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  491158 | domains | local  | online  | changed   | multi.txt
-   2 |   39141 | domains | local  | online  | changed   | fake.txt
-   3 | 1128569 | domains | http   | online  | changed   | https://dbl.oisd.nl
+   1 |  490811 | domains | local  | online  | changed   | multi.txt
+   2 |   39141 | domains | local  | online  | unchanged | fake.txt
+   3 | 1128569 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1658868
-== Source (unique): 1401691 (-257177)
--- Dead:            1399263 (-2428)
--- Unblock:         1399263 (-0)
--- Unblock(*):      1399263 (-0)
-++ FLD:             1400308 (+1045)
-++ WWW:             1409503 (+9195)
+** Source (raw):    1658521
+== Source (unique): 1401011 (-257510)
+-- Dead:            1398518 (-2493)
+-- Unblock:         1398517 (-1)
+-- Unblock(*):      1398517 (-0)
+++ FLD:             1399584 (+1067)
+++ WWW:             1408786 (+9202)
 
-1409503 unique Domains - Version 2022.0129.042147
-MD5 Domains RAW: 92406ab73c2934182850f06dbb700388
+1408786 unique Domains - Version 2022.0129.150640
+MD5 Domains RAW: e952e0057b7078dc2b5b5eca2eaad5f4
 
 # Convert big to Hostlist ... 
 
@@ -63,10 +63,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 1063375
-ℹ Length after applying transformations is 1063375
-ℹ The list was compressed from 1063378 to 494050
-ℹ Final length of the list is 494056
+ℹ Original length is 1062998
+ℹ Length after applying transformations is 1062998
+ℹ The list was compressed from 1063001 to 493662
+ℹ Final length of the list is 493668
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 

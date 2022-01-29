@@ -2,4 +2,5 @@
 *.sourceurls
 *.removed
 *.regex
+*.unique
 md5.*
