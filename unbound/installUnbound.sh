@@ -16,6 +16,11 @@ if [ "$(id -u)" != "0" ]; then
     exit 1
 fi
 
+if ! (ping -c1 -w2 google.de >/dev/null) && ! (ping -c1 -w2 cloudflare.com >/dev/null); then
+     echo "Keine Internetverbindung!"
+     exit 1
+fi
+
 echo "*** Unbound installieren"
 echo ""
 apt-get update
