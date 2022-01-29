@@ -19,6 +19,7 @@ fi
 echo "*** Unbound installieren"
 echo ""
 apt-get update
+apt-get upgrade -y
 apt-get install unbound dnsutils ntp ntpdate -y
 echo ""
 echo ""
