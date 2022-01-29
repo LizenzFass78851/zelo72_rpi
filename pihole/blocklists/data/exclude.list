@@ -10959,6 +10959,7 @@ account2-api.ubisoft.com
 accountability.biblepay.org
 accountaccess.edwardjones.com
 accountaccess.myfedloan.org
+@@|account.acronis.com^$important
 @@|account.adguard.com^$important
 account.adobe.com
 accountants.intuit.com
@@ -29360,7 +29361,6 @@ click-message.capitalone.com
 clickmeter.com
 click.microsoftstoreemail.com
 click.ml.mailersend.com
-click.mlsend.com
 *.click.myctm.canadiantire.ca
 click.myctm.canadiantire.ca
 click-notification.capitalone.com
@@ -30634,7 +30634,6 @@ com.qa
 comrademao.com
 comresource2.binance.com
 com.ru
-com-s02.net
 com.s3.amazonaws.com
 com.s3-website-us-east-1.amazonaws.com
 com.sa
@@ -40062,7 +40061,6 @@ flowers.sjv.io
 flowgo.com
 @@|flow.lavasoft.com^$important
 @@|flow.microsoft.com^$important
-flow.page
 flowplayer.com
 flowplayer.org
 flowvpn.com
@@ -40717,7 +40715,6 @@ fra16s08-in-f19.1e100.net
 fra16s08-in-f211.1e100.net
 fra16s25-in-f19.1e100.net
 fra16s25-in-f20.1e100.net
-fra1.digitaloceanspaces.com
 fra2.r.cloudfront.net
 frackingminer.com
 fractal-design.com
@@ -52812,7 +52809,6 @@ leafly.com
 leafpool.com
 leagueofgraphs.com
 leagueoflegends.com
-leakix.net
 leakreality.com
 leanbox.us
 leanplum.com
@@ -53965,7 +53961,6 @@ login.linode.com
 login.linode.com.cdn.cloudflare.net
 login.live.com
 @@|login.live.com^$important
-login-live.com-s02.net
 login.marketing.adobe.com
 login.mediaset.it
 login.microsoft.com
@@ -63648,7 +63643,6 @@ pc3.gtimg.com
 pc4.gtimg.com
 pcapredict.com
 @@|pc-assets.ea.com^$important
-pca.st
 pca.state.mn.us
 pcast.phenixrts.com
 pcast-primary.phenixrts.com
@@ -72081,7 +72075,6 @@ simplifimoney.com
 simplii.com
 simplilearn.sjv.io
 simplisafe.com
-simp.ly
 simply.com
 simplydhl.com
 simplygrove.com
@@ -74743,6 +74736,7 @@ static.f2pool.com
 staticf.akacdn.ru
 static.fastpic.ru
 staticfile.org
+@@|staticfiles.acronis.com^$important
 static.files.bbci.co.uk
 static.flattr.net
 static.flickr.com
@@ -75620,6 +75614,7 @@ storify.com
 stormap.sapo.pt
 stormgain.com
 stormsend1.djicdn.com
+@@|*-*-stor*.uploaded.net^$important
 storyfunding.daum.net
 story-graphics.s3.amazonaws.com
 storyinsta.com
@@ -88527,6 +88522,7 @@ www.acquiropay.com
 www.acrobat.com
 www.acrobatusers.com
 www.acronis.com
+@@|www.acronis.com^$important
 www.acronymfinder.com
 www.ac.rs
 www.ac.ru
@@ -94839,7 +94835,6 @@ www.com.py
 www.com.qa
 www.comrademao.com
 www.com.ru
-www.com-s02.net
 www.com.sa
 www.com.sb
 www.com.sg
@@ -99223,7 +99218,6 @@ www.flourish.studio
 www.flowcode.com
 www.flowerchecker.com
 www.flowgo.com
-www.flow.page
 www.flowplayer.com
 www.flowplayer.org
 www.flowvpn.com
@@ -105335,7 +105329,6 @@ www.leafly.com
 www.leafpool.com
 www.leagueofgraphs.com
 www.leagueoflegends.com
-www.leakix.net
 www.leakreality.com
 www.leanbox.us
 www.leanplum.com
@@ -110838,7 +110831,6 @@ www.pbsrc.com
 www.pbs.twimg.com
 www.pbz.hr
 www.pcapredict.com
-www.pca.st
 www.pcastuces.com
 www.pcbac.com
 www.pcbeta.com
@@ -115178,7 +115170,6 @@ www.simpletax.ca
 www.simplifimoney.com
 www.simplii.com
 www.simplisafe.com
-www.simp.ly
 www.simply.com
 www.simplydhl.com
 www.simplygrove.com

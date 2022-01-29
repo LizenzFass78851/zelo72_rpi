@@ -44,14 +44,14 @@ Initialize ...
   24 |     892 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
   25 |     223 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/p1r473/hosts/master/whitelist.txt
   26 |      79 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/whitelist.txt
-  27 |   21856 | white   | http   | online  | changed   | https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
-  28 |     641 | white   | http   | online  | changed   | https://raw.githubusercontent.com/CommsTech/Commsnet/main/Networking/pfSense/Firewall/pfBlockerNG/DNSBL/Whitelists/All_In_One_Whitelist.txt
-  29 |    3142 | white   | http   | online  | changed   | https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
-  30 |    6501 | white   | local  | online  | changed   | white.list.common
+  27 |   21856 | white   | http   | online  | unchanged | https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
+  28 |     641 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/CommsTech/Commsnet/main/Networking/pfSense/Firewall/pfBlockerNG/DNSBL/Whitelists/All_In_One_Whitelist.txt
+  29 |    3146 | white   | http   | online  | changed   | https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
+  30 |    6501 | white   | local  | online  | unchanged | white.list.common
   31 |     899 | white   | local  | online  | unchanged | white.list.referral
   32 |     346 | white   | local  | online  | unchanged | white.list.important
   33 |    4410 | white   | local  | online  | unchanged | white.list.adguard
-  34 |    3238 | white   | local  | online  | unchanged | white.list.oisd
+  34 |    3215 | white   | local  | online  | changed   | white.list.oisd
   35 |     595 | white   | local  | online  | unchanged | white.list.bmj
   36 |      43 | white   | local  | online  | unchanged | white.list.shc
   37 |     780 | white   | local  | online  | unchanged | doh-vpn-proxy-bypass.txt
@@ -60,15 +60,15 @@ Initialize ...
 
 Stats exclude:
 
-** Source (raw):    101186
-== Source (unique): 82723 (-18463)
--- White:           82682 (-41)
-++ FLD from SLD:    91760 (+9078)
-++ FLD:             91910 (+150)
-++ WWW:             125027 (+33117)
+** Source (raw):    101167
+== Source (unique): 82718 (-18449)
+-- White:           82677 (-41)
+++ FLD from SLD:    91756 (+9079)
+++ FLD:             91906 (+150)
+++ WWW:             125018 (+33112)
 
-125027 unique Domains - Version 2022.0128.132145
-MD5 Domains RAW: 8284a94ec1eb85e284ec7def036baa1e
+125018 unique Domains - Version 2022.0129.040100
+MD5 Domains RAW: ce2a1bb759348e9eef05512494f1fc54
 
 # Push exclude to local Repositories ...
 

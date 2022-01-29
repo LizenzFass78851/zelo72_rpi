@@ -28,6 +28,7 @@ a-*.a-msedge.net
 abnzb.com
 about.gitlab.com
 *.abs.hls.ttvnw.net
+account.acronis.com
 account.adguard.com
 account-api.protonmail.com
 account.live.com
@@ -2428,6 +2429,7 @@ static.cyberdrop.me
 staticdelivery.nexusmods.com
 static.depositfiles.com
 static-dm.akamaized.net
+staticfiles.acronis.com
 static.freedownloadmanager.org
 static.gigabyte.com
 static.hsstatic.net
@@ -2534,6 +2536,7 @@ store-site-backend-static-ipv4.ak.epicgames.com
 store.sony.com
 store.steampowered.com
 store.xbox.com
+*-*-stor*.uploaded.net
 s*.trafficdeposit.com
 streamlabs.com
 stream.radioparadise.com
@@ -2886,6 +2889,7 @@ www6.mediafire.com
 www.7-zip.org
 www91.intel.com.au
 www.acq-inc.com
+www.acronis.com
 www.adaware.com
 www.addictivetips.com
 www.aec.gov.au
