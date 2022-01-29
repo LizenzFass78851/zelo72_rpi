@@ -36,13 +36,13 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   69298 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-   2 |   16046 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-   3 |   12221 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
+   1 |   69298 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+   2 |   16046 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+   3 |   12221 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
    4 |    1116 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
    5 |    5421 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
    6 |    1067 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
-   7 |      91 | domains | http   | online  | changed   | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/wildcard.list
+   7 |      91 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/wildcard.list
    8 |      50 | domains | http   | online  | unchanged | https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/spyware/domains.list
 
 # Build extra Domainlist ...
@@ -51,15 +51,15 @@ Stats extra:
 
 ** Source (raw):    105310
 == Source (unique): 99990 (-5320)
--- Exclude:         70215 (-29775)
--- White:           68979 (-1236)
--- White(*):        67664 (-1315)
--- Dead:            66879 (-785)
+-- Exclude:         70216 (-29774)
+-- White:           68980 (-1236)
+-- White(*):        67665 (-1315)
+-- Dead:            66879 (-786)
 ++ FLD:             66879 (+0)
 ++ WWW:             78632 (+11753)
 
-78632 unique Domains - Version 2022.0129.044227
-MD5 Domains RAW: e20d21832df39c6f3031b467c3f6108b
+78632 unique Domains - Version 2022.0129.152728
+MD5 Domains RAW: 9d831ad65bca2dd592ae7c90df2ff814
 
 # Convert extra to Hostlist ... 
 
