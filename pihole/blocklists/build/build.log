@@ -21,15 +21,17 @@ Ihr Branch ist auf demselben Stand wie 'origin/main'.
 nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[master be0abae] auto-update
- 2 files changed, 7 insertions(+), 1 deletion(-)
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 
 ===========================================
 DoH/VPN/TOR/Proxy ...
 ===========================================
 
-Start: 2022.01-29-14:45:30
+Start: 2022.01-29-15:56:56
 
 ### Compile doh-vpn-proxy-bypass Blocklist ###
 
@@ -63,60 +65,31 @@ Stats doh-vpn-proxy-bypass:
 == Source (unique): 790 (-277)
 -- White:           780 (-10)
 
-780 unique Domains - Version 2022.0129.144530
-MD5 Domains RAW: a7aea660be8cb161fb8f29e30b995318
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert doh-vpn-proxy-bypass to Hostlist ... 
-
-# Convert doh-vpn-proxy-bypass to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "doh-vpn-proxy-bypass",
-    "sources": [
-        {
-            "source": "doh-vpn-proxy-bypass.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling doh-vpn-proxy-bypass.adblock.raw
-ℹ Original length is 781
-ℹ Length after applying transformations is 781
-ℹ The list was compressed from 784 to 748
-ℹ Final length of the list is 754
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
-ℹ Finished compiling
-
-# Attach header to doh-vpn-proxy-bypass Domainlist ...
-
-# Push doh-vpn-proxy-bypass to local Repositories ...
-
-End: 2022.01-29-14:45:33
+End: 2022.01-29-15:56:58
 
 doh-vpn-proxy-bypass - Done!
 
 Bereits aktuell.
-[master 864644f] doh-vpn-proxy-bypass auto-update
- 6 files changed, 2 insertions(+), 2408 deletions(-)
- delete mode 100644 pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
- delete mode 100644 pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.domains
- delete mode 100644 pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.hosts
- delete mode 100644 pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 31672fd] doh-vpn-proxy-bypass auto-update
- 2 files changed, 2 insertions(+), 2 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 4a82280] doh-vpn-proxy-bypass auto-update
- 2 files changed, 2 insertions(+), 2 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 ===========================================
 Whitelist ...
@@ -137,7 +110,7 @@ Whitelist ...
 4410 /media/nas/git/rpi/pihole/blocklists/data/white.list.adguard
 3146 /media/nas/git/rpi/pihole/blocklists/data/white.list.hl2guide
 
-Start: 2022.01-29-14:46:22
+Start: 2022.01-29-15:57:40
 
 ### Compile exclude Blocklist ###
 
@@ -187,10 +160,10 @@ Initialize ...
   26 |      79 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/whitelist.txt
   27 |   21856 | white   | http   | online  | unchanged | https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
   28 |     641 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/CommsTech/Commsnet/main/Networking/pfSense/Firewall/pfBlockerNG/DNSBL/Whitelists/All_In_One_Whitelist.txt
-  29 |    3148 | white   | http   | online  | changed   | https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
+  29 |    3148 | white   | http   | online  | unchanged | https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt
   30 |    6501 | white   | local  | online  | unchanged | white.list.common
   31 |     899 | white   | local  | online  | unchanged | white.list.referral
-  32 |     348 | white   | local  | online  | changed   | white.list.important
+  32 |     348 | white   | local  | online  | unchanged | white.list.important
   33 |    4410 | white   | local  | online  | unchanged | white.list.adguard
   34 |    3215 | white   | local  | online  | unchanged | white.list.oisd
   35 |     595 | white   | local  | online  | unchanged | white.list.bmj
@@ -208,12 +181,11 @@ Stats exclude:
 ++ FLD:             91909 (+150)
 ++ WWW:             125022 (+33113)
 
-125022 unique Domains - Version 2022.0129.144622
-MD5 Domains RAW: f4102c9ac603eae8cfc93639cecf542c
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Push exclude to local Repositories ...
-
-End: 2022.01-29-14:46:41
+End: 2022.01-29-15:57:55
 
 exclude - Done!
 
@@ -221,7 +193,7 @@ exclude - Done!
 Deadlists ...
 ===========================================
 
-Start: 2022.01-29-14:46:48
+Start: 2022.01-29-15:58:02
 
 ### Compile dead Blocklist ###
 
@@ -238,8 +210,8 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  106682 | dead    | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
-   2 |   28646 | dead    | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
+   1 |  106682 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
+   2 |   28646 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
    3 |      47 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/domains/INACTIVE/list
    4 |     357 | dead    | http   | online  | unchanged | https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.fake/master/output/origin.list/domains/INACTIVE/list
    5 |     121 | dead    | local  | online  | unchanged | dead.list.afftrack
@@ -254,17 +226,16 @@ Stats dead:
 ** Source (raw):    750652
 == Source (unique): 555363 (-195289)
 
-555363 unique Domains - Version 2022.0129.144648
-MD5 Domains RAW: 1005aa9e64b2595b57c99d99a30083c4
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Push dead to local Repositories ...
-
-End: 2022.01-29-14:47:11
+End: 2022.01-29-15:58:20
 
 dead - Done!
 
 
-Start: 2022.01-29-14:47:12
+Start: 2022.01-29-15:58:21
 
 ### Compile dead.nt Blocklist ###
 
@@ -291,38 +262,37 @@ Stats dead.nt:
 ** Source (raw):    135328
 == Source (unique): 135328 (-0)
 
-135328 unique Domains - Version 2022.0129.144712
-MD5 Domains RAW: 75653ae3403c0f925e71030c712800c3
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Push dead.nt to local Repositories ...
-
-End: 2022.01-29-14:47:15
+End: 2022.01-29-15:58:25
 
 dead.nt - Done!
 
 Bereits aktuell.
-[master 83b58b9] white-dead auto-update
- 11 files changed, 3815 insertions(+), 812844 deletions(-)
- delete mode 100644 pihole/blocklists/build/dead.nt/out/dead.nt.domains
- delete mode 100644 pihole/blocklists/build/dead.nt/out/dead.nt.stats
- delete mode 100644 pihole/blocklists/build/dead/out/dead.domains
- delete mode 100644 pihole/blocklists/build/dead/out/dead.stats
- delete mode 100644 pihole/blocklists/build/exclude/out/exclude.domains
- delete mode 100644 pihole/blocklists/build/exclude/out/exclude.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main b0a62e3] white-dead auto-update
- 1 file changed, 4 insertions(+)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 4c8c38e] white-dead auto-update
- 1 file changed, 4 insertions(+)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 ===========================================
 Black ...
 ===========================================
 
-Start: 2022.01-29-14:47:28
+Start: 2022.01-29-15:58:29
 
 ### Compile black Blocklist ###
 
@@ -361,20 +331,19 @@ Stats black:
 -- White:           13732 (-1582)
 -- White(*):        13419 (-313)
 
-13419 unique Domains - Version 2022.0129.144728
-MD5 Domains RAW: 68b7cb393970430acc72d261c2502857
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Push black to local Repositories ...
-
-End: 2022.01-29-14:48:00
+End: 2022.01-29-15:59:01
 
 black - Done!
 
 Bereits aktuell.
-[master 95d8019] black auto-update
- 2 files changed, 13461 deletions(-)
- delete mode 100644 pihole/blocklists/build/black/out/black.domains
- delete mode 100644 pihole/blocklists/build/black/out/black.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
 Auf Branch main
@@ -392,7 +361,7 @@ nichts zu committen, Arbeitsverzeichnis unverändert
 Rules ...
 ===========================================
 
-Start: 2022.01-29-14:48:04
+Start: 2022.01-29-15:59:04
 
 ### Compile rules Blocklist ###
 
@@ -418,20 +387,19 @@ Stats rules:
 ** Source (raw):    553
 == Source (unique): 553 (-0)
 
-553 unique Domains - Version 2022.0129.144804
-MD5 Domains RAW: e9760d148028deeeae62ddb6abe0ab1b
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Push rules to local Repositories ...
-
-End: 2022.01-29-14:48:04
+End: 2022.01-29-15:59:05
 
 rules - Done!
 
 Bereits aktuell.
-[master 67cede1] rules auto-update
- 2 files changed, 581 deletions(-)
- delete mode 100644 pihole/blocklists/build/rules/out/rules.domains
- delete mode 100644 pihole/blocklists/build/rules/out/rules.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
 Auf Branch main
@@ -449,7 +417,7 @@ nichts zu committen, Arbeitsverzeichnis unverändert
 Threat Intelligence Feeds ...
 ===========================================
 
-Start: 2022.01-29-14:48:08
+Start: 2022.01-29-15:59:08
 
 ### Compile threat-intelligence Blocklist ###
 
@@ -481,46 +449,46 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |    3183 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
-   2 |     399 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
-   3 |    8458 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+   1 |    3183 | hosts   | http   | online  | unchanged | https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
+   2 |     399 | hosts   | http   | online  | unchanged | https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
+   3 |    8458 | hosts   | http   | online  | unchanged | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
    4 |    3496 | hosts   | http   | online  | unchanged | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
-   5 |   45139 | hosts   | http   | online  | changed   | https://hole.cert.pl/domains/domains_hosts.txt
+   5 |   45147 | hosts   | http   | online  | changed   | https://hole.cert.pl/domains/domains_hosts.txt
    6 |     550 | hosts   | http   | online  | unchanged | https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
-   7 |    6385 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+   7 |    6385 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
    8 |    2202 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
    9 |      57 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-  10 |     980 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-  11 |     951 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  10 |     980 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+  11 |     951 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
   12 |    8624 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
   13 |     696 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   14 |    4234 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
   15 |    1071 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
   16 |    1386 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
   17 |   13464 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-  18 |    3195 | hosts   | http   | online  | changed   | https://threatfox.abuse.ch/downloads/hostfile
-  19 |    1168 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  18 |    3196 | hosts   | http   | online  | changed   | https://threatfox.abuse.ch/downloads/hostfile
+  19 |    1157 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
   20 |     883 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
   21 |   11769 | domains | http   | online  | unchanged | https://airvpn.org/api/dns_lists/?code=air_cryptojacking&block=0.0.0.0&style=domains
-  22 |   55511 | domains | http   | online  | unchanged | https://airvpn.org/api/dns_lists/?code=air_malware&block=0.0.0.0&style=domains
-  23 |     932 | domains | http   | online  | changed   | https://azorult-tracker.net/api/list/domain?format=plain
+  22 |   55616 | domains | http   | online  | changed   | https://airvpn.org/api/dns_lists/?code=air_malware&block=0.0.0.0&style=domains
+  23 |     933 | domains | http   | online  | changed   | https://azorult-tracker.net/api/list/domain?format=plain
   24 |     898 | domains | http   | online  | unchanged | https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
   25 |    9313 | domains | http   | online  | unchanged | https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
   26 |     325 | domains | http   | online  | unchanged | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-  27 |   45139 | domains | http   | online  | changed   | https://hole.cert.pl/domains/domains.txt
-  28 |   74839 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl-base.txt
-  29 |     998 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl.txt
+  27 |   45147 | domains | http   | online  | changed   | https://hole.cert.pl/domains/domains.txt
+  28 |   74839 | domains | http   | online  | unchanged | https://joewein.net/dl/bl/dom-bl-base.txt
+  29 |     999 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl.txt
   30 |    2000 | domains | http   | online  | unchanged | https://kriskintel.com/feeds/ktip_covid_domains.txt
-  31 |    2000 | domains | http   | online  | changed   | https://kriskintel.com/feeds/ktip_malicious_domains.txt
+  31 |    2000 | domains | http   | online  | unchanged | https://kriskintel.com/feeds/ktip_malicious_domains.txt
   32 |     397 | domains | http   | online  | unchanged | https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
   33 |    2262 | domains | http   | online  | unchanged | https://orca.pet/notonmyshift/domains.txt
-  34 |     980 | domains | http   | online  | changed   | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-  35 |   53313 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist.txt
-  36 |   55615 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist_extended.txt
+  34 |     980 | domains | http   | online  | unchanged | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+  35 |   53313 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
+  36 |   55615 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist_extended.txt
   37 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
   38 |     323 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
   39 |      28 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
-  40 |   44952 | domains | http   | online  | changed   | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
+  40 |   44952 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
   41 |     697 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
   42 |   28941 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
   43 |     147 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
@@ -535,7 +503,7 @@ Initialize ...
   52 |    6987 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
   53 |    2100 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
   54 |   71282 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-  55 |     430 | domains | http   | online  | changed   | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
+  55 |     430 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
   56 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_5000_domain.txt
   57 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_germany.txt
   58 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.8_domains.txt
@@ -563,7 +531,7 @@ Initialize ...
   80 |     500 | domains | http   | online  | unchanged | https://rescure.me/rescure_domain_blacklist.txt
   81 |     549 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.domain.raw
   82 |     173 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.hostname.raw
-  83 |   36888 | domains | http   | online  | changed   | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  83 |   36888 | domains | http   | online  | unchanged | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
   84 |  112724 | domains | http   | OFFLINE | unchanged | USE LOCAL COPY: usom.gov.tr_url-list.txt
   85 |     635 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
@@ -571,14 +539,14 @@ Initialize ...
 
 Stats threat-intelligence:
 
-** Source (raw):    1220901
-== Source (unique): 892459 (-328442)
--- White:           890404 (-2055)
--- White(*):        869900 (-20504)
--- Dead:            364756 (-505144)
+** Source (raw):    1221014
+== Source (unique): 892035 (-328979)
+-- White:           889980 (-2055)
+-- White(*):        869476 (-20504)
+-- Dead:            364332 (-505144)
 
-364756 unique Domains - Version 2022.0129.144808
-MD5 Domains RAW: 9ff502a98d590441b5a15be401bb53a0
+364332 unique Domains - Version 2022.0129.155908
+MD5 Domains RAW: 210dad92f93d30737587457f6b16d704
 
 # Convert threat-intelligence to Hostlist ... 
 
@@ -601,10 +569,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling threat-intelligence.adblock.raw
-ℹ Original length is 342760
-ℹ Length after applying transformations is 342760
-ℹ The list was compressed from 342763 to 323370
-ℹ Final length of the list is 323376
+ℹ Original length is 342408
+ℹ Length after applying transformations is 342408
+ℹ The list was compressed from 342411 to 323030
+ℹ Final length of the list is 323036
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/threat-intelligence/out/threat-intelligence.adblock
 ℹ Finished compiling
 
@@ -612,31 +580,27 @@ Prepare domain list for compiling ... done.
 
 # Push threat-intelligence to local Repositories ...
 
-End: 2022.01-29-14:55:25
+End: 2022.01-29-16:06:20
 
 threat-intelligence - Done!
 
 Bereits aktuell.
-[master e8a7650] threat-intelligence auto-update
- 6 files changed, 1895 insertions(+), 1055365 deletions(-)
- delete mode 100644 pihole/blocklists/build/threat-intelligence/out/threat-intelligence.adblock
- delete mode 100644 pihole/blocklists/build/threat-intelligence/out/threat-intelligence.domains
- delete mode 100644 pihole/blocklists/build/threat-intelligence/out/threat-intelligence.hosts
- delete mode 100644 pihole/blocklists/build/threat-intelligence/out/threat-intelligence.stats
+[master 0db0c97] threat-intelligence auto-update
+ 2 files changed, 65 insertions(+), 489 deletions(-)
 
 Bereits aktuell.
-[main 893392c] threat-intelligence auto-update
- 2 files changed, 1895 insertions(+), 1906 deletions(-)
+[main 985b058] threat-intelligence auto-update
+ 2 files changed, 65 insertions(+), 489 deletions(-)
 
 Bereits aktuell.
-[main 1250324] threat-intelligence auto-update
- 2 files changed, 1574 insertions(+), 1580 deletions(-)
+[main 1fc650d] threat-intelligence auto-update
+ 2 files changed, 65 insertions(+), 405 deletions(-)
 
 ===========================================
 Personal ...
 ===========================================
 
-Start: 2022.01-29-14:55:41
+Start: 2022.01-29-16:06:33
 
 ### Compile personal Blocklist ###
 
@@ -692,66 +656,37 @@ Stats personal:
 ++ FLD:             14350 (+47)
 ++ WWW:             18110 (+3760)
 
-18110 unique Domains - Version 2022.0129.145541
-MD5 Domains RAW: 01f33dab24315ad8120620b71d5e0114
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert personal to Hostlist ... 
-
-# Convert personal to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "personal",
-    "sources": [
-        {
-            "source": "personal.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling personal.adblock.raw
-ℹ Original length is 14038
-ℹ Length after applying transformations is 14038
-ℹ The list was compressed from 14041 to 9523
-ℹ Final length of the list is 9529
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
-ℹ Finished compiling
-
-# Attach header to personal Domainlist ...
-
-# Push personal to local Repositories ...
-
-End: 2022.01-29-14:56:34
+End: 2022.01-29-16:07:21
 
 personal - Done!
 
 Bereits aktuell.
-[master ce656f0] personal auto-update
- 6 files changed, 4 insertions(+), 45958 deletions(-)
- delete mode 100644 pihole/blocklists/build/personal/out/personal.adblock
- delete mode 100644 pihole/blocklists/build/personal/out/personal.domains
- delete mode 100644 pihole/blocklists/build/personal/out/personal.hosts
- delete mode 100644 pihole/blocklists/build/personal/out/personal.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main e117365] personal auto-update
- 2 files changed, 4 insertions(+), 4 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 6f2b561] personal auto-update
- 2 files changed, 4 insertions(+), 4 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 ===========================================
 Fake ...
 ===========================================
 
-Start: 2022.01-29-14:56:40
+Start: 2022.01-29-16:07:24
 
 ### Compile fake Blocklist ###
 
@@ -803,66 +738,37 @@ Stats fake:
 ++ FLD:             20067 (+133)
 ++ WWW:             39141 (+19074)
 
-39141 unique Domains - Version 2022.0129.145640
-MD5 Domains RAW: ad5deb3e46e47de36a6dc30902e909f8
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert fake to Hostlist ... 
-
-# Convert fake to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "fake",
-    "sources": [
-        {
-            "source": "fake.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling fake.adblock.raw
-ℹ Original length is 19901
-ℹ Length after applying transformations is 19901
-ℹ The list was compressed from 19904 to 19884
-ℹ Final length of the list is 19890
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
-ℹ Finished compiling
-
-# Attach header to fake Domainlist ...
-
-# Push fake to local Repositories ...
-
-End: 2022.01-29-14:57:46
+End: 2022.01-29-16:08:26
 
 fake - Done!
 
 Bereits aktuell.
-[master 67015e0] fake auto-update
- 6 files changed, 4 insertions(+), 98377 deletions(-)
- delete mode 100644 pihole/blocklists/build/fake/out/fake.adblock
- delete mode 100644 pihole/blocklists/build/fake/out/fake.domains
- delete mode 100644 pihole/blocklists/build/fake/out/fake.hosts
- delete mode 100644 pihole/blocklists/build/fake/out/fake.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main a6a4a5c] fake auto-update
- 2 files changed, 4 insertions(+), 4 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main f83a0cf] fake auto-update
- 2 files changed, 4 insertions(+), 4 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 ===========================================
 Light ...
 ===========================================
 
-Start: 2022.01-29-14:57:53
+Start: 2022.01-29-16:08:29
 
 ### Compile light Blocklist ###
 
@@ -906,23 +812,23 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-   2 |   21534 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   2 |   21537 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
    3 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
    4 |   64614 | domains | http   | online  | unchanged | https://dbl.oisd.nl/basic/
    5 |    3678 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    6 |    1752 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    7 |     323 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
    8 |   10346 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
-   9 |    1167 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
-  10 |    3195 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-  11 |   43245 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   9 |    1157 | hosts   | http   | online  | unchanged | https://urlhaus.abuse.ch/downloads/hostfile/
+  10 |    3196 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
+  11 |   43245 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   12 |   21714 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-  13 |   19394 | adblock | http   | online  | changed   | https://easylist.to/easylist/easylist.txt
+  13 |   19394 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
   14 |   17154 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
   15 |    9330 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
   16 |     560 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
   17 |     102 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
-  18 |     138 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+  18 |     138 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
   19 |     839 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
   20 |      42 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
   21 |       5 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
@@ -932,20 +838,20 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    241925
-== Source (unique): 123390 (-118535)
--- Exclude:         123289 (-101)
--- White:           121684 (-1605)
--- White(*):        121368 (-316)
--- Dead:            111050 (-10318)
-++ Block:           111231 (+181)
--- Unblock:         111229 (-2)
--- Unblock(*):      111225 (-4)
-++ FLD:             111702 (+477)
-++ WWW:             155178 (+43476)
+** Source (raw):    241919
+== Source (unique): 123392 (-118527)
+-- Exclude:         123291 (-101)
+-- White:           121686 (-1605)
+-- White(*):        121370 (-316)
+-- Dead:            111052 (-10318)
+++ Block:           111233 (+181)
+-- Unblock:         111231 (-2)
+-- Unblock(*):      111227 (-4)
+++ FLD:             111704 (+477)
+++ WWW:             155183 (+43479)
 
-155178 unique Domains - Version 2022.0129.145753
-MD5 Domains RAW: bb864f5fb5c6d658367b04b9da88010e
+155183 unique Domains - Version 2022.0129.160829
+MD5 Domains RAW: 25ded3a4752d31cf29404f594df7341c
 
 # Convert light to Hostlist ... 
 
@@ -968,10 +874,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling light.adblock.raw
-ℹ Original length is 106378
-ℹ Length after applying transformations is 106378
-ℹ The list was compressed from 106381 to 87326
-ℹ Final length of the list is 87332
+ℹ Original length is 106380
+ℹ Length after applying transformations is 106380
+ℹ The list was compressed from 106383 to 87328
+ℹ Final length of the list is 87334
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
@@ -979,44 +885,38 @@ Prepare domain list for compiling ... done.
 
 # Push light to local Repositories ...
 
-End: 2022.01-29-15:00:01
+End: 2022.01-29-16:10:39
 
 light - Done!
 
 Bereits aktuell.
-[master 4d3c003] light auto-update
- 5 files changed, 152 insertions(+), 397941 deletions(-)
- delete mode 100644 pihole/blocklists/build/light/out/light.adblock
- delete mode 100644 pihole/blocklists/build/light/out/light.domains
- delete mode 100644 pihole/blocklists/build/light/out/light.hosts
- rename pihole/blocklists/{build/light/out => }/light.stats (73%)
- mode change 100644 => 100755
+[master d5cde9d] light auto-update
+ 2 files changed, 46 insertions(+), 41 deletions(-)
 
 Bereits aktuell.
-[main d794bb5] light auto-update
- 2 files changed, 152 insertions(+), 129 deletions(-)
+[main d2ce8f5] light auto-update
+ 2 files changed, 46 insertions(+), 41 deletions(-)
 
 Bereits aktuell.
-[main d75c591] light auto-update
- 2 files changed, 99 insertions(+), 90 deletions(-)
+[main ec4a052] light auto-update
+ 2 files changed, 39 insertions(+), 37 deletions(-)
 
 ===========================================
 Multi ...
 ===========================================
 
-Start: 2022.01-29-15:00:10
+Start: 2022.01-29-16:10:47
 
 ### Compile multi Blocklist ###
 
 Config:
 
-** Build - 6:
+** Build - 5:
 
    extendWWWFLD
    hosts
    adblock
    localpush
-   unique
    checkfordead
 
 ++ Prioritized Blocklists - 2:
@@ -1054,13 +954,13 @@ Initialize ...
    3 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
    4 |    1491 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
    5 |   14608 | domains | http   | online  | unchanged | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-   6 |   21534 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   6 |   21537 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
    7 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
    8 |      35 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
    9 |     382 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
   10 |     357 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/static/w3kbl.txt
   11 |   64614 | domains | http   | online  | unchanged | https://dbl.oisd.nl/basic/
-  12 |  260111 | domains | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+  12 |  260111 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   13 |   53313 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
   14 |   14039 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
   15 |    3678 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1072,18 +972,18 @@ Initialize ...
   21 |   10346 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
   22 |    8728 | hosts   | http   | online  | unchanged | https://winhelp2002.mvps.org/hosts.txt
   23 |     696 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-  24 |  160244 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-  25 |    1167 | hosts   | http   | online  | unchanged | https://urlhaus.abuse.ch/downloads/hostfile/
-  26 |    3195 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
+  24 |  160244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+  25 |    1157 | hosts   | http   | online  | unchanged | https://urlhaus.abuse.ch/downloads/hostfile/
+  26 |    3196 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
   27 |     361 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
   28 |   43245 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   29 |    1029 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-  30 |     773 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-  31 |    5833 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+  30 |     773 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+  31 |    5833 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
   32 |    4705 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
-  33 |    7947 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
-  34 |   23519 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
-  35 |   22252 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+  33 |    7947 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+  34 |   23519 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+  35 |   22252 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
   36 |      54 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
   37 |     407 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
   38 |     346 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -1093,7 +993,7 @@ Initialize ...
   42 |   21714 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
   43 |     127 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/Liste_AR.txt
   44 |    9799 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/advblock.txt
-  45 |    7669 | adblock | http   | online  | changed   | https://easylist-downloads.adblockplus.org/easylistchina.txt
+  45 |    7670 | adblock | http   | online  | changed   | https://easylist-downloads.adblockplus.org/easylistchina.txt
   46 |      26 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistdutch.txt
   47 |     367 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistgermany.txt
   48 |     215 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistitaly.txt
@@ -1102,7 +1002,7 @@ Initialize ...
   51 |     600 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistspanish.txt
   52 |      20 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/indianlist.txt
   53 |      25 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/koreanlist.txt
-  54 |    5825 | adblock | http   | online  | changed   | https://easylist-downloads.adblockplus.org/liste_fr.txt
+  54 |    5825 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/liste_fr.txt
   55 |   19394 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
   56 |   17154 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
   57 |      55 | adblock | http   | online  | unchanged | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
@@ -1130,20 +1030,20 @@ Initialize ...
 
 Stats multi:
 
-** Source (raw):    911777
-== Source (unique): 432153 (-479624)
--- Exclude:         428461 (-3692)
--- White:           425338 (-3123)
--- White(*):        423130 (-2208)
--- Dead:            333800 (-89330)
-++ Block:           333981 (+181)
--- Unblock:         333977 (-4)
--- Unblock(*):      333973 (-4)
-++ FLD:             334164 (+191)
-++ WWW:             490811 (+156647)
+** Source (raw):    911772
+== Source (unique): 432155 (-479617)
+-- Exclude:         428463 (-3692)
+-- White:           425340 (-3123)
+-- White(*):        423132 (-2208)
+-- Dead:            333802 (-89330)
+++ Block:           333983 (+181)
+-- Unblock:         333979 (-4)
+-- Unblock(*):      333975 (-4)
+++ FLD:             334166 (+191)
+++ WWW:             490817 (+156651)
 
-490811 unique Domains - Version 2022.0129.150010
-MD5 Domains RAW: 27271fc938eda425b8538134723abaf7
+490817 unique Domains - Version 2022.0129.161047
+MD5 Domains RAW: 7283456daf14b18a6ea585fb9d966624
 
 # Convert multi to Hostlist ... 
 
@@ -1166,10 +1066,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling multi.adblock.raw
-ℹ Original length is 319900
-ℹ Length after applying transformations is 319900
-ℹ The list was compressed from 319903 to 280006
-ℹ Final length of the list is 280012
+ℹ Original length is 319902
+ℹ Length after applying transformations is 319902
+ℹ The list was compressed from 319905 to 280008
+ℹ Final length of the list is 280014
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/multi/out/multi.adblock
 ℹ Finished compiling
 
@@ -1177,31 +1077,30 @@ Prepare domain list for compiling ... done.
 
 # Push multi to local Repositories ...
 
-End: 2022.01-29-15:05:23
+End: 2022.01-29-16:16:03
 
 multi - Done!
 
-Bereits aktuell.
-[master c26983b] multi auto-update
- 7 files changed, 2991 insertions(+), 1269333 deletions(-)
- delete mode 100644 pihole/blocklists/build/multi/out/multi.adblock
- delete mode 100644 pihole/blocklists/build/multi/out/multi.domains
- delete mode 100644 pihole/blocklists/build/multi/out/multi.hosts
- delete mode 100644 pihole/blocklists/build/multi/out/multi.stats
+Aktualisiere d5cde9d..23b5941
+Fast-forward
+ unbound/installUnbound.sh | 5 +++++
+ 1 file changed, 5 insertions(+)
+[master 334ad1a] multi auto-update
+ 2 files changed, 58 insertions(+), 53 deletions(-)
 
 Bereits aktuell.
-[main b7db404] multi auto-update
- 2 files changed, 1690 insertions(+), 2035 deletions(-)
+[main ee5e241] multi auto-update
+ 2 files changed, 58 insertions(+), 53 deletions(-)
 
 Bereits aktuell.
-[main ce12e60] multi auto-update
- 2 files changed, 979 insertions(+), 1234 deletions(-)
+[main 532509a] multi auto-update
+ 2 files changed, 51 insertions(+), 50 deletions(-)
 
 ===========================================
 Affiliate & Tracking ...
 ===========================================
 
-Start: 2022.01-29-15:05:45
+Start: 2022.01-29-16:16:18
 
 ### Compile affiliatetracking Blocklist ###
 
@@ -1251,66 +1150,37 @@ Stats affiliatetracking:
 ++ FLD:             105887 (+1250)
 ++ WWW:             113344 (+7457)
 
-113344 unique Domains - Version 2022.0129.150545
-MD5 Domains RAW: 22af3dbd5086563bdd478cc268fed2dd
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert affiliatetracking to Hostlist ... 
-
-# Convert affiliatetracking to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "affiliatetracking",
-    "sources": [
-        {
-            "source": "affiliatetracking.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 84682
-ℹ Length after applying transformations is 84682
-ℹ The list was compressed from 84685 to 71471
-ℹ Final length of the list is 71477
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
-ℹ Finished compiling
-
-# Attach header to affiliatetracking Domainlist ...
-
-# Push affiliatetracking to local Repositories ...
-
-End: 2022.01-29-15:06:32
+End: 2022.01-29-16:16:51
 
 affiliatetracking - Done!
 
 Bereits aktuell.
-[master ba5a835] affiliatetracking auto-update
- 6 files changed, 14 insertions(+), 298542 deletions(-)
- delete mode 100644 pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
- delete mode 100644 pihole/blocklists/build/affiliatetracking/out/affiliatetracking.domains
- delete mode 100644 pihole/blocklists/build/affiliatetracking/out/affiliatetracking.hosts
- delete mode 100644 pihole/blocklists/build/affiliatetracking/out/affiliatetracking.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 987bf48] affiliatetracking auto-update
- 2 files changed, 14 insertions(+), 50 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main ab1f29f] affiliatetracking auto-update
- 2 files changed, 14 insertions(+), 50 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 ===========================================
 Big ...
 ===========================================
 
-Start: 2022.01-29-15:06:40
+Start: 2022.01-29-16:16:54
 
 ### Compile big Blocklist ###
 
@@ -1337,7 +1207,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  490811 | domains | local  | online  | changed   | multi.txt
+   1 |  490817 | domains | local  | online  | changed   | multi.txt
    2 |   39141 | domains | local  | online  | unchanged | fake.txt
    3 | 1128569 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
@@ -1345,16 +1215,16 @@ Initialize ...
 
 Stats big:
 
-** Source (raw):    1658521
-== Source (unique): 1401011 (-257510)
--- Dead:            1398518 (-2493)
--- Unblock:         1398517 (-1)
--- Unblock(*):      1398517 (-0)
-++ FLD:             1399584 (+1067)
-++ WWW:             1408786 (+9202)
+** Source (raw):    1658527
+== Source (unique): 1401023 (-257504)
+-- Dead:            1398530 (-2493)
+-- Unblock:         1398529 (-1)
+-- Unblock(*):      1398529 (-0)
+++ FLD:             1399596 (+1067)
+++ WWW:             1408798 (+9202)
 
-1408786 unique Domains - Version 2022.0129.150640
-MD5 Domains RAW: e952e0057b7078dc2b5b5eca2eaad5f4
+1408798 unique Domains - Version 2022.0129.161654
+MD5 Domains RAW: b2d0d8add9295936359ead9b4084ac6b
 
 # Convert big to Hostlist ... 
 
@@ -1377,10 +1247,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 1062998
-ℹ Length after applying transformations is 1062998
-ℹ The list was compressed from 1063001 to 493662
-ℹ Final length of the list is 493668
+ℹ Original length is 1063004
+ℹ Length after applying transformations is 1063004
+ℹ The list was compressed from 1063007 to 493668
+ℹ Final length of the list is 493674
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
@@ -1388,32 +1258,27 @@ Prepare domain list for compiling ... done.
 
 # Push big to local Repositories ...
 
-End: 2022.01-29-15:26:23
+End: 2022.01-29-16:36:29
 
 big - Done!
 
 Bereits aktuell.
-[master 7bbc002] big auto-update
- 6 files changed, 801 insertions(+), 3314702 deletions(-)
- rename pihole/blocklists/{build/big/out => }/big.stats (58%)
- mode change 100644 => 100755
- delete mode 100644 pihole/blocklists/build/big/out/big.adblock
- delete mode 100644 pihole/blocklists/build/big/out/big.domains
- delete mode 100644 pihole/blocklists/build/big/out/big.hosts
+[master 73199a6] big auto-update
+ 2 files changed, 28 insertions(+), 16 deletions(-)
 
 Bereits aktuell.
-[main 28b6255] big auto-update
- 2 files changed, 800 insertions(+), 1515 deletions(-)
+[main fa6f233] big auto-update
+ 2 files changed, 28 insertions(+), 16 deletions(-)
 
 Bereits aktuell.
-[main c7f72ed] big auto-update
- 2 files changed, 488 insertions(+), 875 deletions(-)
+[main 56cc407] big auto-update
+ 2 files changed, 22 insertions(+), 16 deletions(-)
 
 ===========================================
 Kees1958 ...
 ===========================================
 
-Start: 2022.01-29-15:26:58
+Start: 2022.01-29-16:37:01
 
 ### Compile kees1958 Blocklist ###
 
@@ -1444,29 +1309,25 @@ Stats kees1958:
 == Source (unique): 4860 (-1962)
 -- White:           4860 (-0)
 
-4860 unique Domains - Version 2022.0129.152658
-MD5 Domains RAW: f5b70594529ecf32e55d22e3f89dfec2
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert kees1958 to Hostlist ... 
-
-# Attach header to kees1958 Domainlist ...
-
-# Push kees1958 to local Repositories ...
-
-End: 2022.01-29-15:27:00
+End: 2022.01-29-16:37:02
 
 kees1958 - Done!
 
 Bereits aktuell.
-[master 4768a9f] kees1958 auto-update
- 5 files changed, 2 insertions(+), 9771 deletions(-)
- delete mode 100644 pihole/blocklists/build/kees1958/out/kees1958.domains
- delete mode 100644 pihole/blocklists/build/kees1958/out/kees1958.hosts
- delete mode 100644 pihole/blocklists/build/kees1958/out/kees1958.stats
+Auf Branch master
+Ihr Branch ist auf demselben Stand wie 'origin/master'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
-[main 4c6d6e0] kees1958 auto-update
- 2 files changed, 2 insertions(+), 2 deletions(-)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+nichts zu committen, Arbeitsverzeichnis unverändert
 
 Bereits aktuell.
 Auf Branch main
@@ -1568,7 +1429,7 @@ nichts zu committen, Arbeitsverzeichnis unverändert
 Extra ...
 ===========================================
 
-Start: 2022.01-29-15:27:28
+Start: 2022.01-29-16:37:30
 
 ### Compile extra Blocklist ###
 
@@ -1630,45 +1491,17 @@ Stats extra:
 ++ FLD:             66879 (+0)
 ++ WWW:             78632 (+11753)
 
-78632 unique Domains - Version 2022.0129.152728
-MD5 Domains RAW: 9d831ad65bca2dd592ae7c90df2ff814
+*****************************************************
+* No changes to the previous repo version detected! *
+*****************************************************
 
-# Convert extra to Hostlist ... 
-
-# Convert extra to AdBlocklist ...
-
-Prepare domain list for compiling ... done.
-
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "extra",
-    "sources": [
-        {
-            "source": "extra.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling extra.adblock.raw
-ℹ Original length is 66877
-ℹ Length after applying transformations is 66877
-ℹ The list was compressed from 66880 to 66792
-ℹ Final length of the list is 66798
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/extra/out/extra.adblock
-ℹ Finished compiling
-
-End: 2022.01-29-15:29:42
+End: 2022.01-29-16:39:34
 
 extra - Done!
 
 Bereits aktuell.
-[master aea21a5] extra auto-update
- 6 files changed, 17 insertions(+), 432170 deletions(-)
- delete mode 100644 pihole/blocklists/build/multi/out/multi.domains.unique
+[master 2e49eb8] extra auto-update
+ 1 file changed, 3 insertions(+), 30 deletions(-)
 
 Bereits aktuell.
 Auf Branch main
@@ -1687,7 +1520,7 @@ nichts zu committen, Arbeitsverzeichnis unverändert
 Experimental ...
 ===========================================
 
-Start: 2022.01-29-15:29:49
+Start: 2022.01-29-16:39:40
 
 ### Compile experimental Blocklist ###
 
@@ -1712,9 +1545,9 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 | 1408786 | domains | local  | online  | changed   | big.txt
-   2 |  113344 | domains | local  | online  | changed   | affiliatetracking.txt
-   3 |  364756 | domains | local  | online  | changed   | threat-intelligence.txt
+   1 | 1408798 | domains | local  | online  | changed   | big.txt
+   2 |  113344 | domains | local  | online  | unchanged | affiliatetracking.txt
+   3 |  364332 | domains | local  | online  | changed   | threat-intelligence.txt
    4 |     863 | domains | http   | online  | unchanged | https://dbl.oisd.nl/extra
    5 |  260111 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
    6 |  160244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
@@ -1724,14 +1557,14 @@ Initialize ...
 
 Stats experimental:
 
-** Source (raw):    2351349
-== Source (unique): 1578183 (-773166)
--- Dead:            1538245 (-39938)
--- Unblock:         1538242 (-3)
--- Unblock(*):      1538242 (-0)
+** Source (raw):    2350937
+== Source (unique): 1578128 (-772809)
+-- Dead:            1538190 (-39938)
+-- Unblock:         1538187 (-3)
+-- Unblock(*):      1538187 (-0)
 
-1538242 unique Domains - Version 2022.0129.152949
-MD5 Domains RAW: b85cc7b31036ec023ed7805b893014ce
+1538187 unique Domains - Version 2022.0129.163940
+MD5 Domains RAW: b67207752df74af842e2d75e428499a3
 
 # Convert experimental to Hostlist ... 
 
@@ -1754,30 +1587,22 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling experimental.adblock.raw
-ℹ Original length is 1185607
-ℹ Length after applying transformations is 1185607
-ℹ The list was compressed from 1185610 to 585399
-ℹ Final length of the list is 585405
+ℹ Original length is 1185578
+ℹ Length after applying transformations is 1185578
+ℹ The list was compressed from 1185581 to 585375
+ℹ Final length of the list is 585381
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/experimental/out/experimental.adblock
 ℹ Finished compiling
 
 # Attach header to experimental Domainlist ...
 
-End: 2022.01-29-15:52:17
+End: 2022.01-29-17:02:10
 
 experimental - Done!
 
 Bereits aktuell.
-[master 7bb495b] experimental auto-update
- 12 files changed, 5877 insertions(+), 9705 deletions(-)
- delete mode 100755 pihole/blocklists/build/big/old/big.config.prioblocklists
- delete mode 100755 pihole/blocklists/build/big/old/big.config.unblocklists
- delete mode 100755 pihole/blocklists/build/big/old/big.config.whitelists
- delete mode 100644 pihole/blocklists/build/black/old/black.white
- delete mode 100644 pihole/blocklists/build/experimental/old/experimental.block
- delete mode 100755 pihole/blocklists/build/experimental/old/experimental.config.prioblocklists
- delete mode 100755 pihole/blocklists/build/experimental/old/experimental.config.unblocklists
- delete mode 100755 pihole/blocklists/build/experimental/old/experimental.config.whitelists
+[master 865a87a] experimental auto-update
+ 4 files changed, 82 insertions(+), 216 deletions(-)
 
 Bereits aktuell.
 Auf Branch main
