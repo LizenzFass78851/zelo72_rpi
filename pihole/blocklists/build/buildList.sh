@@ -647,6 +647,10 @@ echo ""
         echo "* No changes to the previous repo version detected! *"
         echo "*****************************************************"
         echo ""
+        # Cleanup build out dir ...
+        if inConfig "localpush"; then
+            rm -f "$domains" "$hosts" "$adblock" "$stats"
+        fi
         exit 0
     fi
     getMd5 "$domains" >"$outdir"/md5.old
@@ -763,12 +767,17 @@ echo ""
     fi
 ) | tee "$stats"
 
+# Cleanup build out dir if pushed
+if inConfig "localpush"; then
+    rm -f "$domains" "$hosts" "$adblock" "$stats"
+fi
+
 echo "End: $(date +'%Y.%m-%d-%H:%M:%S')"
 echo ""
 
 # Cleanup
 rm -f "$header.ext"
-sortList $builddir/sourcefiles.txt
+#sortList $builddir/sourcefiles.txt
 
 echo "$name - Done!"
 echo ""
