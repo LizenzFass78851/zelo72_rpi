@@ -29,7 +29,7 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   14267 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   14267 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      47 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
    6 |    6939 | domains | local  | online  | unchanged | black.list.fake
@@ -48,7 +48,7 @@ Stats fake:
 ++ FLD:             20067 (+133)
 ++ WWW:             39141 (+19074)
 
-39141 unique Domains - Version 2022.0129.041125
+39141 unique Domains - Version 2022.0129.145640
 MD5 Domains RAW: ad5deb3e46e47de36a6dc30902e909f8
 
 # Convert fake to Hostlist ... 
